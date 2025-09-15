@@ -1,0 +1,90 @@
+--LÕc Dß½ng
+--ÖÖÖ²ÅÆ34
+
+--½Å±¾ºÅ
+x714054_g_ScriptId = 714054
+
+event_xuanzezhiwu = 713550
+
+--Ö²Îï²úÆ·±àºÅÁÐ±í
+x714054_g_eventList={20104001,20104003,20104004,20104006,20104010,20104011,
+			20105001,20105002,20105005,20105008,20105011} --Ö²ÎïtoÕ ðµ ±àºÅ,²»ÐúngscriptId
+--**********************************
+--ÊÂ¼þ½»»¥Èë¿Ú
+--**********************************
+function x714054_OnDefaultEvent( sceneId, selfId,targetId )
+	--PLANTFLAG[1] =0
+	--PLANTFLAG[2] =0
+	AbilityLevel = QueryHumanAbilityLevel( sceneId, selfId, ABILITY_ZHONGZHI)
+	--Èç¹ûÍæ¼Ò²»»áÖÖÖ²¼¼ÄÜ
+	if AbilityLevel == 0	then
+		BeginEvent(sceneId)
+			AddText(sceneId, "Các hÕ nên h÷c kÛ nång tr°ng tr÷t trß¾c")
+		EndEvent(sceneId)
+		DispatchEventList(sceneId, selfId, targetId)
+		return
+	end
+	--Èç¹ûÍæ¼mµt áÖÖÖ²¼¼ÄÜ
+	if AbilityLevel ~= 0	then
+		BeginEvent(sceneId)
+			AddText(sceneId, "Xin ch÷n loÕi v§t tr°ng")
+			--Í¨¹ýx714054_g_eventListºÍscriptglobalÖÐtoÕ ðµ Ö²ÎïÁÐ±í¶Ô±È,²¢¸ù¾ÝÍæ¼ÒÖÖÖ²¼¼ÄÜµÈc¤pÀ´ÏÔÊ¾ÏàÓ¦Ö²Îï
+			for i, scriptId in x714054_g_eventList do	--±éÀúCái này µ¾²ÝÈË¿ÉÒÔÖÖÖ²toÕ ðµ Ö²ÎïÁÐ±í
+				for j,g_ZhiWuId in V_ZHONGZHI_ID do		--±éÀúscriptglobalÖÐtoÕ ðµ ËùÓÐÖ²ÎïÁÐ±í
+					if scriptId == g_ZhiWuId then
+						if AbilityLevel >= V_ZHONGZHI_NEEDLEVEL[j] then --Èç¹ûÍæ¼ÒÖÖÖ²¼¼ÄÜµÈc¤p>=¸ÃÖ²ÎïÒªÇó¼¼ÄÜµÈc¤p]
+							AddNumText(sceneId, x714054_g_eventList[i], V_ZHONGZHI_NAME[j],6,-1)
+							break
+						end
+					end
+				end
+			end
+		EndEvent(sceneId)
+		DispatchEventList(sceneId,selfId,targetId)
+	end
+end
+
+--**********************************
+--ÊÂ¼þÁÐ±íÑ¡ÖÐmµt Ïî
+--**********************************
+function x714054_OnEventRequest( sceneId, selfId, targetId, scriptId )
+	zhiwuId = scriptId
+	for i, findId in x714054_g_eventList do
+		if zhiwuId == findId then
+			CallScriptFunction( 713550, "OnDefaultEvent",sceneId, selfId, targetId, zhiwuId )
+			return
+		end
+	end
+end
+
+--**********************************
+--Tiªp thø´ËNPCtoÕ ðµ ÈÎÎñ(ÔÝÊ±½èÓÃÈÎÎñ½Ó¿Ú)
+--**********************************
+function x714054_OnMissionSubmit( sceneId, selfId, targetId, scriptId )
+	for i, findId in x714054_g_eventList do
+		if scriptId == findId then
+			ret = CallScriptFunction( scriptId, "CheckAccept", sceneId, selfId )
+			if ret > 0 then
+				CallScriptFunction( scriptId, "OnAccept", sceneId, selfId, ABILITY_ZHONGZHI )
+				CallScriptFunction( scriptId, "OnDefaultEvent",sceneId, selfId, targetId, ABILITY_ZHONGZHI )
+			end
+			return
+		end
+	end
+end
+
+--**********************************
+--Tiªp thø´ËNPCtoÕ ðµ ÈÎÎñ
+--**********************************
+function x714054_OnMissionAccept( sceneId, selfId, targetId, missionScriptId )
+	for i, findId in x714054_g_eventList do
+		if missionScriptId == findId then
+			ret = CallScriptFunction( missionScriptId, "CheckAccept", sceneId, selfId )
+			if ret > 0 then
+				CallScriptFunction( missionScriptId, "OnAccept", sceneId, selfId, ABILITY_ZHONGZHI )	
+			end
+			return
+		end
+	end
+end
+

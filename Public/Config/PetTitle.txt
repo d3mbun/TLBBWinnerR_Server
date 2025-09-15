@@ -1,0 +1,151 @@
+INT	INT	INT	INT	STRING	INT	STRING	STRING
+ID(µÝÔö)	CLASS	LEVEL	²ÛÎ»£¨Î´ÊµÏÖ£©	³ÆºÅ£¨ÏÞ³¤20¸öCHAR£©$1$	ÓÐÐ§ÆÚ£¨Ð¡Ê±£¬Î´ÊµÏÖ£©	COLOR	ÃèÊö$1$
+100001	3	100	-1	Linh Thú	-1	#e195e1a#c72d27c	#YTß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100002	3	200	-1	Thánh thú	-1	#e195e1a#c72d27c	#YTß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100003	3	300	-1	Tiên thú	-1	#e195e1a#c72d27c	#YTß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100004	3	400	-1	Th¥n thú	-1	#ebb3e9f#cfd94b0	#YTß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100010	3	111	-1	Ð¸a thú	-1	#e195e1a#c72d27c	#YTrß·ng thành #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100011	3	211	-1	Ð¸a linh thú	-1	#e195e1a#c72d27c	#YTrß·ng thành, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100012	3	311	-1	Ð¸a thánh thú	-1	#e195e1a#c72d27c	#YTrß·ng thành #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100013	3	411	-1	Ð¸a tiên thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100014	3	511	-1	Ð¸a th¥n thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100020	3	222	-1	Thiên thú	-1	#e195e1a#c72d27c	#YTrß·ng thành #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100021	3	322	-1	Thiên linh thú	-1	#e195e1a#c72d27c	#YTrß·ng thành #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100022	3	422	-1	Thiên thánh thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100023	3	522	-1	Thiên tiên thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100024	3	622	-1	Thiên th¥n thú	-1	#e96491f#gFF0FA0	#YTrß·ng thành #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100030	3	333	-1	Nguyên thú	-1	#e195e1a#c72d27c	#YTrß·ng thành #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100031	3	433	-1	Nguyên linh thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành #GThiên HÕ Vô Song#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100032	3	533	-1	Nguyên thánh thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành #GThiên HÕ Vô Song#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100033	3	633	-1	Nguyên tiên thú	-1	#e96491f#gFF0FA0	#YTrß·ng thành, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100034	3	733	-1	Nguyên th¥n thú	-1	#e96491f#gFF0FA0	#YTrß·ng thành #GThiên HÕ Vô Song#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100040	3	444	-1	Siêu thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100041	3	544	-1	Siêu linh thú	-1	#ebb3e9f#cfd94b0	#YTrß·ng thành #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100042	3	644	-1	Siêu thánh thú	-1	#e96491f#gFF0FA0	#YTrß·ng thành #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100043	3	744	-1	Siêu tiên thú	-1	#e96491f#gFF0FA0	#YTrß·ng thành #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100044	3	844	-1	Siêu th¥n thú	-1	#e96491f#gFF0FA0	#YTrß·ng thành, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100100	3	210	-1	Trß¶ng sinh thú	-1	#e195e1a#c72d27c	#YNgµ tính #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100101	3	310	-1	Trß¶ng sinh linh thú	-1	#e195e1a#c72d27c	#YNgµ tính, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100102	3	410	-1	Trß¶ng sinh thánh thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100103	3	510	-1	Trß¶ng sinh tiên thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100104	3	610	-1	Trß¶ng sinh th¥n thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100110	3	321	-1	Trß¶ng sinh ð¸a thú	-1	#e195e1a#c72d27c	#YNgµ tính, Trß·ng thành #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100111	3	421	-1	Trß¶ng sinh ð¸a linh thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính, Trß·ng thành, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100112	3	521	-1	Trß¶ng sinh ð¸a thánh thú	-1	#ebb3e9f#cfd94b0	#YTrân thú có ngµ tính, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100113	3	621	-1	Trß¶ng sinh ð¸a tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100114	3	721	-1	Trß¶ng sinh th¥n tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100120	3	432	-1	Trß¶ng sinh thiên thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính #GTrác Nhî B¤t Qu¥n#Y, Trß·ng thành #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100121	3	532	-1	Trß¶ng sinh thiên linh thú	-1	#ebb3e9f#cfd94b0	#YTrân thú có ngµ tính, tß ch¤t#GMÕnh M¨#Y, trß·ng thành#GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100122	3	632	-1	Trß¶ng sinh thiên thánh thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100123	3	732	-1	Trß¶ng sinh thiên tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành#GSiêu Phàm#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100124	3	832	-1	Trß¶ng sinh thiên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành#GSiêu Phàm#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100130	3	543	-1	Trß¶ng sinh nguyên thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính #GTrác Nhî B¤t Qu¥n#Y, Trß·ng thành #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100131	3	643	-1	Trß¶ng sinh nguyên linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t#GMÕnh M¨#Y, trß·ng thành #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100132	3	743	-1	Trß¶ng sinh nguyên thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành #GVô Song#Y, tß ch¤t #GSiêu Phàm#Ym¾i ðÕt ðßþc danh hi®u này.
+100133	3	843	-1	Trß¶ng sinh nguyên tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100134	3	943	-1	Trß¶ng sinh nguyên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành#GVô Song#Y, tß ch¤t #GKinh Thiên#Ym¾i ðÕt ðßþc danh hi®u này.
+100140	3	654	-1	Trß¶ng sinh siêu thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GTrác Nhî B¤t Qu¥n#Y, Trß·ng thành #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100141	3	754	-1	Trß¶ng sinh siêu linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t#GMÕnh M¨#Y, trß·ng thành #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100142	3	854	-1	Trß¶ng sinh siêu thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GSiêu Phàm#Ym¾i ðÕt ðßþc danh hi®u này.
+100143	3	954	-1	Trß¶ng sinh siêu tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100144	3	1054	-1	Trß¶ng sinh siêu th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GMÕnh M¨#Y, trß·ng thành, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100200	3	420	-1	Thiên niên thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100201	3	520	-1	Thiên niên linh thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100202	3	620	-1	Thiên niên thánh thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100203	3	720	-1	Thiên niên tiên thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100204	3	820	-1	Thiên niên th¥n thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100210	3	531	-1	Thiên niên ð¸a thú	-1	#ebb3e9f#cfd94b0	#YNgµ tính #GSiêu Phàm Thoát Tøc#Y, Trß·ng thành #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100211	3	631	-1	Thiên niên ð¸a linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100212	3	731	-1	Thiên niên ð¸a thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính , tß ch¤t #GSiêu Phàm#Y, trß·ng thành #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100213	3	831	-1	Thiên niên ð¸a tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành#GMÕnh M¨#Y, tß ch¤t #GVô Song#Ym¾i ðÕt ðßþc danh hi®u này.
+100214	3	931	-1	Thiên niên ð¸a th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100220	3	642	-1	Thiên niên thiên thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Trß·ng thành #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100221	3	742	-1	Thiên niên thiên linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính , trß·ng thành #GSiêu Phàm#Y, tß ch¤t #GMÕnh M¨#Ym¾i ðÕt ðßþc danh hi®u này.
+100222	3	842	-1	Thiên niên thiên thánh thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Trß·ng thành, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100223	3	942	-1	Thiên niên thiên tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính , trß·ng thành #GSiêu Phàm#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100224	3	1042	-1	Thiên niên thiên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính , trß·ng thành #GSiêu Phàm#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100230	3	753	-1	Thiên niên nguyên thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GSiêu Phàm Thoát Tøc#Y, Trß·ng thành #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100231	3	853	-1	Thiên niên nguyên linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành #GVô Song#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100232	3	953	-1	Thiên niên nguyên thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính , tß ch¤t #GSiêu Phàm#Y, trß·ng thành#GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100233	3	1053	-1	Thiên niên nguyên tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100234	3	1153	-1	Thiên niên nguyên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành #GVô Song#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100240	3	864	-1	Thiên niên siêu thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GSiêu Phàm Thoát Tøc#Y, Trß·ng thành #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100241	3	964	-1	Thiên niên siêu linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100242	3	1064	-1	Thiên niên siêu thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính , tß ch¤t #GSiêu Phàm#Y, trß·ng thành #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100243	3	1164	-1	Thiên niên siêu tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100244	3	1264	-1	Thiên niên siêu th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GSiêu Phàm#Y, trß·ng thành, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100300	3	630	-1	CØu chuy¬n thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100301	3	730	-1	CØu chuy¬n linh thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GThiên HÕ Vô Song#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100302	3	830	-1	CØu chuy¬n thánh thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GThiên HÕ Vô Song#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100303	3	930	-1	CØu chuy¬n tiên thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100304	3	1030	-1	CØu chuy¬n th¥n thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GThiên HÕ Vô Song#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100310	3	741	-1	CØu chuy¬n ð¸a thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GThiên HÕ Vô Song#Y, Trß·ng thành #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100311	3	841	-1	CØu chuy¬n ð¸a linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100312	3	941	-1	CØu chuy¬n ð¸a thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GSiêu Phàm#Ym¾i ðÕt ðßþc danh hi®u này.
+100313	3	1041	-1	CØu chuy¬n ð¸a tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t #GVô Song#Y, trß·ng thành #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100314	3	1141	-1	CØu chuy¬n ð¸a th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100320	3	852	-1	CØu chuy¬n thiên thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GThiên HÕ Vô Song#Y, Trß·ng thành #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100321	3	952	-1	CØu chuy¬n thiên linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành #GSiêu Phàm#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100322	3	1052	-1	CØu chuy¬n thiên thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100323	3	1152	-1	CØu chuy¬n thiên tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t#GVô Song#Y, trß·ng thành #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100324	3	1252	-1	CØu chuy¬n thiên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành #GSiêu Phàm#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100330	3	963	-1	CØu chuy¬n nguyên thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Trß·ng thành #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100331	3	1063	-1	CØu chuy¬n nguyên linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GVô Song#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100332	3	1163	-1	CØu chuy¬n nguyên thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GVô Song#Y, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100333	3	1263	-1	CØu chuy¬n nguyên tiên thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Trß·ng thành, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100334	3	1363	-1	CØu chuy¬n nguyên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GVô Song#Y, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100340	3	1074	-1	CØu chuy¬n siêu thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GThiên HÕ Vô Song#Y, Trß·ng thành #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100341	3	1174	-1	CØu chuy¬n siêu linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100342	3	1274	-1	CØu chuy¬n siêu thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100343	3	1374	-1	CØu chuy¬n siêu tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t#GVô Song#Y, trß·ng thành #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100344	3	1474	-1	CØu chuy¬n siêu th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GVô Song#Y, trß·ng thành, tß ch¤t #GKinh Thiên #Ym¾i ðÕt ðßþc danh hi®u này.
+100400	3	840	-1	H²n nguyên thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100401	3	940	-1	H²n nguyên linh thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100402	3	1040	-1	H²n nguyên thánh thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100403	3	1140	-1	H²n nguyên tiên thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100404	3	1240	-1	H²n nguyên th¥n thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100410	3	951	-1	H²n nguyên ð¸a thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GCh¤n C± Thß¾c Kim#Y, Trß·ng thành #GTrác Nhî B¤t Qu¥n #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100411	3	1051	-1	H²n nguyên ð¸a linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100412	3	1151	-1	H²n nguyên ð¸a thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100413	3	1251	-1	H²n nguyên ð¸a tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành #GMÕnh M¨#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100414	3	1351	-1	H²n nguyên ð¸a th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t#GKinh Thiên#Y, trß·ng thành #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100420	3	1062	-1	H²n nguyên thiên thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GCh¤n C± Thß¾c Kim#Y, Trß·ng thành #GSiêu Phàm Thoát Tøc #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100421	3	1162	-1	H²n nguyên thiên linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành #GSiêu Phàm#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100422	3	1262	-1	H²n nguyên thiên thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100423	3	1362	-1	H²n nguyên thiên tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành #GSiêu Phàm#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100424	3	1462	-1	H²n nguyên thiên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t #GKinh Thiên#Y, trß·ng thành #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100430	3	1173	-1	H²n nguyên nguyên thú	-1	#e96491f#gFF0FA0	#YNgµ tính #GCh¤n C± Thß¾c Kim#Y, Trß·ng thành #GThiên HÕ Vô Song #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100431	3	1273	-1	H²n nguyên nguyên linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành#GVô Song#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100432	3	1373	-1	H²n nguyên nguyên thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành #GVô Song#Y, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100433	3	1473	-1	H²n nguyên nguyên tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính #GKinh Thiên#Y, trß·ng thành, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100434	3	1573	-1	H²n nguyên nguyên th¥n thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, tß ch¤t #GKinh Thiên#Y, trß·ng thành #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100440	3	1284	-1	H²n nguyên siêu thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Trß¶ng thành #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100441	3	1384	-1	H²n nguyên siêu linh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GMÕnh M¨ #Ym¾i ðÕt ðßþc danh hi®u này.
+100442	3	1484	-1	H²n nguyên siêu thánh thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GSiêu Phàm #Ym¾i ðÕt ðßþc danh hi®u này.
+100443	3	1584	-1	H²n nguyên siêu tiên thú	-1	#e96491f#gFF0FA0	#YTrân thú có ngµ tính, trß·ng thành #GKinh Thiên#Y, tß ch¤t #GVô Song #Ym¾i ðÕt ðßþc danh hi®u này.
+100444	3	1684	-1	H²n nguyên siêu th¥n thú	-1	#e96491f#gFF0FA0	#YNgµ tính, Trß¶ng thành, Tß ch¤t #GCh¤n C± Thß¾c Kim #Ythì trân thú ðó m¾i có th¬ nh§n ðßþc danh hi®u này.
+100500	3	1050	-1	Càn Khôn Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100501	3	1150	-1	Càn Khôn Linh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100502	3	1250	-1	Càn Khôn Thánh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100503	3	1350	-1	Càn Khôn Tiên Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Tß ch¤t #GThiên HÕ Vô Song#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100504	3	1450	-1	Càn Khôn Th¥n Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100510	3	1161	-1	Càn Khôn Ð¸a Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GTrác Nhî B¤t Qu¥n#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100511	3	1261	-1	Càn Khôn Ð¸a Linh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành, Tß ch¤t #GTrác Nhî B¤t Qu¥n#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100512	3	1361	-1	Càn Khôn Ð¸a Thánh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100513	3	1461	-1	Càn Khôn Ð¸a Tiên Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GTrác Nhî B¤t Qu¥n#Y, Tß ch¤t #GThiên HÕ Vô Song#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100514	3	1561	-1	Càn Khôn Ð¸a Th¥n Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim#Y, Trß·ng thành #GTrác Nhî B¤t Qu¥n#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100520	3	1272	-1	Càn Khôn Thiên Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GSiêu Phàm Thoát Tøc#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100521	3	1372	-1	Càn Khôn Thiên Linh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100522	3	1472	-1	Càn Khôn Thiên Thánh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành, Tß ch¤t #GSiêu Phàm Thoát Tøc#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100523	3	1572	-1	Càn Khôn Thiên Tiên Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GSiêu Phàm Thoát Tøc#Y, Tß ch¤t #GThiên HÕ Vô Song#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100524	3	1672	-1	Càn Khôn Thiên Th¥n Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim#Y, Trß·ng thành #GSiêu Phàm Thoát Tøc#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100530	3	1383	-1	Càn Khôn Nguyên Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GThiên HÕ Vô Song#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100531	3	1483	-1	Càn Khôn Nguyên Linh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GThiên HÕ Vô Song#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100532	3	1583	-1	Càn Khôn Nguyên Thánh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GThiên HÕ Vô Song#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc#Y  m¾i có th¬ nh§n ðßþc danh hi®u này.
+100533	3	1683	-1	Càn Khôn Nguyên Tiên Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành, Tß ch¤t #GThiên HÕ Vô Song#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100534	3	1783	-1	Càn Khôn Nguyên Th¥n Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Tß ch¤t #GCh¤n C± Thß¾c Kim#Y, Trß·ng thành #GThiên HÕ Vô Song#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100540	3	1494	-1	Càn Khôn Siêu Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GCh¤n C± Thß¾c Kim#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100541	3	1594	-1	Càn Khôn Siêu Linh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GTrác Nhî B¤t Qu¥n#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100542	3	1694	-1	Càn Khôn Siêu Thánh Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GSiêu Phàm Thoát Tøc#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100543	3	1794	-1	Càn Khôn Siêu Tiên Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành #GCh¤n C± Thß¾c Kim#Y, Tß ch¤t #GThiên HÕ Vô Song#Y m¾i có th¬ nh§n ðßþc danh hi®u này.
+100544	3	1894	-1	Càn Khôn Siêu Th¥n Thú	-1	#e96491f#gFF0FA0	Trân Thú có #YNgµ tính #GNgh¸ch Chuy¬n Càn Khôn#Y, Trß·ng thành, Tß ch¤t #GCh¤n C± Thß¾c Kim#Y m¾i có th¬ nh§n ðßþc danh hi®u này.

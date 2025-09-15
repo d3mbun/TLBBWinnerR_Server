@@ -1,0 +1,6 @@
+[System]
+navmapname=gusu_1.nav
+monsterfile=gusu_1_monster.ini
+patrolpoint=gusu_1_patrolpoint.ini
+eventfile=gusu_1_area.ini
+platformfile=gusu_1_platform.ini

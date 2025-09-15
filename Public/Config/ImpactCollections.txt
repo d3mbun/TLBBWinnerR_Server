@@ -1,0 +1,13 @@
+INT	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	STRING
+±êÊ¶IDµÄ·ÖÀàID	·ÖÀàËµÃ÷$1$	±¾ÀàÖÐµÄIDÊýÁ¿	ID1	ID2	ID3	ID4	ID5	ID6	ID7	ID8	ID9	ID10	ID11	ID12	ID13	ID14	ID15	ID16	ID17	ID18	ID19	ID20	ID21	ID22	ID23	ID24	ID25	ID26	ID27	ID28	ID29	ID30	½áÎ²ËµÃ÷£¬²âÊÔÓÃ
+1	Tiªp tøc thß½ng t±n	20	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	0	0	0	0	0	0	0	0	0	0	
+2	Phòng ngñ suy yªu	8	20	21	22	23	24	25	26	27	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+3	Có th¬ thao tác t×ng ph¥n	4	28	29	30	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+4	Không th¬ thao tác	7	32	33	34	35	36	37	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+5	TrÕng thái phø	28	0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	0	0	
+6	Ði«u khi¬n b¸ gi¾i hÕn	11	28	29	30	31	32	33	34	35	36	37	38	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+7	Mi­n d¸ch Th¤t Tinh LÕc Trß¶ng Không	4	29	32	33	35	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+8	TrÕng thái hµ th¬	2	41	43	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+9	Nga My chúc phúc	1	356	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+10	Nga My tång máu (tø khí)	2	357	367	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+11	Nga My công kích	5	351	352	353	354	365	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	

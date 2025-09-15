@@ -1,0 +1,8 @@
+[System]
+navmapname=ZBS_GameArea.nav
+monsterfile=ZBS_GameArea_monster.ini
+patrolpoint=ZBS_GameArea_patrolpoint.ini
+growpointdata=ZBS_GameArea_growpoint.txt
+growpointsetup=ZBS_GameArea_growpointsetup.txt
+eventfile=ZBS_GameArea_area.ini
+platformfile=ZBS_GameArea_platform.ini

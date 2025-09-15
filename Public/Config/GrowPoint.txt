@@ -1,0 +1,357 @@
+INT	STRING	STRING	INT	INT	STRING	INT	INT	INT
+±àºÅ	Ãû³Æ$1$	¶ÔÓ¦Ä£ĞÍ	¶ÔÓ¦Éú»î¼¼ÄÜID	¶ÔÓ¦ÈÎÎñID	TipsÄ¬ÈÏ$1$	´ò¿ªÊ±¼äÄ¬ÈÏ	½Å±¾ID	´ò¿ª¶¯»­
+1	Mö ğ°ng	²İÒ©¿óÊ¯/Í­¿óÊ¯.obj	7	0		0	710000	0
+2	Mö s¡t	²İÒ©¿óÊ¯/Ìú¿óÊ¯.obj	7	0		0	710000	0
+3	Mö bÕc	²İÒ©¿óÊ¯/Òø¿óÊ¯.obj	7	0		0	710000	0
+4	Mö hàn thiªt	²İÒ©¿óÊ¯/º®Ìú¿óÊ¯.obj	7	0		0	710000	0
+5	Mö vàng	²İÒ©¿óÊ¯/½ğ¿óÊ¯.obj	7	0		0	710000	0
+6	Mö huy«n thiªt	²İÒ©¿óÊ¯/ĞşÌú¿óÊ¯.obj	7	0		0	710000	0
+7	Mö pha lê	²İÒ©¿óÊ¯/Ë®¾§¿óÊ¯.obj	7	0		0	710000	0
+8	Mö phï thúy	²İÒ©¿óÊ¯/ôä´ä¿óÊ¯.obj	7	0		0	710000	0
+9	Mö Chân Vû	²İÒ©¿óÊ¯/ÕæÎä¿óÊ¯.obj	7	0		0	710000	0
+10	Mö Long Huyªt	²İÒ©¿óÊ¯/ÁúÑª¿óÊ¯.obj	7	0		0	710000	0
+11	Mö Phøng Huyªt	²İÒ©¿óÊ¯/·ïÑª¿óÊ¯.obj	7	0		0	710000	0
+12	Næ Oa ThÕch	²İÒ©¿óÊ¯/Å®æ´Ê¯.obj	7	0		0	710000	0
+13	Côn s½n khoáng ng÷c	²İÒ©¿óÊ¯/À¥É½¿óÓñ.obj	7	0		0	710000	0
+14	Chúng sinh khoáng thÕch	²İÒ©¿óÊ¯/ÖÚÉú¿óÊ¯.obj	7	0		0	710000	0
+31	Bi¬n hi®u tr°ng tr÷t	0ÎïÆ·/Ìú»Ï×Ó.mesh	11	0		0	711003	0
+32	Ti¬u MÕch	0¹àÄ¾/Ğ¡¹à1.mesh	-1	0		0	711004	0
+33	Lúa mì chín	0¹àÄ¾/´ó¹à1.mesh	11	0		0	711005	0
+34	Bình nß¾c xu¤t quÖ	0ÎïÆ·/Ë®¸×1.mesh	12	0		0	713000	0
+35	B¥y cá	Ğ¡¶¯Îï/ÓãÈº02.mesh	10	0		0	712000	0
+36	Ch² chôn bäo v§t	0ÎïÆ·/Ë®¸×1.mesh	13	0		0	713000	0
+49	Rß½ng bäo v§t cüa BÕch Lang ğÕi vß½ng	0ÎïÆ·/ïÚÏä.mesh	26	0		0	715000	0
+50	Phong Hoä ğài	0ÎïÆ·/ïÚÏä.mesh	26	0		0	715001	0
+51	Løc ph¦m di®p nhân sâm	³¤°×É½/ÈË²Î2.mesh	26	0		0	715002	0
+93	Cüi tän mát	Ê¦ÃÅÈÎÎñ/Ä¾²ñ.obj	26	0		0	715007	0
+94	N¤m tän mát	Ê¦ÃÅÈÎÎñ/Ä¢¹½.obj	26	0		0	715008	0
+95	Quä tùng tän mát	Ê¦ÃÅÈÎÎñ/ËÉ¹û.obj	26	0		0	715009	0
+96	Mãn nguy®t	Ê¦ÃÅÈÎÎñ/ÂúÔÂ.obj	26	0		0	715003	0
+97	Nhãn nhi m¸	Ê¦ÃÅÈÎÎñ/ÑÛ¶ùÃÄ.obj	26	0		0	715004	0
+98	H°ng trang t¯ khoä	Ê¦ÃÅÈÎÎñ/ºì×±ËØ¹ü.obj	26	0		0	715005	0
+99	Xé rách m£t mÛ nhân	0ÎïÆ·/ÏÉÁ«×Ó.mesh	26	0		0	715006	0
+101	BÕch Anh	²İÒ©¿óÊ¯/ºì»¨.obj	8	0		0	710000	0
+102	B° Hoàng	²İÒ©¿óÊ¯/ÇàÒ¶.obj	8	0		0	710000	0
+103	Xuyên B¯i	²İÒ©¿óÊ¯/´¨±´.obj	8	0		0	710000	0
+104	Nguyên H°	²İÒ©¿óÊ¯/Ôªºú.obj	8	0		0	710000	0
+105	TÏ Bà	²İÒ©¿óÊ¯/èÁèË.obj	8	0		0	710000	0
+106	Cam Thäo	²İÒ©¿óÊ¯/¸Ê²İ.obj	8	0		0	710000	0
+107	Kim Ngân Hoa	²İÒ©¿óÊ¯/èÛè½×Ó.obj	8	0		0	710000	0
+108	Hoàng C¥m	²İÒ©¿óÊ¯/üSÜË.obj	8	0		0	710000	0
+109	C¦u KÖ	²İÒ©¿óÊ¯/èÛè½×Ó.obj	8	0		0	710000	0
+110	Tr¥m Hß½ng	²İÒ©¿óÊ¯/èÁèË.obj	8	0		0	710000	0
+111	Ğ² Tr÷ng	²İÒ©¿óÊ¯/¶ÅÖÙ.obj	8	0		0	710000	0
+112	Thß½ng Thu§t	²İÒ©¿óÊ¯/²ÔÊõ.obj	8	0		0	710000	0
+113	Phøc Linh	²İÒ©¿óÊ¯/ÜòÜß.obj	8	0		0	710000	0
+114	Phòng Phong	²İÒ©¿óÊ¯/·À·ç.obj	8	0		0	710000	0
+115	Hß½ng Nhu	²İÒ©¿óÊ¯/ÏãŞ¸.obj	8	0		0	710000	0
+116	Hoàng Liên	²İÒ©¿óÊ¯/Ôªºú.obj	8	0		0	710000	0
+117	Ğß½ng Qui	²İÒ©¿óÊ¯/ÇàÒ¶.obj	8	0		0	710000	0
+118	Quª Tâm	²İÒ©¿óÊ¯/Ë«»¨.obj	8	0		0	710000	0
+119	Hß½ng Phø	²İÒ©¿óÊ¯/Î¦×Ó.obj	8	0		0	710000	0
+120	Ho¡c Hß½ng	²İÒ©¿óÊ¯/²ÔÊõ.obj	8	0		0	710000	0
+121	H°i Th¥n Thäo	²İÒ©¿óÊ¯/ÏãŞ¸.obj	8	0		0	710000	0
+122	Thü Ô	²İÒ©¿óÊ¯/Ôªºú.obj	8	0		0	710000	0
+123	Ğông Trùng HÕ Thäo	²İÒ©¿óÊ¯/ºì»¨.obj	8	0		0	710000	0
+124	Long Quì TØ	²İÒ©¿óÊ¯/üSÜË.obj	8	0		0	710000	0
+125	Tßşng B¯i	²İÒ©¿óÊ¯/èÁèË.obj	8	0		0	710000	0
+126	Nhân Sâm	²İÒ©¿óÊ¯/´¨±´.obj	8	0		0	710000	0
+127	Linh Chi	²İÒ©¿óÊ¯/·À·ç.obj	8	0		0	710000	0
+128	Tuân Thäo	²İÒ©¿óÊ¯/ÜòÜß.obj	8	0		0	710000	0
+129	Liên TØ	²İÒ©¿óÊ¯/¸Ê²İ.obj	8	0		0	710000	0
+130	Khô Mµc Xuân	²İÒ©¿óÊ¯/èÛè½×Ó.obj	8	0		0	710000	0
+201	Thäo Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+202	TÑc Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+203	Liên Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+204	Bình Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+205	Thi®n Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+206	H¡c Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+207	Ğ¤u Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+208	Xß½ng Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+209	Ngân Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+210	Khuê Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+211	C¯t Thi®t Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+212	Løc Tuyªn Ngß	Ğ¡¶¯Îï/ÓãÈº03.model	9	0		0	712000	0
+213	Thanh Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+214	Ti­n Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+215	Lß Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+216	Bi¬n Ğ¥u Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+217	Ğ¥u Lñc Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+218	Thu Ğao Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+219	Soa Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+220	Quang B¯i Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+221	Câu Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+222	Bãi KÏ Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+223	Trân Châu Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+224	Vån Xß½ng Ngß	Ğ¡¶¯Îï/ÓãÈº04.model	9	0		0	712000	0
+225	Thäo Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+226	TÑc Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+227	Liên Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+228	Bình Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+229	Thi®n Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+230	H¡c Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+231	Ğ¤u Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+232	Xß½ng Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+233	Ngân Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+234	Khuê Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+235	C¯t Thi®t Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+236	Løc Tuyªn Ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+237	Thanh Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+238	Ti­n Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+239	Lß Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+240	Bi¬n Ğ¥u Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+241	Ğ¥u Lñc Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+242	Thu Ğao Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+243	Soa Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+244	Quang B¯i Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+245	Câu Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+246	Bãi KÏ Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+247	Trân Châu Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+248	Vån Xß½ng Ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+249	Yên chi ngß	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+250	Th¤t tinh ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+251	Trß¶ng vçn ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+252	Ğa kÏ ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+253	Ki«u chuÖ h°ng bÕc	Ğ¡¶¯Îï/ÓãÈº02.model	9	0		0	712000	0
+254	Thu bÕch khuê	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+255	Ği®p kÏ ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+256	Vån diêu ngß	Ğ¡¶¯Îï/ÓãÈº01.model	9	0		0	712000	0
+501	Lúa mì sän xu¤t s¾m (còn non)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+502	Lúa mì sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+503	Lúa mì sän xu¤t s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+504	GÕo sän xu¤t s¾m (còn non)	ÖÖÖ²/´óÃ×Ğ¡.mesh	-1	0		0	711000	0
+505	GÕo sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/´óÃ×ÖĞ.mesh	-1	0		0	711001	0
+506	GÕo sän xu¤t s¾m	ÖÖÖ²/´óÃ×´ó.mesh	10	0		0	711002	0
+507	Ngô sän xu¤t s¾m (còn non)	ÖÖÖ²/ÖÖÖ²ÓñÃ×Ğ¡.mesh	-1	0		0	711000	0
+508	Ngô sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/ÖÖÖ²ÓñÃ×ÖĞ.mesh	-1	0		0	711001	0
+509	Ngô sän xu¤t s¾m	ÖÖÖ²/ÖÖÖ²ÓñÃ×´ó.mesh	10	0		0	711002	0
+510	Ğ§u phøng sän xu¤t s¾m (còn non)	ÖÖÖ²/»¨ÉúĞ¡.mesh	-1	0		0	711000	0
+511	Ğ§u phøng sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/»¨ÉúÖĞ.mesh	-1	0		0	711001	0
+512	Ğ§u phøng sän xu¤t s¾m	ÖÖÖ²/»¨Éú´ó.mesh	10	0		0	711002	0
+513	Khoai lang sän xu¤t s¾m (còn non)	ÖÖÖ²/ºìÊíĞ¡.mesh	-1	0		0	711000	0
+514	Khoai lang sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/ºìÊíÖĞ.mesh	-1	0		0	711001	0
+515	Khoai lang sän xu¤t s¾m	ÖÖÖ²/ºìÊí´ó.mesh	10	0		0	711002	0
+516	Cao lß½ng sän xu¤t s¾m (còn non)	ÖÖÖ²/¸ßÁ»Ğ¡.mesh	-1	0		0	711000	0
+517	Cao lß½ng sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/¸ßÁ»ÖĞ.mesh	-1	0		0	711001	0
+518	Cao lß½ng sän xu¤t s¾m	ÖÖÖ²/¸ßÁ»´ó.mesh	10	0		0	711002	0
+519	Mè sän xu¤t s¾m (còn non)	ÖÖÖ²/Ö¥ÂéĞ¡.mesh	-1	0		0	711000	0
+520	Mè sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/Ö¥ÂéÖĞ.mesh	-1	0		0	711001	0
+521	Mè sän xu¤t s¾m	ÖÖÖ²/Ö¥Âé´ó.mesh	10	0		0	711002	0
+522	Ğâu xanh sän xu¤t s¾m (còn non)	ÖÖÖ²/ÂÌ¶¹Ğ¡.mesh	-1	0		0	711000	0
+523	Ğ§u xanh sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/ÂÌ¶¹ÖĞ.mesh	-1	0		0	711001	0
+524	Ğ§u xanh sän xu¤t s¾m	ÖÖÖ²/ÂÌ¶¹´ó.mesh	10	0		0	711002	0
+525	Ğ§u nành sän xu¤t s¾m (còn non)	ÖÖÖ²/»Æ¶¹Ğ¡.mesh	-1	0		0	711000	0
+526	Ğ§u nành sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/»Æ¶¹ÖĞ.mesh	-1	0		0	711001	0
+527	Ğ§u nành sän xu¤t s¾m	ÖÖÖ²/»Æ¶¹´ó.mesh	10	0		0	711002	0
+528	Ğ§u t¢m sän xu¤t s¾m (còn non)	ÖÖÖ²/²Ï¶¹Ğ¡.mesh	-1	0		0	711000	0
+529	Ğ§u t¢m sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/²Ï¶¹ÖĞ.mesh	-1	0		0	711001	0
+530	Ğ§u t¢m sän xu¤t s¾m	ÖÖÖ²/²Ï¶¹´ó.mesh	10	0		0	711002	0
+531	Khoai tây sän xu¤t s¾m (còn non)	ÖÖÖ²/ÍÁ¶¹Ğ¡.mesh	-1	0		0	711000	0
+532	Khoai tây sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/ÍÁ¶¹ÖĞ.mesh	-1	0		0	711001	0
+533	Khoai tây sän xu¤t s¾m	ÖÖÖ²/ÍÁ¶¹´ó.mesh	10	0		0	711002	0
+534	Khoai môn sän xu¤t s¾m (còn non)	ÖÖÖ²/ÓóÍ·Ğ¡.mesh	-1	0		0	711000	0
+535	Khoai môn sän xu¤t s¾m (ğang l¾n)	ÖÖÖ²/ÓóÍ·ÖĞ.mesh	-1	0		0	711001	0
+536	Khoai môn sän xu¤t s¾m	ÖÖÖ²/ÓóÍ·´ó.mesh	10	0		0	711002	0
+537	Træ Ma thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+538	Træ Ma thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+539	Cây gai sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+540	Thäo Miên thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+541	Thäo Miên thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+542	Bông cö sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+543	Á Ma thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+544	Á Ma thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+545	Cây lanh sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+546	Mµc Miên thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+547	Mµc Miên thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+548	Cây gÕo sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+549	Hoàng Ma thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+550	Hoàng Ma thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+551	Cây ğay sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+552	Vân Miên thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+553	Vân Miên thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+554	G¤m hoa sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+555	C¦n Ma thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+556	C¦n Ma thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+557	Ğay c¦n sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+558	Nhung Miên thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+559	Nhung Miên thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+560	G¤m nhung sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+561	Thanh Ma thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+562	Thanh Ma thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+563	Cây ğay sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+564	Thái Miên thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+565	Thái Miên thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+566	Thái miên sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+567	La B¯ Ma thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+568	La B¯ Ma thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+569	Ğay la b¯ sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+570	Løc Ğ¸a Miên thu hoÕch s¾m („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+571	Løc Ğ¸a Miên thu hoÕch s¾m (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+572	Bông trên cÕn sinh sän s¾m	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+573	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712501	0
+574	Ti¬u thanh xà	ÈÎÎñÉß1.obj	26	0		0	715010	0
+575	Ti¬u bÕch xà	ÈÎÎñÉß2.obj	26	0		0	715011	0
+576	Ti¬u hoàng xà	ÈÎÎñÉß3.obj	26	0		0	715012	0
+577	Kı hi®u quân t¯ng	Ê¦ÃÅÈÎÎñ/Ïä.obj	26	0		0	715013	0
+578	Kı hi®u Ba Tß	Ê¦ÃÅÈÎÎñ/Æ¿×Ó4.obj	26	0		0	715014	0
+579	Kı hi®u quân Liêu	Ê¦ÃÅÈÎÎñ/Ã×¿ğ.obj	26	0		0	715015	0
+580	Võ Ğang linh chi	Ê¦ÃÅÈÎÎñ/ÁéÖ¥.obj	26	0		0	715016	0
+581	Võ Ğang thü ô	Ê¦ÃÅÈÎÎñ/ºÎÊ×ÎÚ.obj	26	0		0	715017	0
+582	Võ Ğang nhân sâm 	Ê¦ÃÅÈÎÎñ/ÈË²Î2.obj	26	0		0	715018	0
+583	Linh ki®n mµc chª	Ê¦ÃÅÈÎÎñ/¿şÀÜÖĞÑëÄ£×é.obj	26	0		0	715019	0
+584	Linh ki®n thÕch chª	Ê¦ÃÅÈÎÎñ/¿şÀÜÊı¾İ´æ´¢Æ÷.obj	26	0		0	715020	0
+585	Linh ki®n ğ°ng chª	Ê¦ÃÅÈÎÎñ/¿şÀÜ´ÅÅÌÇı¶¯Æ÷.obj	26	0		0	715021	0
+586	Ti¬u hoàng h¥u	ÈÎÎñºï×Ó1.obj	26	0		0	715022	0
+587	Ti«u h¡c h¥u	ÈÎÎñºï×Ó2.obj	26	0		0	715023	0
+588	Ti¬u bÕch h¥u	ÈÎÎñºï×Ó3.obj	26	0		0	715024	0
+589	Ğµc ngô công 	ÈÎÎñòÚò¼.obj	26	0		0	715025	0
+590	Ğµc thi«m th× 	ÈÎÎñó¸òÜ.obj	26	0		0	715026	0
+591	Ğµc tri thù 	ÈÎÎñÖ©Öë.obj	26	0		0	715027	0
+592	B° ğào can 	Ê¦ÃÅÈÎÎñ/ÆÏÌÑ¸É.obj	26	0		0	715028	0
+593	Tuyªt liên hoa 	Ê¦ÃÅÈÎÎñ/Ñ©Á«»¨.obj	26	0		0	715029	0
+594	Dßa Cáp m§t 	Ê¦ÃÅÈÎÎñ/¹şÃÜ¹Ï.obj	26	0		0	715030	0
+595	Rß½ng bäo v§t	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	715031	0
+596	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712502	0
+597	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712503	0
+598	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712504	0
+599	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712505	0
+600	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712506	0
+601	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712507	0
+602	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712508	0
+603	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712509	0
+604	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712510	0
+605	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712511	0
+606	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712512	0
+607	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712513	0
+608	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712514	0
+609	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712515	0
+610	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712516	0
+611	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712517	0
+612	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712518	0
+613	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712519	0
+614	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712520	0
+615	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712521	0
+616	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712522	0
+617	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712523	0
+618	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712524	0
+619	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712525	0
+620	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712528	0
+621	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712529	0
+622	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712530	0
+623	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712531	0
+624	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712532	0
+625	Bäo v§t phân tán	Ê¦ÃÅÈÎÎñ/±¦Ïä.mesh	26	0		0	712533	0
+701	Lúa mì sän xu¤t muµn (còn non)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+702	Lúa mì sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+703	Lúa mì sän xu¤t muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+704	GÕo sän xu¤t muµn (còn non)	ÖÖÖ²/´óÃ×Ğ¡.mesh	-1	0		0	711000	0
+705	GÕo sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/´óÃ×ÖĞ.mesh	-1	0		0	711001	0
+706	GÕo sän xu¤t muµn	ÖÖÖ²/´óÃ×´ó.mesh	10	0		0	711002	0
+707	Ngô sän xu¤t muµn (còn non)	ÖÖÖ²/ÖÖÖ²ÓñÃ×Ğ¡.mesh	-1	0		0	711000	0
+708	Ngô sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/ÖÖÖ²ÓñÃ×ÖĞ.mesh	-1	0		0	711001	0
+709	Ngô sän xu¤t muµn	ÖÖÖ²/ÖÖÖ²ÓñÃ×´ó.mesh	10	0		0	711002	0
+710	Ğ§u phøng sän xu¤t muµn (còn non)	ÖÖÖ²/»¨ÉúĞ¡.mesh	-1	0		0	711000	0
+711	Ğ§u phøng sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/»¨ÉúÖĞ.mesh	-1	0		0	711001	0
+712	Ğâu phøng sän xu¤t muµn	ÖÖÖ²/»¨Éú´ó.mesh	10	0		0	711002	0
+713	Khoai lang sän xu¤t muµn (còn non)	ÖÖÖ²/ºìÊíĞ¡.mesh	-1	0		0	711000	0
+714	Khoai lang sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/ºìÊíÖĞ.mesh	-1	0		0	711001	0
+715	Khoai lang sän xu¤t muµn	ÖÖÖ²/ºìÊí´ó.mesh	10	0		0	711002	0
+716	Cao lß½ng sän xu¤t muµn (còn non)	ÖÖÖ²/¸ßÁ»Ğ¡.mesh	-1	0		0	711000	0
+717	Khoai lang sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/¸ßÁ»ÖĞ.mesh	-1	0		0	711001	0
+718	Cao lß½ng sän xu¤t muµn	ÖÖÖ²/¸ßÁ»´ó.mesh	10	0		0	711002	0
+719	Mè sän xu¤t muµn (còn non)	ÖÖÖ²/Ö¥ÂéĞ¡.mesh	-1	0		0	711000	0
+720	Mè sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/Ö¥ÂéÖĞ.mesh	-1	0		0	711001	0
+721	Mè sän xu¤t muµn	ÖÖÖ²/Ö¥Âé´ó.mesh	10	0		0	711002	0
+722	Ğ§u xanh sän xu¤t muµn (còn non)	ÖÖÖ²/ÂÌ¶¹Ğ¡.mesh	-1	0		0	711000	0
+723	Ğ§u xanh sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/ÂÌ¶¹ÖĞ.mesh	-1	0		0	711001	0
+724	Ğ§u xanh sän xu¤t muµn	ÖÖÖ²/ÂÌ¶¹´ó.mesh	10	0		0	711002	0
+725	Ğ§u nành sän xu¤t muµn (còn non)	ÖÖÖ²/»Æ¶¹Ğ¡.mesh	-1	0		0	711000	0
+726	Ğ§u nành sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/»Æ¶¹ÖĞ.mesh	-1	0		0	711001	0
+727	Ğ§u nành sän xu¤t muµn	ÖÖÖ²/»Æ¶¹´ó.mesh	10	0		0	711002	0
+728	Ğ§u t¢m sän xu¤t muµn (còn non)	ÖÖÖ²/²Ï¶¹Ğ¡.mesh	-1	0		0	711000	0
+729	Ğ§u t¢m sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/²Ï¶¹ÖĞ.mesh	-1	0		0	711001	0
+730	Ğ§u t¢m sän xu¤t muµn	ÖÖÖ²/²Ï¶¹´ó.mesh	10	0		0	711002	0
+731	Khoai tây sän xu¤t muµn (còn non)	ÖÖÖ²/ÍÁ¶¹Ğ¡.mesh	-1	0		0	711000	0
+732	Khoai tây sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/ÍÁ¶¹ÖĞ.mesh	-1	0		0	711001	0
+733	Khoai tây sän xu¤t muµn	ÖÖÖ²/ÍÁ¶¹´ó.mesh	10	0		0	711002	0
+734	Khoai môn sän xu¤t muµn (còn non)	ÖÖÖ²/ÓóÍ·Ğ¡.mesh	-1	0		0	711000	0
+735	Khoai tây sän xu¤t muµn (ğang l¾n)	ÖÖÖ²/ÓóÍ·ÖĞ.mesh	-1	0		0	711001	0
+736	Khoai tây sän xu¤t muµn	ÖÖÖ²/ÓóÍ·´ó.mesh	10	0		0	711002	0
+737	Træ Ma thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+738	Træ Ma thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+739	Cây gai sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+740	Thäo Miên thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+741	Thäo Miên thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+742	Bông cö sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+743	Á Ma thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+744	Á Ma thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+745	Cây lanh sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+746	Mµc Miên thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+747	Mµc Miên thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+748	Cây gÕo sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+749	Hoàng Ma thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+750	Hoàng Ma thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+751	Cây ğay sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+752	Vân Miên thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+753	Vân Miên thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+754	G¤m hoa sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+755	C¦n Ma thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+756	C¦n Ma thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+757	Ğay c¥n sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+758	Nhung Miên thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+759	Nhung Miên thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+760	G¤m Nhung sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+761	Thanh Ma thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+762	Thanh Ma thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+763	Cây ğay sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+764	Thái Miên thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+765	Thái Miên thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+766	Thái miên sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+767	La B¯ Ma thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+768	La B¯ Ma thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+769	Ğay la b¯ sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+770	Løc Ğ¸a Miên thu hoÕch muµn („u Miêu)	ÖÖÖ²/Ğ¡ÂóĞ¡.mesh	-1	0		0	711000	0
+771	Løc Ğ¸a Miên thu hoÕch muµn (Ğang sinh trß·ng)	ÖÖÖ²/Ğ¡ÂóÖĞ.mesh	-1	0		0	711001	0
+772	Bông trên cÕn sinh sän muµn	ÖÖÖ²/Ğ¡Âó´ó.mesh	10	0		0	711002	0
+773	K©o hï thông thß¶ng	Ï²°ü/ÆÕÍ¨Ï²°ü.mesh	26	0		0	712526	0
+774	K©o hï cao c¤p	Ï²°ü/¸ß¼¶Ï²°ü.mesh	26	0		0	712526	0
+775	K©o hï thßşng hÕng	Ï²°ü/ºÀ»ªÏ²°ü.mesh	26	0		0	712526	0
+776	Kính H° Thiên Niên Thäo	²İÒ©¿óÊ¯/ÏÉµ¤ÁéÒ©.obj	26	0		0	710531	0
+777	Di«n höa trùng	²İÒ©¿óÊ¯/Ó©»ğ³æ.obj	26	0		0	712527	0
+778	Ğ°i tuyªt 	0ÎïÆ·/npcÑ©¶Ñ.obj	26	0		0	712526	0
+779	Bäo sß½ng giáng sinh	Ï²°ü/ºÀ»ªÏ²°ü.mesh	26	0		0	712526	0
+780	Niên Thú Bäo Sß½ng	Ï²°ü/ºÀ»ªÏ²°ü.mesh	26	0		0	50052	0
+781	Niên Thú Bäo Sß½ng	Ï²°ü/¸ß¼¶Ï²°ü.mesh	26	0		0	50055	0
+782	Kh±ng Minh Ğång	²İÒ©¿óÊ¯/¿×Ã÷µÆ1.obj	26	0		0	808085	0
+783	Kh±ng Minh Ğång	²İÒ©¿óÊ¯/¿×Ã÷µÆ2.obj	26	0		0	808085	0
+784	Kh±ng Minh Ğång	²İÒ©¿óÊ¯/¿×Ã÷µÆ3.obj	26	0		0	808085	0
+785	Hß½ng Huân	²İÒ©¿óÊ¯/ÏãŞ¸.obj	8	0		0	710000	0
+786	Chi TØ	²İÒ©¿óÊ¯/Î¦×Ó.obj	8	0		0	710000	0
+787	Song Hoa	²İÒ©¿óÊ¯/Ë«»¨.obj	8	0		0	710000	0
+788	Thanh Di®p	²İÒ©¿óÊ¯/ÇàÒ¶.obj	8	0		0	710000	0
+789	H°ng Hoa	²İÒ©¿óÊ¯/ºì»¨.obj	8	0		0	710000	0
+790	T× bích khoáng thÕch	²İÒ©¿óÊ¯/Üë±Ì¿óÊ¯.obj	7	0		0	710000	0
+791	L¸ch ThÕch	²İÒ©¿óÊ¯/¹â»¬µÄÊ¯Í·.obj	50	0		0	712534	0
+792	¿ng Linh	²İÒ©¿óÊ¯/´óÑãÓğÃ«.obj	50	0		0	712534	0
+793	Th¤t Di®p Liên	²İÒ©¿óÊ¯/ÆßÒ¶Á«.obj	50	0		0	712534	0
+794	BÕch H± ThÕch	²İÒ©¿óÊ¯/kvk°×»¢Ê¯.obj	51	0		0	710016	0
+795	Bàn C± ThÕch	²İÒ©¿óÊ¯/kvkÅ®æ´Ê¯.obj	51	0		0	710019	0
+796	Thanh Long ThÕch	²İÒ©¿óÊ¯/kvkÇàÁúÊ¯.obj	51	0		0	710015	0
+797	Huy«n Vû ThÕch	²İÒ©¿óÊ¯/kvkĞşÎäÊ¯.obj	51	0		0	710018	0
+798	Chu Tß¾c ThÕch	²İÒ©¿óÊ¯/kvkÖìÈ¸Ê¯.obj	51	0		0	710017	0
+799	HÑa Nguy®n L­ Bao	Ï²°ü/ºÀ»ªÏ²°ü.mesh	26	0		0	712526	0
+800	Hy Hæu Hoa B°n	0ÎïÆ·/npc20091111ÜÔÀò»¨Åè.obj	26	0		0	716000	0
+801	MÕt L¸ Hoa	0ÎïÆ·/npc20091111ÜÔÀò»¨.obj	26	0		0	716001	0
+802	Linh Ng÷c Khoáng MÕch	²İÒ©¿óÊ¯/npcÁéÓñ¿óÊ¯20091124.obj	7	0		0	712535	0
+803	Khôi Giáp th¤t lÕc	Ê¦ÃÅÈÎÎñ/npcÉ¢ÂäµÄîø¼×100113.obj	26	0		0	715032	0
+804	Thuçn Bài th¤t lÕc	Ê¦ÃÅÈÎÎñ/npcÉ¢ÂäµÄ¶ÜÅÆ100113.obj	26	0		0	715033	0
+805	Binh Khí th¤t lÕc	Ê¦ÃÅÈÎÎñ/npcÉ¢ÂäµÄ±øÆ÷100113.obj	26	0		0	715034	0
+806	Rß½ng bäo v§t	Ê¦ÃÅÈÎÎñ/°×ÑÕÉ«±¦Ïä.obj	26	0		0	712501	0
+807	L­ Hµp KÏ Phúc	Ï²°ü/ºÀ»ªÏ²°ü.mesh	26	0		0	712526	0
+808	Hµp Dßa H¤u	Ï²°ü/ºÀ»ªÏ²°ü.mesh	26	0		0	712526	0
+
+1001	BÕch Long ThÕch	²İÒ©¿óÊ¯/kvk°×»¢Ê¯.obj	51	0		0	045031	0
+1002	TØ Long ThÕch	²İÒ©¿óÊ¯/kvkÅ®æ´Ê¯.obj	51	0		0	045031	0
+1003	Thanh Long ThÕch	²İÒ©¿óÊ¯/kvkÇàÁúÊ¯.obj	51	0		0	045031	0
+1004	Hoàng Long ThÕch	²İÒ©¿óÊ¯/kvkĞşÎäÊ¯.obj	51	0		0	045031	0
+1005	H°ng Long ThÕch	²İÒ©¿óÊ¯/kvkÖìÈ¸Ê¯.obj	51	0		0	045031	0

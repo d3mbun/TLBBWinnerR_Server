@@ -1,0 +1,10 @@
+[System]
+navmapname=luoyang_v2.nav
+monsterfile=luoyang_v2_monster.ini
+patrolpoint=luoyang_v2_patrolpoint.ini
+growpointdata=luoyang_v2_growpoint.txt
+growpointsetup=luoyang_v2_growpointsetup.txt
+eventfile=luoyang_v2_area.ini
+petfile=luoyang_v2_pet.ini
+platformfile=luoyang_v2_platform.ini
+stallinfodata=luoyang_v2_StallInfo.stall

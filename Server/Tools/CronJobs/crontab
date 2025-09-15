@@ -1,0 +1,9 @@
+# Backup Debug
+0 */1 * * * /home/tlbb/Server/Tools/CronJobs/scripts/backup_debug.sh >> /dev/null 2>&1
+
+# Backup Data
+0 */3 * * * /home/tlbb/Server/Tools/CronJobs/scripts/backup_data.sh >> /dev/null 2>&1
+
+# Auto Start
+0 5 * * * /home/tlbb/Server/Tools/CronJobs/scripts/auto_maintance.sh >> /dev/null 2>&1
+

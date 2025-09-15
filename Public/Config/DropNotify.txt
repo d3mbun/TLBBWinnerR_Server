@@ -1,0 +1,121 @@
+INT	INT	INT	STRING	STRING
+Ë÷Òý£¨ÎÞ¾ßÌåº¬Òå£©	¹ã²¥ÀàÐÍID£¨Ë³ÐòµÝÔö£©	ÆµµÀÀàÐÍ£º4-ÏµÍ³ÏûÏ¢£¬6-°ïÅÉÏûÏ¢£¬7-ÃÅÅÉÏûÏ¢	»î¶¯ÃèÊö$1$	¹ã²¥ÄÚÈÝ£¨ÏûÏ¢ÏÞ³¤256CHAR£¬ÑÏ½ûÊ¹ÓÃ×Ö·û%£©£º&A-»î¶¯ÃèÊö£¬&S-³¡¾°Ãû³Æ£¬&T-¶Ó³¤Ãû³Æ£¬&U-Íæ¼ÒÃû³Æ£¬&I-ÎïÆ·Ãû³Æ$1$
+0	0	4	Xí Nga Vß½ng	#W&U #PtÕi Tuyªt Nguyên khiªn #{_BOSS42} #Pcúi ð¥u quy hàng, sau ðó lÕnh lùng nh£t #W&I#P, phi công biªn m¤t trong màn sß½ng tuyªt.
+1	0	4	Xí Nga Vß½ng	#W&U #Pkhiªn #{_BOSS42} #Pngã gøc tÕi tr§n, #W&U #PxÑng ðáng nh§n ðßþc #W&I #Psau n² lñc cüa mình.
+2	0	4	Xí Nga Vß½ng	#W&U #PtÕi #G&S #PðÕi chiªn v¾i #{_BOSS42}#P,  cäm th¤y mình ch¯ng ðÞ quá v¤t vä, ðành giao lÕi #W&I#P, sau ðó tr¯n chÕy.
+3	1	4	ÐoÕt bäo Mã t£c	#W&U #PtÕi #G&S #Pkh± chiªn #{_BOSS48}#P, trong lúc truy ðu±i b²ng phát hi®n #W&I #Pr¾t lÕi trên m£t ð¤t, ti®n tay bö vào túi r°i tiªp tøc truy ðu±i.
+4	1	4	ÐoÕt bäo Mã t£c	#W&U#P · #G&S#P ðào ðßþc bäo tàng, quá ð²i hßng ph¤n, múa mµt chiêu "Kim Cang Phøc Ma Quy¬n", hÕ gøc #{_BOSS48}#P mai phøc xung quanh, ðoÕt ðßþc 1 #W&I#P.
+5	1	4	ÐoÕt bäo Mã t£c	Trong lúc #W&U#P ðang k¸ch chiªn v¾i #{_BOSS48}#P · #G&S#P thì b¸ trúng Ám Khí. #W&U#P nh£t Ám Khí lên xem, thì ra là 1 #W&I#P.
+6	2	4	Ðánh lén môn phái	#{_BOSS28} #Ptiªp mµt chiêu cüa #W&U#P, không hi¬u vì sao chiêu thÑc lÕi nhanh và mÕnh nhß thª, ðành gøc xu¯ng và giao lÕi #W&I#P.
+7	2	4	Ðánh lén môn phái	#{_BOSS28} #Ptiªp mµt chiêu cüa #W&U#P, không ng¶ máu chäy kh¡p ngß¶i, còn r¾t lÕi #W&I #Pxu¯ng ð¤t.
+8	2	4	Ðánh lén môn phái	#{_BOSS28} #Pcäm th¤y không phäi ð¯i thü cüa #W&U #Pðánh quay lßng bö chÕy và nói: Bão táp ghê quá ! H©n l¥n sau v§y ! Khi bö chÕy còn r¾t lÕi #W&I #Pmà không h« hay biªt.
+9	3	4	Ngân ngai tuyªt nguyên	#W&U#P ðang · #G&S#P ng¡m tuyªt r½i, chþt th¤y hào quang lóe sáng, #W&U#P ðßa tay ra c¥m l¤y, thì ra là mµt thanh #W&I#P.
+10	4	4	Kính H°	#PSau h½n 300 hi®p ðÕi chiªn, #{_BOSS14} #Pcûng thoát khöi vòng vây và nói:  #W&U#P ! Höa kháng cüa ngß½i th§t ðáng n¬, ta không th¬ nào là ð¯i thü, #W&I #Pngß½i xÑng ðáng nh§n ðßþc !
+11	5	4	Ðánh lén môn phái	#{_BOSS27} #Ptiªp mµt chiêu cüa #W&U#P, không hi¬u vì sao chiêu thÑc lÕi nhanh và mÕnh nhß thª, ðành gøc xu¯ng và giao lÕi #W&I#P.
+12	5	4	Ðánh lén môn phái	#{_BOSS27} #Ptiªp mµt chiêu cüa #W&U#P, không ng¶ máu chäy kh¡p ngß¶i, còn r¾t lÕi #W&I #Pxu¯ng ð¤t.
+13	5	4	Ðánh lén môn phái	#{_BOSS27} #Pcäm th¤y không phäi ð¯i thü cüa #W&U #Pðánh quay lßng bö chÕy và nói: Bão táp ghê quá ! H©n l¥n sau v§y ! Khi bö chÕy còn r¾t lÕi #W&I #Pmà không h« hay biªt.
+14	6	4	HoÕt ðµng ti¬u quái Thánh Thú S½n	#GGiæa Thánh Thú S½n #Pmßa gió thét gào#P, #W&U#P phi thân ðá mµt cß¾c, h¤t mµt con dã trß vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n dß¾i gót hài b¸ rách lµ ra mµt bän #W&I#P!
+15	6	4	HoÕt ðµng ti¬u quái Thánh Thú S½n	#GGiæa Thánh Thú S½n #Pcát vàng mù tr¶i#P, #W&U#P phi thân chß·ng mµt quy«n, h¤t mµt con dã trß lµn m¤y vòng giæa không trung. Kªt quä b¤t ng¶ phát hi®n trong hµ thü b¸ rách lµ ra mµt bän #W&I#P!
+16	6	4	HoÕt ðµng ti¬u quái Thánh Thú S½n	#GGiæa Thánh Thú S½n #Pbão tuyªt v¥n vû#P, #W&U#P phi thân ðánh mµt g§y, h¤t mµt con dã trß vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n trong c§y g§y b¸ gãy lµ ra mµt bän #W&I#P!
+17	7	4	Tiêu quái Dã trß ðiên loÕn	#GTrong nông trß¶ng dã trß#P, #W&U#P phi thân ðá mµt cß¾c, h¤t mµt con dã trß rång nh÷n vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n dß¾i gót hài b¸ rách lµ ra mµt bän #W&I#P!
+18	7	4	Tiêu quái Dã trß ðiên loÕn	#GTrong nông trß¶ng dã trß#P, #W&U#P phi thân chß·ng mµt quy«n, h¤t mµt con dã trß rång nh÷n vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n trong hµ thü b¸ rách lµ ra mµt bän #W&I#P!
+19	7	4	Tiêu quái Dã trß ðiên loÕn	#GTrong nông trß¶ng dã trß#P, #W&U#P phi thân ðánh mµt g§y, h¤t mµt con dã trß rång nh÷n vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n trong c§y g§y b¸ gãy lµ ra mµt bän #W&I#P!
+20	8	4	Lão bän dã trß ðiên loÕn	#GTrong nông trß¶ng dã trß#P, #W&U#P phi thân ðá mµt cß¾c, h¤t mµt con #{_BOSS20} vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n dß¾i gót hài b¸ rách lµ ra mµt bän #W&I#P!
+21	8	4	Lão bän dã trß ðiên loÕn	#GTrong nông trß¶ng dã trß#P, #W&U#P phi thân chß·ng mµt quy«n, h¤t mµt con #{_BOSS20} vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n trong hµ thü b¸ rách lµ ra mµt bän #W&I#P!
+22	8	4	Lão bän dã trß ðiên loÕn	#GTrong nông trß¶ng dã trß#P, #W&U#P phi thân ðánh mµt g§y, h¤t mµt con #{_BOSS20} vång lên giæa không trung. Kªt quä b¤t ng¶ phát hi®n trong c§y g§y b¸ gãy lµ ra mµt bän #W&I#P!
+23	9	4	Huy«n Vû Ðäo r¾t ra	#W&U #Pquä nhiên có mµt ngày may m¡n khó hi¬u,  tÕi #G&S #Pchï vô tình giªt mµt con quái v§t mà ðÕt ðßþc #W&I#P, th§t khiªn ngß¶i khác phäi ngÞ ngàng !
+24	9	4	Huy«n Vû Ðäo r¾t ra	#W&U #Psau 10 ngày m®t möi tÕi #G&S#P, cu¯i cùng cûng tìm ðßþc mµt quy¬n #W&I#P, quä không u±ng công sÑc b¤y lâu.
+25	9	4	Huy«n Vû Ðäo r¾t ra	#W&U #PtÕi #G&S#P, vô tình tìm ðßþc mµt quy¬n #W&I#P.
+26	10	4	Ðánh r¾t th¶i trang ð° tß¶ng · Yªn vß½ng c± mµ	#Pðang mò ðß¶ng trong Yªn Vß½ng C± Mµ v¾i ánh ðèn d¥u m¶ m¶, không c¦n th§n b¸ r¾t cây ðèn, cúi xu¯ng nh£t lên thì vô tình phát hi®n bên cÕnh ðó là #W&I#P.
+27	10	4	Ðánh r¾t th¶i trang ð° tß¶ng · Yªn vß½ng c± mµ	#W&U #PTrong Yªn Vß½ng C± Mµ dûng khí vô thß¶ng, tä xung hæu ðµt khiªn ðám ti¬u yêu chÕy tán loÕn, và b²ng nhiên th¤y #W&I #Pcòn sót lÕi tÕi hi®n trß¶ng.
+28	10	4	Ðánh r¾t th¶i trang ð° tß¶ng · Yªn vß½ng c± mµ	#W&U #Pðang tò mò thám hi¬m trong Yªn Vß½ng C± Mµ, b²ng nhiên mµt lu°ng gió mÕnh §p t¾i, và vô tình th¤y #W&I #Pbay l½ lØng trong gió, r°i b²ng r¾t ngay trß¾c m£t#W&U#P.
+29	11	4	Ðàn BOSS Nga My	#{_BOSS9} #PðÕi bÕi tÕi Võ Di, khó lòng thoát khöi, bèn giao lÕi #W&I #Pcho #W&U #Pð¬ ð±i l¤y con ðß¶ng s¯ng, th§t thäm hÕi.
+30	12	4	Ðàn BOSS Thäo Nguyên	#W&U #Pxu¤t thª d©p loÕn Thäo Nguyên, ðánh tan sào huy®t cüa #{_BOSS11} #P,trong lúc thu d÷n hi®n trß¶ng b²ng nhiên phát hi®n ra #W&I#P !
+31	13	4	Ðàn BOSS Kim Cß½ng	#{_BOSS7} #PðÕi bÕi tÕi Thß½ng S½n, khó lòng thoát khöi, bèn giao lÕi #W&I #Pcho #W&U #Pð¬ ð±i l¤y con ðß¶ng s¯ng, th§t thäm hÕi.
+32	14	4	Ðàn Boss Tru Cáp	#{_BOSS5} #Pkhông ng¶ ðßþc #W&U #Puy lñc hùng mÕnh nhß v§y, ðành ch¸u thua và giao trä lÕi #W&I #P.
+33	15	4	Huy«n vû Ðäo phi thiên miêu	#{_BOSS3} #Pnh¤t th¶i hoäng loÕn, tß·ng ð¯i phß½ng là h÷c trò, bèn l¤y ra #W&I #Pgiao cho #W&U#P, còn d£n dò: Hãy nh¾ giæ quy¬n sách này hµ ta !
+34	15	4	Huy«n vû Ðäo phi thiên miêu	#{_BOSS3} #Pnh¤t th¶i hoäng loÕn, tß·ng ð¯i phß½ng là bÕn hi«n, bèn l¤y ra #W&I #Pgiao cho #W&U#P, còn d£n dò: Hãy giæ kî ð×ng giao cho ai khác !
+35	15	4	Huy«n vû Ðäo phi thiên miêu	#{_BOSS3} #Pnh¤t th¶i hoäng loÕn, tß·ng ð¯i phß½ng là ngß¶i nhà, bèn l¤y ra #W&I #Pgiao cho #W&U#P, còn d£n dò: Hãy giæ kî ð×ng giao cho ai khác !
+36	16	4	Yªn tØ ± ðoàn diên khánh r¾t ra	#W&U#P và #{_BOSS2} #Pso tài cao th¤p, biªt không th¬ là ð¯i thü, #{_BOSS2} ðành phäi l¤y ra ra #W&I #Pvà ch¸u thua.
+37	16	4	Yªn tØ ± ðoàn diên khánh r¾t ra	#W&U #Pðang cùng #{_BOSS2}#P chiªn ð¤u sinh tØ, b²ng nhiên có mµt cô gái áo tr¡ng tóc dài di ngang qua, #{_BOSS2} quä nhiên hai m¡t sáng rÞ, lúng ta lúng túng v¤p té, r¾t ra #W&I #Pmà không h« hay biªt.
+38	17	4	Yªn tØ ± khßu ma chí ðánh r¾t	#W&U #Pðánh #{_BOSS1} #Pmµt ðòn chí mÕng phäi ngã quÜ, n¡m c± áo và nói: Nþ mà ngß½i thiªu ta bao gi¶ m¾i trä hªt ! #{_BOSS1} gßþng mình ðÑng d§y, l¤y ra ra #W&I #Pgiao lÕi cho #W&U.
+39	17	4	Yªn tØ ± khßu ma chí ðánh r¾t	#W&U #Pcùng ð°ng ðµi ðánh #{_BOSS1} #Pngã quÜ xu¯ng ð¤t, b¤t di b¤t d¸ch, #{_BOSS1} chï biªt cß¶i trong ðau ð¾n, cam tâm giao #W&I #Pð¬ giæ lÕi mÕng s¯ng.
+40	18	4	Yªn tØ ± mµ dung phøc ðánh r¾t	#W&U #Pðang quyªt ð¤u tr§n sinh tØ v¾i #{_BOSS0}, #Pbèn hô to: huynh ð® ðâu, tiªn lên ! #{_BOSS0} nghe mà kinh hoàng, trong lúc tr¯n chÕy còn r¾t ra #W&I #Psau lßng mà không biªt.
+41	18	4	Yªn tØ ± mµ dung phøc ðánh r¾t	#W&U #Pquä nhiên võ công thâm h§u, uy lñc khó lß¶ng, ðã khiªn #{_BOSS0} #PquÏ xu¯ng xin tha mÕng, hai tay giao trä lÕi #W&I#P.
+42	19	4	Liên hoàn phø bän ðánh r¾t nguyên li®u th¥n	#W&U #Pðang kéo thi th¬ #{_BOSS47} #Pra ngoài, b²ng nhiên phát hi®n th¤y #W&I#P.
+43	19	4	Liên hoàn phø bän ðánh r¾t nguyên li®u th¥n	#{_BOSS47}#Ptñ minh biªt không phäi là ð¯i thü cüa #W&U#P, bèn giao trä lÕi #W&I#P và xin tha mÕng.
+44	20	4	Bäo tàng ðµng ðánh r¾t nguyên li®u th¥n	#W&U #PtÕi #G&S #Pnhi®t tình chiªn ð¤u v¾i #{_BOSS23}#P, cu¯i cùng ðã giành ðÕi th¡ng, xÑng ðáng nh§n ðßþc #W&I#P.
+45	21	4	Cái bang t±ng ðà ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS50}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+46	22	4	Nga my s½n ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS51}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+47	23	4	Quang Minh Ði®n r¾t ra th¥n tài	#G&S#P, #{_BOSS52}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+48	24	4	Thiªu lâm tñ ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS53}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+49	25	4	Tinh túc häi ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS54}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+50	26	4	Linh thÑu phong ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS55}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+51	27	4	Võ ðang s½n ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS56}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+52	28	4	Lång ba ðµng ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS57}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+53	29	4	Thiên long tñ ðánh r¾t nguyên li®u th¥n	#G&S#P, #{_BOSS58}#P b¸ #W&U #Pt¤n công t¾i t¤p, ð¸nh gi½ ra #W&I #Pð¬ ðÞ ðòn, nào ng¶ b¸ #W&U #Pcß¾p ngay trên tay.
+54	30	4	Toàn cãnh Boss ðánh r¾t nguyên li®u th¥n	#G&S#P, sau khi ðÕi chiªn h½n 300 hi®p, #{_BOSS14} #Pcäm th¤y quá v¤t vä ðành quay lßng tr¯n chÕy và nói:  #W&U#P ! Khá khen cho höa kháng cüa ngß½i ! Hi®n tÕi ta không th¬ ðánh tiªp, v§y #W&I #Pngß½i xÑng ðáng ðßþc nh§n !
+55	31	4	Bang phái phø bän ðánh r¾t nguyên li®u th¥n	#W&U #Pd¯c sÑc tiêu di®t #{_BOSS43}#P, cu¯i cùng cûng giành ðßþc th¡ng lþi vë vang, ngoài ra còn l¤y ðßþc #W&I#P.
+56	32	4	Ác bá ðánh r¾t	#W&U #Pchiªn ð¤u dûng mãnh v¾i #{_BOSS29}#P, kªt quä là #{_BOSS29} #ðu¯i sÑc quÏ xu¯ng và nói: ÐÕi hi®p ! Tha cho ta con ðß¶ng s¯ng, thì &I #Pnày s¨ thuµc v« ðÕi hi®p !
+57	32	4	Ác bá ðánh r¾t	#{_BOSS29} #Pb¸ ðánh t¾i t¤p, bèn quay lßng tr¯n chÕy và nói: Bão táp ghê quá ! H©n l¥n sau v§y ! Khi mãi chÕy không biªt là ðã r¾t mµt cái túi nhö,  #W&U #Pm· túi ra xem, thì ra là #cB3DB35&I#P.
+58	32	4	Ác bá ðánh r¾t	#W&U #PlÕnh lùng ð¯i m£t v¾i #{_BOSS29}#P, cä hai ð°ng th¶i xu¤t chiêu, #W&U #Pkhiªn #{_BOSS29} #Pphäi ngã quÜ xu¯ng, ð°ng th¶i ðoÕt ðßþc #cB3DB35&I#P.
+59	33	4	Bäo sß½ng ð°ng tØ ðánh r¾t	#G&S#P,  #W&U #Ptrong cuµc rßþt ðu±i ð¥y khó khån, cu¯i cùng cûng b¡t ðßþc #{_BOSS61}#P tinh quái, và nh§n ðßþc thành quä là #W&I #P.
+60	34	4	Long Quy	#GThánh Thú S½n #Pmang vë ð©p hæu tình, #{_BOSS44} #Pr¤t thích mang theo trÑng Long Quy ngao du kh¡p n½i, không h« biªt nãy gi¶ có ngß¶i rình r§p sau lßng,phát hi®n ra thì ðã muµn #W&U #ðã ôm tr÷n #W&I #Pcao chay xa bay.
+61	35	4	Anh Chiêu	#W&U #Pnghe ð°n trong Yªn TØ ‘ có xu¤t hi®n thßþng c± th¥n thú Anh Chiêu, ðã kêu g÷i anh hùng góp sÑc ðánh bÕi #{_BOSS0}#P, #{_BOSS0}#P hªt cách ðành hai tay ðßa ra #W&I#P.
+62	36	4	Hàn Ng÷c C¯c Hùng	#GTô Châu (179,130) #YLâm Tri«u Hùng #Pðang kêu g÷i anh tài tham gia vòng ðua chÕy ng¡n tÕi Hàn Ng÷c C¯c, #{_BOSS62} Ö thân th¬ khöe mÕnh, ð¸nh ném #W&I #Pvång ra xa, nhßng #W&U #PlÕnh lùng dùng lång ba vi bµ né tránh !
+63	37	4	Hàn Ng÷c C¯c Th¯	#W&U #PNh¶ có #GTô Châu (179,130) #YLâm Tri«u Hùng #Pm¾i biªt r¢ng #{_BOSS64} ðang ¦n thân · Hàn Ng÷c C¯c, ðang say sßa trong gi¤c ngü, bèn xu¤t chiêu khiªn BOSS ngã quÜ. Cu¯i cùng ðÕt ðßþc #W&I#P.
+64	38	4	Hàn Ng÷c C¯c Áp	#W&U #Pcùng ðµi ngû ðªn #GTô Châu (179,130), dß¾i sñ giúp ðÞ cüa #YLâm Tri«u Hùng#P, ti«n vào Hàn Ng÷c C¯c, xu¤t th¥n tung mµt chß·ng khiªn #{_BOSS63} phäi ngã quÜ. Ð°ng th¶i ðÕt ðßþc #W&I#P.
+65	39	4	Trß¶ng BÕch S½n 	#W&U #Pðang #G&S#Ptìm nhân sâm kh¡p n½i, b²ng ngÕc nhiên phát hi®n ra#W&I#P, vui m×ng tµt ðµ.
+66	39	4	Trß¶ng BÕch S½n 	#W&U #Pðã c¯ g¡ng b¤y lâu nay, tß·ng ch×ng m®t möi mu¯n bö cuµc #G&S#P, v¾i ngh¸ lñc phi thß¶ng cu¯i cùng cûng ðÕt ðßþc #W&I#P, nên tâm trÕng vui m×ng khôn tä.
+67	41	4	Bang phái trú ð¸a r½i ra	#PSau khi ðánh bÕi S½n Th¥n, #W&U #Pnhanh chóng thu d÷n hi®n trß¶ng, ðang tìm dß¾i d¤u chân to l¾n cüa S½n Th¥n, b²ng phát hi®n có v§t gì l¤p lánh lung linh, hªt sÑc ngÕc nhiên, thì ra chính là #W&I#P.
+68	42	4	Phiêu Mi­u Phong r½i ra nguyên li®u ðáng giá	#W&U #Pquyªt chiªn m®t möi trong Phiêu Mi­u Phong, nhi«u l¥n ðÕi nÕn thoát chªt mà vçn không th¤y quy¬n võ lâm bí t¸ch nào, may thay tr¶i không phø lòng ngß¶i, tìm th¤y ðßþc #W&I#P, xem nhß không u±ng công lâu nay !
+69	43	4	Phiêu Mi­u Phong r½i ra Th¥n Tiªt	#W&U #PtÕi Phiêu Mi­u Phong b²ng phát hi®n mµt næ t£c trong tay ðang c¥m báu v§t bí ¦n, bèn hô to: có thích khách ! Næ t£c lúng túng quay lßng tr¯n chÕy r¾t cä báu v§t, lÕi g¥n thì phát hi®n quä nhiên là #W&I#P
+70	44	4	Phiêu Mi­u Phong r½i ra Hàn Ng÷c	#PMây mßa s¤m sét dày ð£c kh¡p khu vñc Phiêu Mi­u Phong, #W&U #Pðang tìm ch² tÕm trú qua c½n mßa vô tình phát hi®n ra ánh sáng l¤p lánh t× phía cu¯i góc tß¶ng, thì ra là #W&I#P.
+71	45	4	Bäo v® bang phái r½i ra Thiên Cang	#PSau khi ðánh bÕi S½n Th¥n, #W&U #Pnhanh chóng thu d÷n hi®n trß¶ng, ðang tìm dß¾i d¤u chân to l¾n cüa S½n Th¥n, b²ng phát hi®n có v§t gì l¤p lánh lung linh, hªt sÑc ngÕc nhiên thì ra chính là #W&I#P.
+72	46	4	Bäo v® bang phái phái r½i ra TrÑng Trân Thú	#W&U #Pðang ði tu¥n tra qua lÕi trong thành th¸, b²ng nhiên có mµt âm thanh ch¤n ðµng t× phía xa, lÕi g¥n m¾i phát hi®n thì ra là #W&I#P, th§t b¤t ng¶ khó tä.
+73	47	4	T¥n Hoàng Ð¸a Cung	#W&U #Pnghênh chiªn v¾i #{_BOSS78} #PtÕi T¥n Hoàng Ð¸a Cung T¥ng 1, khí thª h×ng hñc, v¾i uy lñc thâm h§u cüa mình và ð°ng ðµi, cu¯i cùng ðã ðoÕt ðßþc #W&I.
+74	48	4	T¥n Hoàng Ð¸a Cung	#W&U #Pnghênh chiªn v¾i #{_BOSS79}#P · T¥n Hoàng Ð¸a Cung T¥ng 2, càng ðánh càng hång, nh¶ võ công thâm h§u cüa mình, cu¯i cûng ðã giành chiªn th¡ng vë vang, xÑng ðáng nh§n ðßþc #W&I.
+75	49	4	T¥n Hoàng Ð¸a Cung	#PTÕi T¥n Hoàng Ð¸a Cung T¥ng 3, #{_BOSS80} cäm th¤y ðã hªt ðß¶ng lui bèn nói v¾i #W&U#P: cûng chï vì #W&I #Pthôi mà ! Ðßa hªt cho các ngß½i chßa ðü sao, còn muôn truy sát ta ðªn bao gi¶ !
+76	50	4	Lâu Lan Liên Hoàn phø bän	#W&U#P phi thân ðá#{_BOSS95}#P1 cß¾c, không mu¯n thêm mµt cß¾c næa #{_BOSS95}#P ðành quay ngß¶i bö chÕy, trong lúc hoang mang#W&I#P b²ng r¾t ra  trên m£t ð¤t. 
+77	51	4	Lâu Lan Liên Hoàn phø bän	#W&U#P tÕi Ðµc Chß¾ng TrÕch thu th§p dßþc thäo, không ng¶ lÕi r½i vào sào huy®t cüa #{_BOSS96}#P, thu§n tay v¾t ra #W&I#P r°i ¦n thân biªn m¤t. 
+78	52	4	Lâu Lan Liên Hoàn phø bän	#W&U#P tung 1 chiêu"Bång Thiên Tuyªt ÐiÕ", #{_BOSS97}#P không ch¯ng cñ n±i cái lÕnh c¡t xß½ng th¸t, vÞ ra muôn ngàn mänh ð°ng th¶i bö lÕi 1 cái#W&I#P. 
+79	53	4	Hµ Ðäo Th¥n Thú trong phø bän Huy«n Vû Ðäo	#W&U#PS¾m ðã nghe nói Huy«n Vû Ðäo phong cänh hæu tình, nhân hôm nay ð©p tr¶i ðªn n½i ðây du ngoÕn. #{_BOSS88}#Pkhông c¦n th§n ðÕp trúng vö chu¯i chính mình ném ra, trßþt ngã, r½i ra 1 cái#W&I#P. 
+80	54	4	Phi Thiên Miêu trong phø bän Huy«n Vû Ðäo	#{_BOSS89}#P dçn ti¬u ð® lên Huy«n Vû Ðäo ð¤u ðá ngang d÷c, quä nhiên hôm nay th¤t chân r½i vào#W&U#PcÕm bçy, ðành phäi ðem ra#W&I#Pcúi ð¥u quy phøc. 
+81	55	4	Phi Thiên Miêu Ti¬u Ð® Trong phø bän Huy«n Vû Ðäo	#{_BOSS90}#P theo ðÕi ca vô ð¸ch Phi Thiên Miêu, trên Huy«n Vû Ðäo ð¤u ðá lung tung, hôm nay th¤t chân r½i vào#W&U#PcÕm bçy, không biªt thª nào ðành lôi ra #W&I#P, luôn mi®ng c¥u xin. 
+82	56	4	Phi Thiên Miêu Ti¬u Ð® Trong phø bän Huy«n Vû Ðäo	#{_BOSS91}#P theo ðÕi ca vô ð¸ch Phi Thiên Miêu, trên Huy«n Vû Ðäo ð¤u ðá lung tung, hôm nay th¤t chân r½i vào#W&U#PcÕm bçy, không biªt thª nào ðành lôi ra #W&I#P, luôn mi®ng c¥u xin. 
+83	57	4	Phi Thiên Miêu Ti¬u Ð® Trong phø bän Huy«n Vû Ðäo	#{_BOSS92}#P theo ðÕi ca vô ð¸ch Phi Thiên Miêu, trên Huy«n Vû Ðäo ð¤u ðá lung tung, hôm nay th¤t chân r½i vào#W&U#PcÕm bçy, không biªt thª nào ðành lôi ra #W&I#P, luôn mi®ng c¥u xin. 
+84	58	4	Phi Thiên Miêu Ti¬u Ð® Trong phø bän Huy«n Vû Ðäo	#{_BOSS93}#P theo ðÕi ca vô ð¸ch Phi Thiên Miêu, trên Huy«n Vû Ðäo ð¤u ðá lung tung, hôm nay th¤t chân r½i vào#W&U#PcÕm bçy, không biªt thª nào ðành lôi ra #W&I#P, luôn mi®ng c¥u xin. 
+85	59	4	Chß·ng Cñ Yªu Quyªt r½i ra	#{_BOSS29}#P Nh¡m th¤y ko ð¸ch n±i, trong tình hình nguy ng§p rút ra mµt v§t t× trong ngß¶i ð¬ trß¾c m£t #W&U#P, thì ra là mµt cu¯n#W&I#P. 
+86	60	4	Ðä C¦u B±ng r½i ra	#W&U#P ðang dÕo bß¾c trên thäo nguyên, ðµt nhiên b¸ #{_BOSS11} t¤n công, gi§n dæ, n¡m l¤y y ðánh ð¤m t½i b¶i, #{_BOSS11} không ð¸ch n±i, ðem ra cái #W&I#P quÏ xu¯ng xin tha. 
+87	61	4	Yªn Vß½ng r½i ra	#W&U#P tÕi #GYªn Vß½ng C± Mµ t¥ng 3#P dùng tuy®t chiêu "Oa Tâm Cß¾c" ðá vào ngß¶i cüa #{_BOSS33}#P khiªn cho h¡n phäi thoái lui, giành l¤y chiªn th¡ng, ðÕt ðßþc mµt bµ #W&I#P. 
+88	62	4	Yªn Vß½ng r½i ra	#W&U#P tÕi #GYªn Vß½ng C± Mµ t¥ng 6#P mµt chiêu "Løc MÕch Th¥n Kiªm" hÕ #{_BOSS37}#P, nh£t lên #W&I#P t× trên ngß¶i cüa #{_BOSS37}#Pr½i ra, sau ðó cß¶i l¾n mà ði. 
+89	63	4	Yªn Vß½ng r½i ra	#{_BOSS41}#P tÕi #GYªn Vß½ng C± Mµ t¥ng 9 #Pb¸ #W&U#P cho mµt chß·ng tr÷ng thß½ng, ðành giao ra mµt bµ #W&I#P ð¬ xin tha. 
+90	64	4	Lâu Lan T¥m Bäo	#W&U#P Sau khi ðánh bÕi #{_BOSS94}#P, mu¯n xóa sÕch d¤u vªt, thu d÷n chiªn trß¶ng ko ng¶ · 1 góc · #GLâu Lan Bäo Tàng Ðµng#Pphát hi®n 1 cái #W&I#P. 
+91	65	4	Thánh Thú S½n Thi¬m Ði®n C¦u	#{_BOSS115}#P Dçn ti¬u ð® leo lên ðïnh Thánh Thú S½n, m¾i ngang lßng ch×ng thì &U#P ¥m ¥m tuyªt l· chôn vùi, chï còn mµt cu¯n#W&I#Pbay tung trong gió. 
+92	66	4	Thánh Thú S½n Nghiªt H°n Tích D¸ch	#W&U#P tÕi #GThánh Thú S½n#P cùng #{_BOSS117}#P chiªn ð¤u k¸ch li®t, b²ng mµt v§t cÑng t× ðâu bay ðªn trúng ðïnh ð¥u, tÑc gi§n, không thèm nh£t lên chï liªc mµt cái, thì ra 1 cu¯n #W&I#P, m×ng th¥m: thì ra trong h÷a có phúc.
+93	67	4	Thánh Thú S½n H¤p Huyªt Bi¬n BÑc	#W&U#P tÕi #GThánh Thú S½n#P cùng #{_BOSS116}#P chiªn ð¤u k¸ch li®t, b±ng mµt v§t cÑng t× ðâu bay ðªn trúng ðïnh ð¥u, tÑc gi§n, không thèm nh£t lên chï liªc mµt cái, thì ra 1 cu¯n #W&I#P, m×ng th¥m: thì ra trong h÷a có phúc. 
+94	68	4	Minh Giáo 45 Yªu Quyªt	#{_BOSS11}#P · #GThäo Nguyên#P hß¾ng ðªn bäo ng÷c huynh ð® ðoÕt ðßþc, lÕi không mu¯n #W&U#P huynh ð® giªt, #{_BOSS11} và vây cánh cüa y b¸ giªt sÕch, lúc ngã xu¯ng 1 cu¯n #W&I#P t× mình r½i ra. 
+95	69	4	Thiªu Lâm Tinh Túc Thiên S½n 45Yªu Quyªt	#W&U#P th¯ng lînh ðµi quân tinh nhu® lên #GVõ Di#P truy tìm #{_BOSS9}#P, #{_BOSS9}#P vì ðÕi cuµc mà ði, dân lên mµt cu¯n #W&I#P xin khoan dung. 
+96	70	4	Tiêu Dao Nga My 45 Yªu Quyªt	#W&U#P th¯ng lînh huynh ð® xông pha bình ð¸nh #{_BOSS7}#P, ngß¶i dân · #GThß½ng S½n#P ðã t£ng 1 cu¯n #W&I#P ð¬ báo ðáp. 
+97	71	4	Võ Ðang Thiên Long 45 Yªu Quyªt	#{_BOSS5}#Pðang ·#GHuy«n Vû Ðäo#Pbài binh b¯ tr§n, ðáng tiªc thª tr§n vçn chßa k¸p l§p thì ti¬u ðµi ðã b¸ ðánh úp#W&U#P, dçn ðªn toàn th¬ tan tác, ðành phäi giao ra mµt cu¯n#W&I#Pxin hàng! 
+98	72	4	Yªu Quyªt Thiên Long Thiªu Lâm 80	#{_BOSS118}#P ðªn #GTàng Kinh Các#P cß¾p ðoÕt kinh sách, tß·ng s¡p l¤y ðßþc thì b¸ #W&U#P ðá mµt cß¾c, không nhæng b¸ trúng thß½ng nghiêm tr÷ng, lÕi còn r½i ra 1 quy¬n #W&I#P.
+99	73	4	Bàn S½n ÐÕo Nhân	#{_BOSS121}#P ðang chiêm ngßÞng bäo v§t, chþt hào quang lóe sáng r½i ra #W&I#P, #W&U#P c¥m l¤y và nói: "Ða tÕ!"
+100	73	4	Bàn S½n ÐÕo Nhân	#W&U#P lãnh ðÕo các hào ki®t ði tìm bäo tàng, tình c¶ g£p #{_BOSS121}#P m¾i ð¤u v¾i nó 100 hi®p, nó ð¤u không lÕi bèn bö chÕy, d÷c ðß¶ng làm r½i #W&I#P.
+101	73	4	Bàn S½n ÐÕo Nhân	#{_BOSS121}#P ðang mäi mê ng¡m nghía kÏ bäo trong tay, chþt #W&U#P bay ra, ðoÕt l¤y kÏ bäo #W&I#P trong tay #{_BOSS121}#P.
+102	74	4	Lâu Lan phø bän Hµ Ðäo Th¥n Thú r½i ra Trân Thú Huy­n Hoá Ðan toái phiªn	#{_BOSS88}#P ðang tän bµ · #GHuy«n Vû Ðäo#P, ai ng¶ #W&U#P mai phøc bên ðß¶ng ðã lâu, #{_BOSS88}#P sau khi b¸ ðánh mµt tr§n t½i tä ðành ngoan ngoãn giao ra #W&I#P.
+103	75	4	Di®t Ti¬u Ác Bá r½i ra Linh Thú Tinh Phách 	#{_BOSS27}#P trong môn phái làm nhi«u chuy®n ác, #W&U#P ra tay tr×ng tr¸ h¡n ð¬ thanh lý môn hµ, chß·ng môn nhân th¤y v§y li«n trao cho #W&I#P ð¬ tß·ng thß·ng.
+104	76	4	Lâu Lan phø bän Phi Thiên Miêu r½i ra Trân Thú Huy­n Hoá Ðan toái phiªn	#{_BOSS89}#P kéo theo tay sai ra ngoài thu thuª, không ng¶ b÷n tay chân b¸ trúng kª ði®u h± ly s½n cüa #W&U#P, #{_BOSS89}#P chï còn mµt mình, th¤y tình thª không xong ðành cam ch¸u giao ra 1 #W&I#P.
+105	77	4	Phän T£c r½i ra Äo Hóa Ðan	#{_BOSS29}#P ðang mu¯n t¤n công thành trì, ai ng¶ b¸ #W&U#P mµt tay hÕ gøc, #W&U#P khi thanh lý chiªn trß¶ng vô tình phát hi®n 1 #W&I#P!
+106	78	4	Dß Ðµc r½i Võ H°n	#W&U#P ði qua doanh ð¸a cüa #{_BOSS45}#P, th×a c¶ h¡n ðang ngü, thu§n tay l¤y ði 1 #W&I#P.
+107	79	4	H°ng Hùng Vß½ng r½i Võ H°n	#W&U#P ðªn sào huy®t #{_BOSS46}#P, dùng cá khô dø #{_BOSS46}#P ra ngoài, d­ dàng vào sào huy®t l¤y ði #W&I#P.
+108	80	4	Bàn S½n ÐÕo Nhân	#W&U#P ðÕi hi®p anh minh th¥n võ, th¯ng lînh các hào ki®t ðánh cho #{_BOSS121}#P t½i b¶i hoa lá, #{_BOSS121}#P ðành ch¸u thúc thü, hai tay dâng t£ng #W&I#P ð¬ c¥u xin tha mÕng.
+109	81	4	Lý Thu ThuÖ	#W&U#P phi thân ðá mµt cß¾c khiªn #{_BOSS76}#P r¾t khöi thú cßÞi, nhìn kÛ thú cßÞi ðó thì ra là #W&I#P, cäm th¤y vui m×ng vô hÕn.
+110	82	4	Tàng Kinh Các BOSS r½i Ðiêu Vån	#W&U#P ðang · trong #GTàng Kinh Các#P nghiên cÑu kinh vån, không ng¶ #{_BOSS118}#P lÕi la hét °n ào trong ðó, #W&U#P l¤y ðÑc phøc nhân, nói l¶i ðÕo lý khiªn #{_BOSS118}#P ðành ðßa ra #W&I#P ð¬ chuµc tµi.
+111	83	4	Cát Vinh r½i Ðiêu Vån	#W&U#P ði ðªn #GDã NgoÕi Phï TrÕi#P thám thính tình hình loÕn phï, phát hi®n trong bäo kh¯ cüa #{_BOSS47}#P chÑa #W&I#P, #W&U#P v¯n tính không lãng phí bèn âm th¥m l¤y ði.
+112	84	4	Höa Di­m Yêu Ma r½i Ðiêu Vån	#W&U#P ðªn #GDung Nham Chi Ð¸a#P khäo sát ð¸a hình · ðó, không ng¶ b¸ #{_BOSS97}#P d÷a mµt tr§n hªt h°n, khi ð¸nh th¥n nhìn lÕi thì th¤y trên ð¤t có 1 #W&I#P!
+113	85	4	Sát Tinh r½i ra	#W&U#P trên #GSinh TØ Lôi Ðài#P tä xung hæu ðµt, d­ dàng ðoÕt l¤y #W&I#P t× ch² Sát Tinh!
+114	86	4	Mµ Dung S½n Trang r½i Nguyên li®u th¥n kÏ	#G&S#P, #{_BOSS122}#P th¤y không ð¸ch lÕi #W&U#P, l¤y ra 1 #W&I#P ð¸nh dùng ð¬ che ch¡n, ai ng¶ lÕi b¸ #W&U#P ðßa tay ðoÕt l¤y.
+115	87	4	T¥n Hoàng Ð¸a Cung	#P#{_BOSS123} · T¥n Hoàng Ð¸a Cung t¥ng 4 ðang chïnh lÕi y phøc trong phòng, ai ng¶ #W&U#P lao vào, #{_BOSS123} th¤t kinh, làm r½i 1 #W&I#P.
+116	88	4	Sát Tinh r½i Thánh Thú Chi H°n	#W&U#PHi®n tÕi ðang chiªn ð¤u v¾i#GDã Trß Nông Trß¶ng#P tÕi#{_BOSS19}, ðµt nhiên sØ døng chiêu phi long tham vân thü, t× ðó trên ngß¶i l¤y ra 1 v§t d¸ thß¶ng #W&I#P!
+117	89	4	Sát Tinh r½i ra Rång Thánh Thú	#W&U#Phi®n tÕi trong #Gsinh tØ lôi ðài#P b¸ chúng sát tinh bao vây, cu¯i cùng lþi døng kª miêu thü, t× ðó trong túi áo l¤y ra mµt cái thª gian hiªm có#W&I#P!
+118	90	4	Sinh Tiêu Lôi Ðài TrÕi	#G12 con giáp #P g¥n ðây nhàn hÕ sinh chán, dñng Sinh Tiêu Lôi Ðài · ch² #GÐÕi Lý (264,127)#Yvân Phiêu Phiêu#P. Nay #W&U#P khiêu chiªn thành công 12 con giáp khiªn chúng khâm phøc vô cùng, ð£c bi®t t£ng #W&I#P ð¬ tö thành ý.

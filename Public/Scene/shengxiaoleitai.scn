@@ -1,0 +1,7 @@
+[System]
+navmapname=shengxiaoleitai.nav
+monsterfile=shengxiaoleitai_monster.ini
+patrolpoint=shengxiaoleitai_patrolpoint.ini
+growpointdata=shengxiaoleitai_growpoint.txt
+growpointsetup=shengxiaoleitai_growpointsetup.txt
+eventfile=shengxiaoleitai_area.ini

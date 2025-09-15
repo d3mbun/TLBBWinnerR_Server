@@ -1,0 +1,13 @@
+--ÐÕi LýNPC
+--¶¡Ãå
+--ÆÕÍ¨
+
+--**********************************
+--ÊÂ¼þ½»»¥Èë¿Ú
+--**********************************
+function x003005_OnDefaultEvent( sceneId, selfId,targetId )
+	BeginEvent(sceneId)
+		AddText(sceneId,"  T× sau khi xäy ra chuy®n, tinh th¥n công tØ nhà tôi vçn không ðßþc t¯t, không rõ công tØ ðã nhìn th¤y gì?")
+	EndEvent(sceneId)
+	DispatchEventList(sceneId,selfId,targetId)
+end

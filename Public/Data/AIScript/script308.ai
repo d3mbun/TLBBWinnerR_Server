@@ -1,0 +1,29 @@
+;Tieu dao
+[common]
+
+[commonend]
+
+;Quan trong nhat la skill dau mon phai
+[skill]
+0:if(AIS_IsCanSkill(521)=1){AIS_ToSkill(521);AIS_SetTimes(-1);AIS_SetPRI(34);};					
+1:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(523)=1){AIS_ToSkill(523);AIS_SetTimes(1);AIS_SetPRI(40);};					
+2:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(525)=1){AIS_ToSkill(525);AIS_SetTimes(1);AIS_SetPRI(40);};					
+3:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(533)=1){AIS_ToSkill(533);AIS_SetTimes(1);AIS_SetPRI(40);};					
+4:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(535)=1){AIS_ToSkill(535);AIS_SetTimes(1);AIS_SetPRI(40);};					
+5:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(538)=1){AIS_ToSkill(538);AIS_SetTimes(1);AIS_SetPRI(40);};					
+6:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(540)=1){AIS_ToSkill(540);AIS_SetTimes(1);AIS_SetPRI(40);};					
+7:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(522)=1){AIS_ToSkill(522);AIS_SetTimes(1);AIS_SetPRI(40);};					
+8:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(522)=1){AIS_ToSkill(522);AIS_SetTimes(1);AIS_SetPRI(40);};					
+9:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(541)=1){AIS_ToSkill(541);AIS_SetTimes(1);AIS_SetPRI(40);};					
+10:if(AIS_GetAIState()=SATTACK&AIS_Rand()<10&AIS_IsCanSkill(544)=1){AIS_ToSkill(544);AIS_SetTimes(1);AIS_SetPRI(40);};					
+[skillend]
+
+[beskill]
+[beskillend]
+
+[damage]
+[damageend]
+
+[dead]
+[deadend]
+

@@ -1,0 +1,91 @@
+--¶¯Ì¬Éú³ÉtoÕ ðµ ½©Ê¬
+
+x807001_g_scriptId=807001
+
+
+
+--**********************************
+
+--ÊÂ¼þ½»»¥Èë¿Ú
+
+--**********************************
+
+function x807001_OnDefaultEvent( sceneId, selfId, targetId )
+	--SetUnitReputationID(sceneId, selfId, targetId, 28)
+	--ÅÐ¶ÏÐúng·ñÄÜ¹»¼¤»î¸ÃnpctoÕ ðµ Ìõ¼þ
+
+	--PrintStr("haha...ÎÒÐúng½©Ê¬")
+
+	local npcLevel = GetCharacterLevel(sceneId, targetId)
+
+	local teamCount = GetTeamMemberCount(sceneId, selfId)
+
+	local teamLeaderID = GetTeamLeader(sceneId, selfId)
+
+	local teamLeaderLevel = GetCharacterLevel(sceneId, teamLeaderID)
+
+	
+
+	--PrintNum(teamLeaderID)
+
+	--PrintNum(teamCount)
+
+	--PrintNum(teamLeaderLevel)
+
+	--PrintNum(npcLevel)
+
+	
+	--È¡ ði¬mÍæ¼Ò¸½½ütoÕ ðµ ¶ÓÓÑÊýÁ¿(°üÀ¨×Ô¼º)
+	local nearteammembercount = GetNearTeamCount( sceneId, selfId )
+	if  nearteammembercount < 1 then	
+
+		BeginEvent(sceneId)
+
+			AddText(sceneId, "Dám coi thß¶ng ta, chí ít cûng phäi là 3 ngß¶i hþp lÕi m¾i ðßþc, ha ha.")
+
+		EndEvent(sceneId)
+
+		DispatchEventList(sceneId,selfId,targetId)
+
+		return
+
+	elseif teamLeaderLevel < npcLevel then
+
+		--ÌáÊ¾Ìõ¼þ²»·û
+
+		BeginEvent(sceneId)
+
+			AddText(sceneId, "Dám coi thß¶ng ta, ðÆng c¤p cao h½n s¨ biªt lþi hÕi cüa ta")
+
+		EndEvent(sceneId)
+
+		DispatchEventList(sceneId,selfId,targetId)
+
+		return
+
+
+
+	else
+
+		--¼¤»înpc
+
+		--PrintStr("active npc...")
+
+		--ÉèÖÃ¶Ô¹ÖÎªµÐ¶ÔtoÕ ðµ  Ä¿Ç°Ðúng28ºÅÐúngµÐ¶ÔtoÕ ðµ ,Èç¹ûÓÐÈË¸Ä±äÁËÏàÓ¦toÕ ðµ ÊÆÁ¦ÉùÍûÄÇÎÒ¾Í²ÒÁË£¡£¡:-(((
+		SetUnitReputationID(sceneId, selfId, targetId, 28)
+
+
+	end
+
+	
+
+end
+
+
+
+function x807001_OnDie(sceneId, selfId, killerId)
+
+
+
+end
+

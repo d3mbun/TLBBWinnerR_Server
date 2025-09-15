@@ -1,0 +1,116 @@
+-- Ë«±¶Kinh nghi®mÊ±¼äÒ©Ë®
+-- ÏûºÄmµt cáiÒ©Ë®,
+
+--½Å±¾ºÅ
+x300039_g_scriptId = 300039
+x300039_g_ItemId = 30008002
+x300039_g_ItemId_1 = 30008027
+x300039_g_ItemId_2 = 30505214
+
+x300039_g_BuffPalyer_25 = 60
+x300039_g_BuffAll_15 = 62
+x300039_g_BuffPet_25 = 61
+x300039_g_BuffPet_2 = 53
+
+--**********************************
+--ÊÂ¼þ½»»¥Èë¿Ú
+--**********************************
+function x300039_OnDefaultEvent( sceneId, selfId, nItemIndex)
+
+	if LuaFnHaveImpactOfSpecificDataIndex(sceneId, selfId, x300039_g_BuffPalyer_25) == 1   then
+		BeginEvent(sceneId)
+			AddText(sceneId,"Trên ngß¶i các hÕ ðã t°n tÕi th¶i gian nhân ðôi kinh nghi®m quá cao!")
+		EndEvent(sceneId)
+		DispatchMissionTips(sceneId,selfId)
+		return
+	end
+	
+	if LuaFnHaveImpactOfSpecificDataIndex(sceneId, selfId, x300039_g_BuffAll_15) == 1   then
+		BeginUICommand(sceneId)
+			UICommand_AddInt(sceneId,x300039_g_scriptId);
+			UICommand_AddInt(sceneId,nItemIndex)
+			UICommand_AddString(sceneId,"EatMe");
+			UICommand_AddString(sceneId,"Trên ngß¶i các hÕ ðã t°n tÕi th¶i gian nhân ðôi kinh nghi®m, mu¯n xác nh§n sØ døng chång?");
+		EndUICommand(sceneId)
+		DispatchUICommand(sceneId,selfId, 24)
+
+		return
+	end
+	
+	x300039_UseItem( sceneId, selfId, nItemIndex)
+	
+end
+
+function x300039_IsSkillLikeScript( sceneId, selfId)
+	return 0
+end
+
+--**********************************
+--
+--**********************************
+function x300039_EatMe( sceneId, selfId, nItemIndex)
+	x300039_UseItem( sceneId, selfId, nItemIndex)
+end
+
+--**********************************
+-- 
+--**********************************
+function x300039_UseItem( sceneId, selfId, nItemIndex)
+	-- ÏÈ¼ì²âCái này  nItemIndex toÕ ðµ ÎïÆ·Ðúng²»ÐúngºÍµ±Ç°toÕ ðµ ¶ÔÓ¦,
+	local nItemId = GetItemTableIndexByIndex(sceneId, selfId, nItemIndex)
+	if nItemId ~= x300039_g_ItemId and nItemId ~= x300039_g_ItemId_1 and nItemId ~= x300039_g_ItemId_2 then
+		BeginEvent(sceneId)
+			AddText(sceneId,"  Sai sót trong tay näi")
+		EndEvent(sceneId)
+		DispatchMissionTips(sceneId,selfId)
+		return
+	end
+
+	--1,¿´Íæ¼ÒÐúng²»Ðúngµ±Ç°toÕ ðµ ÉíÉÏtoÕ ðµ Ë«±¶Kinh nghi®mÊ±¼äÐúng¶àÉÙ,Èç¹û´ïµ½ÉÏÏÞ,¾Í²»ÄÜÊ¹ÓÃ
+	local nCurHaveTime = DEGetMoneyTime(sceneId, selfId)
+	
+	if nCurHaveTime >= 99*60*60   then
+		BeginEvent(sceneId)
+			AddText(sceneId,"  Trß¾c m¡t, th¶i gian kinh nghi®m g¤p ðôi mà các hÕ sØ døng Thiên linh ðan có ðßþc ðã ðªn mÑc gi¾i hÕn.")
+		EndEvent(sceneId)
+		DispatchMissionTips(sceneId,selfId)
+		return
+	end
+	
+	--·ûºÏÊ¹ÓÃCái này ÎïÆ·toÕ ðµ Ìõ¼þ,
+	local ret = EraseItem(sceneId, selfId, nItemIndex)
+		
+	-- ÏÖTÕi Ê±¼ä
+	local nCurTime = LuaFnGetCurrentTime()
+
+	if ret == 1    then
+		DESetMoneyTime(sceneId, selfId, nCurHaveTime + 3600 )
+		
+		-- Èç¹ûÍæ¼Òµ±Ç°toÕ ðµ Ë«±¶Kinh nghi®mÊ±¼äÐúng±»¶³½átoÕ ðµ ,¸øÍæ¼Òmµt cáiÌáÊ¾
+		if 1 == DEIsLock(sceneId, selfId)  then
+			DESetLock( sceneId, selfId, 0 )
+			BeginEvent(sceneId)
+				AddText(sceneId,"Th¶i gian nhân ðôi kinh nghi®m mà các hÕ ðóng bång ðã ðßþc giäi ðông, và ðßþc tång thêm 1 gi¶ th¶i gian nhân ðôi kinh nghi®m.")
+			EndEvent(sceneId)
+			DispatchMissionTips(sceneId,selfId)
+			
+		else
+			BeginEvent(sceneId)
+				AddText(sceneId,"SØ døng nhân ðôi kinh nghi®m trong 1 gi¶.")
+			EndEvent(sceneId)
+			DispatchMissionTips(sceneId,selfId)
+			
+		end
+		
+	else
+		BeginEvent(sceneId)
+			AddText(sceneId,"V§t ph¦m không th¬ sØ døng")
+		EndEvent(sceneId)
+		DispatchMissionTips(sceneId,selfId)
+		
+	end
+	
+	-- Í¬²½Êý¾Ýµ½¿Í»§¶Ë
+	SendDoubleExpToClient(sceneId,selfId)
+end
+

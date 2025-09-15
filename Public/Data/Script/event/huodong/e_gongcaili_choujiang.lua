@@ -1,0 +1,426 @@
+--»î¶¯
+--³é½±
+--LuaFnGetAvailableItemCount(sceneId, selfId, itemId)
+
+
+x808065_g_ScriptId = 808065;
+
+--x808065_g_StartDayTime = 7285; --10.12
+x808065_g_StartDayTime = 7304; --11.01
+x808065_g_EndDayTime = 7325;   --11.22
+
+x808065_g_ItemId   =
+{
+	["choujiang1"] = 40004431,
+	["choujiang2"] = 30900006,
+	["choujiangtudi"] = 40004433,
+	["choujiangshifu"] = 40004432,
+}
+
+x808065_g_Key				=
+{
+	["choujiang1"]	=	101,			--³é½±»î¶¯1
+	["choujiang2"]	= 102,			--³é½±»î¶¯2
+	["choujiang3"]	= 103,			--³é½±»î¶¯3
+	["choujianghuodong"]	= 104,			--³é½±Ë ði¬m÷
+	["choujiangshuoming1"] = 105,
+	["choujiangshuoming2"] = 106,
+	["choujiangshuoming3"] = 107,
+}
+
+function x808065_OnDefaultEvent( sceneId, selfId, targetId )
+
+	local isTime = x808065_CheckRightTime();
+	if 1 ~= isTime then
+	
+		return
+		
+	end
+	
+	local NumText = GetNumText();	
+	local MyLevel = GetLevel( sceneId, selfId );
+	if(NumText == x808065_g_Key["choujiang1"]) then
+	
+		if(MyLevel < 20) then
+		
+			x808065_Printf( sceneId,  selfId, targetId , ""..GetName( sceneId, selfId )..", ngß½i g¥n ðây · trên giang h° có chút vang dµi, nhßng cách tân binh ðoÕt bäo tiêu chu¦n còn có mµt chút khoäng cách. Ngß½i vçn ðþi ðªn #Gc¤p 20#W lÕi ðªn tìm ta!");
+			
+		elseif(MyLevel >=20 and MyLevel < 40) then
+		
+			local Num = LuaFnGetAvailableItemCount(sceneId, selfId, x808065_g_ItemId["choujiang1"]);
+			if(Num > 0) then
+			
+				x808065_Printf( sceneId, selfId, targetId,  ""..GetName( sceneId, selfId )..", cüa ngß½i xác thñc th§t là trên giang h° không th¬ bö qua  mµt c² tân thª lñc. Nhßng là ngß½i không lâu phía trß¾c, ðã mu¯n · ta n½i này tr×u quá khen lÕp! Ngß½i xem, ngß½i trên ngß¶i còn mang theo vé x± s¯ ðâu!");
+				
+			else
+				
+				if( x808065_AddJiangjuan( sceneId, selfId, x808065_g_ItemId["choujiang1"]) == 1) then
+				
+					x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..", ngß½i ðã mu¯n thành công tiªn hành r°i lãnh thß·ng, tên cüa ngß½i ðã ðßþc xªp vào danh sách lãnh thß·ng. Thïnh kiên nhçn ch¶ ðþi thông tri, cø th¬ hoÕt ðµng nµi dung thïnh tìm ð÷c trên trang web Thiên Long bát bµ.");
+					
+				end
+			
+			end
+			
+		end
+	
+	elseif(NumText == x808065_g_Key["choujiang2"] ) then
+		
+		if(MyLevel < 40) then
+		
+			x808065_Printf(sceneId, selfId, targetId, ""..GetName( sceneId, selfId )..", ngß½i g¥n ðây · trên giang h° có chút vang dµi, nhßng chï có trên giang h° t¯i höa tân thª lñc tài nång lînh siêu thích ðÕi l­ bao ðâu, ngß½i vçn phäi ðÕt t¾i #Gc¤p 40#W lÕi ðªn lînh ðÕi l­ bao ði!");
+			
+		elseif(MyLevel >=40 and MyLevel <=45) then
+			
+			if( GetMissionFlag( sceneId, selfId, MF_CHOUJIANGDALIBAO01 ) == 1) then
+			--ÒÑ¾­Áì¹ý
+				x808065_Printf(sceneId, selfId, targetId, ""..GetName( sceneId, selfId )..", cüa ngß½i xác thñc th§t là trên giang h° mµt thª lñc m¾i. Nhßng là ngß½i không lâu phía trß¾c, ðã mu¯n · ta n½i này lînh ðÕi l­ bao!");
+			
+			elseif( GetMissionFlag( sceneId, selfId, MF_CHOUJIANGDALIBAO01 ) == 0) then
+			
+				if( x808065_PutIntoPack( sceneId, selfId, targetId, x808065_g_ItemId["choujiang2"], QUALITY_MUST_BE_CHANGE, 1 , 1) == 1) then
+				
+					SetMissionFlag(sceneId, selfId, MF_CHOUJIANGDALIBAO01, 1);
+					x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..", ngß½i ðã mu¯n thành công ðÕt ðßþc ðÕi l­ bao. Nhìn xem b÷c hành cüa ngß½i ði, bên trong hÆn là h½n mµt ki®n cho ngß½i!");
+					
+				end
+			
+			end
+		
+		elseif(MyLevel > 45 and MyLevel < 50) then
+		
+			x808065_Printf(sceneId, selfId, targetId, ""..GetName( sceneId, selfId )..", ngß½i g¥n ðây · trên giang h° có chút vang dµi, nhßng chï có trên giang h° t¯i höa tân thª lñc tài nång lînh ðÕi l­ bao ðâu, ngß½i phäi ðÕt t¾i #Gc¤p 50 #W lÕi ðªn lînh ðÕi l­ bao ði!");
+			
+		elseif(MyLevel >= 50 and MyLevel <= 55) then
+		
+			if( GetMissionFlag( sceneId, selfId, MF_CHOUJIANGDALIBAO02 ) == 1) then
+			--ÒÑ¾­Áì¹ý
+				x808065_Printf(sceneId, selfId, targetId, ""..GetName( sceneId, selfId )..", cüa ngß½i xác thñc th§t là trên giang h° mµt thª lñc m¾i. Nhßng là ngß½i không lâu phía trß¾c, ðã mu¯n · ta n½i này lînh ðÕi l­ bao!");
+			
+			elseif( GetMissionFlag( sceneId, selfId, MF_CHOUJIANGDALIBAO02 ) == 0) then
+			
+				if( x808065_PutIntoPack( sceneId, selfId, targetId, x808065_g_ItemId["choujiang2"], QUALITY_MUST_BE_CHANGE, 2 , 1) == 1) then
+				
+					SetMissionFlag(sceneId, selfId, MF_CHOUJIANGDALIBAO02, 1);
+					x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..", ngß½i ðã mu¯n thành công ðÕt ðßþc ðÕi l­ bao. Nhìn xem b÷c hành cüa ngß½i ði, bên trong hÆn là h½n mµt ki®n cho ngß½i!");
+					
+				end
+			
+			end
+				
+		end
+		
+	elseif(NumText == x808065_g_Key["choujiang3"]) then
+		x808065_ShiTuPrizeOption3(sceneId,selfId,targetId)
+		return
+		--local TeamFlag = LuaFnHasTeam( sceneId, selfId )
+		--if( TeamFlag ~=1 ) then
+		----Ã»ÓÐ×é¶Ó
+		--	x808065_Printf(sceneId , selfId, targetId ,"Ngß½i c¥n ºÍCüa ngß½i Ê¦¸¸»òÕßÍ½µÜ×é¶Ó²ÅÄÜÀ´²Î¼ÓÊ¦Í½³é½±Å¶£¡ ¼Ç×.¬mµt ¶¨ÐúngÊ¦¸¸×ö¶Ó³¤,Í½µÜ×öÐµi viên ²ÅÐÐ.¶øÇÒ¶ÓÎéÀï²»ÄÜÓÐÆäËûÈËÅ¶!");
+		--	return
+		--
+		--end
+		--
+		--local TeamSize = LuaFnGetTeamSize( sceneId, selfId );
+		--local NearTeamSize = GetNearTeamCount( sceneId, selfId )
+		--if( TeamSize ~= NearTeamSize) then
+		----¼ì²éÐµi viên TÕi ²»TÕi ¸½½ü
+		--	x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..",ÄãÓÐ¶ÓÓÑ²»TÕi ¸½½üÄØ!");
+		--	return
+		--	
+		--end
+		--
+		--if( TeamSize < 2 ) then
+		--
+		--	x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId ).."×÷Îª¶Ó³¤,ÒªºÍ×Ô¼ºtoÕ ðµ Í½µÜ×é¶Ó²ÅÄÜmµt ÆðÀ´²Î¼ÓÊ¦Í½³é½±ÄØ!");
+		--	return		
+		--
+		--end
+    --
+		----¼ì²é×é¶ÓtoÕ ðµ Ê¦¸µ¹ØÏµ
+		--local OkTeam = 1
+		--local leaderID = GetTeamLeader( sceneId, selfId )
+		--local otherPlayer
+		--for i=0, NearTeamSize-1 do
+		--	otherPlayer = GetNearTeamMember( sceneId, selfId, i )
+		--	if leaderID ~= otherPlayer and LuaFnIsMaster(sceneId, otherPlayer, leaderID) ~= 1 then
+		--		OkTeam = 0;
+		--		break;
+		--	end
+		--end
+		--if OkTeam == 0 then
+		----×é¶Ó¹ØÏµ²»ÕýÈ·
+		--	if(leaderID == selfId) then
+		--	--ÎÒÐúng¶Ó³¤
+		--		
+		--		local PrenticeNum = LuaFnGetmasterLevel( sceneId, selfId );
+		--		if( PrenticeNum == 0) then
+		--			--Ê¦µÂ ði¬m
+		--			x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..",×÷Îª¶Ó³¤,Ê×ÏÈ ði¬m×Ô¼ºÐúngÊ¦¸¸²ÅÄÜmµt ÆðÀ´²Î¼ÓÊ¦Í½³é½±ÄØ!");
+		--			return
+		--		
+		--		end
+		--		x808065_Printf(sceneId , selfId, targetId , ""..GetName( sceneId, selfId )..",×÷Îª¶Ó³¤,¶ÓÎéÀïÓÐÈË²»ÐúngCüa ngß½i Í½µÜÄØ,Äã»¹ÐúngºÍCüa ngß½i Í½µÜmµt ÆðÀ´Lînh °É!");
+		--		return
+		--		
+		--	else
+		--	--ÎÒ²»Ðúng¶Ó³¤
+		--		if(LuaFnHaveMaster( sceneId, selfId ) == 0) then
+		--		
+		--			x808065_Printf(sceneId , selfId, targetId , ""..GetName( sceneId, selfId )..",×÷ÎªÐµi viên ,Ê×ÏÈ ði¬m×Ô¼ºÓÐÊ¦¸¸²ÅÄÜmµt ÆðÀ´²Î¼ÓÊ¦Í½³é½±ÄØ!");
+		--			return
+		--		
+		--		end
+		--		x808065_Printf(sceneId , selfId, targetId , ""..GetName( sceneId, selfId )..",×÷ÎªÐµi viên ,Ä giâyùTÕi ¶ÓÎétoÕ ðµ ¶Ó³¤²»ÐúngËùÓÐÐµi viên toÕ ðµ Ê¦¸¸ÄØ£¡ÒªÈ·±£¶Ó³¤ÐúngËùÓÐÐµi viên toÕ ðµ Ê¦¸¸²ÅÐÐ°.¡");
+		--		return
+		--		
+		--	end
+		--end
+		--
+		----¼ì²éµÈc¤p
+		--OkTeam = 1;
+		--leaderID = GetTeamLeader( sceneId, selfId );
+		--otherPlayer = 0;
+		--for i=0, NearTeamSize-1 do
+		--	otherPlayer = GetNearTeamMember( sceneId, selfId, i );
+		--	if( leaderID == otherPlayer ) then
+		--	else
+		--		if(GetLevel(sceneId, otherPlayer) < 30 or GetLevel(sceneId, otherPlayer) > 49 ) then
+		--			OkTeam = 0;
+		--			break;
+		--		end
+		--	end
+		--end
+		--if OkTeam == 0 then
+		----ÓÐÈËµÈc¤p²»·ûºÏÒªÇó
+		--	if(leaderID == selfId) then
+		--	--¶Ó³¤
+		--		x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..",×÷Îª¶Ó³¤,²Î¼ÓÊ¦Í½³é½±toÕ ðµ Ìõ¼þÐúng: Äã×é¶ÓtoÕ ðµ Í½µÜtoÕ ðµ µÈc¤pTÕi #G30c¤pµ½49c¤p#WÖ®¼äÅ¶,ÄãÓÐmµt Î»Í½µÜÒÑ¾­²»TÕi Cái này µÈc¤p·¶Î§ÄÚÁËÄØ!");
+		--		return
+		--		
+		--	else
+		--	
+		--		if(GetLevel(sceneId, selfId) < 30 or GetLevel(sceneId, selfId) > 49) then
+		--		
+		--			x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..",×÷ÎªÐµi viên ,²Î¼ÓÊ¦Í½³é½±toÕ ðµ Ìõ¼þÐúng: Cüa ngß½i µÈc¤pTÕi #G30c¤pµ½49c¤p#WÖ®¼äÅ¶,ÄãÒÑ¾­²»TÕi Cái này µÈc¤p·¶Î§ÄÚÁËÄØ!");
+		--			return 
+		--			
+		--		else
+		--	
+		--			x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..",×÷ÎªÐµi viên ,²Î¼ÓÊ¦Í½³é½±toÕ ðµ Ìõ¼þÐúng: ÄãÊ¦¸¸×é¶ÓtoÕ ðµ Í½µÜtoÕ ðµ µÈc¤p¶¼TÕi #G30c¤pµ½49c¤p#WÖ®¼äÅ¶,Cüa ngß½i mµt cái¶ÓÓÑÒÑ¾­²»TÕi Cái này µÈc¤p·¶Î§ÄÚÁËÄØ!");
+		--			return
+		--			
+		--		end
+		--		
+		--	end
+		--end
+		--
+		----ok ¸ø¶«Î÷ÁË
+		--if(leaderID == selfId) then
+		----¶Ó³¤
+		--	
+		--	local Num = LuaFnGetAvailableItemCount(sceneId, selfId, x808065_g_ItemId["choujiangshifu"]);
+		--	if(Num > 0) then
+		--	
+		--		x808065_Printf( sceneId, selfId, targetId,  ""..GetName( sceneId, selfId )..",×÷Îª¶Ó³¤,ÄãÃÇtoÕ ðµ toÕ ðµ È·È·Ðúng½­ºþÉÏ×î»ðtoÕ ðµ mµt ¹ÉÊ¦Í½ÐÂÊÆÁ¦.¿ÉÐúngÄã²»¾ÃÖ®Ç°,ÒÑ¾­TÕi ÎÒÕâÀï²Î¼Ó¹ýÊ¦Í½³é½±ÁËÀ²£¡Äã¿´,ÄãÉíÉÏ»¹´ø×Å½±È¯ÄØ!");
+		--		
+		--	else
+		--		
+		--		if( x808065_AddJiangjuan( sceneId, selfId, x808065_g_ItemId["choujiangshifu"]) == 1) then
+		--		
+		--			x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..",×÷Îª¶Ó³¤,ÄãÒÑ¾­³É¹¦µØ½øÐÐÁË³é½±,Cüa ngß½i TênÒÑ¾­±»ÁÐÈë³é½±Ãûµ¥.ÇëÄÍÐÄµÈ´ýÍ¨Öª,¾ßÌå»î¶¯ÄÚÈÝÇë²éÔÄThiên Long°Ë²¿¹Ù·½ÍøÕ¾.");
+		--			
+		--		end
+		--	
+		--	end
+		--	
+		--else
+		--
+		--	local Num = LuaFnGetAvailableItemCount(sceneId, selfId, x808065_g_ItemId["choujiangtudi"]);
+		--	if(Num > 0) then
+		--	
+		--		x808065_Printf( sceneId, selfId, targetId,  ""..GetName( sceneId, selfId )..",×÷ÎªÐµi viên ,ÄãÃÇtoÕ ðµ toÕ ðµ È·È·Ðúng½­ºþÉÏ×î»ðtoÕ ðµ mµt ¹ÉÊ¦Í½ÐÂÊÆÁ¦.¿ÉÐúngÄã²»¾ÃÖ®Ç°,ÒÑ¾­TÕi ÎÒÕâÀï²Î¼Ó¹ýÊ¦Í½³é½±ÁËÀ²!");
+		--		
+		--	else
+		--		
+		--		if( x808065_AddJiangjuan( sceneId, selfId, x808065_g_ItemId["choujiangtudi"]) == 1) then
+		--		
+		--			x808065_Printf(sceneId , selfId, targetId ,""..GetName( sceneId, selfId )..",×÷ÎªÐµi viên ,ÄãÒÑ¾­³É¹¦µØ½øÐÐÁË³é½±,Cüa ngß½i TênÒÑ¾­±»ÁÐÈë³é½±Ãûµ¥.ÇëÄÍÐÄµÈ´ýÍ¨Öª,¾ßÌå»î¶¯ÄÚÈÝÇë²éÔÄThiên Long°Ë²¿¹Ù·½ÍøÕ¾.");
+		--			
+		--		end
+		--	
+		--	end
+		--
+		--end
+	
+	elseif(NumText == x808065_g_Key["choujianghuodong"]) then
+		
+		BeginEvent( sceneId )
+			AddText( sceneId, "#{XSCJ_20070919_001}");
+			AddNumText( sceneId, x808065_g_ScriptId, "#{XSCJ_20070919_002}", 11, x808065_g_Key["choujiangshuoming1"] )
+			AddNumText( sceneId, x808065_g_ScriptId, "#{XSCJ_20070919_004}", 11, x808065_g_Key["choujiangshuoming2"] )
+			AddNumText( sceneId, x808065_g_ScriptId, "#{XSCJ_20070919_006}", 11, x808065_g_Key["choujiangshuoming3"] )	
+		EndEvent( sceneId )
+		DispatchEventList( sceneId, selfId, targetId )
+	elseif(NumText == 333) then
+		SetMissionData( sceneId, selfId, MD_SHITU_PRIZE_COUNT, 0)
+		for i = 60,80 do
+			EraseItem(sceneId, selfId,i)
+		end
+		x808065_MessageBox( sceneId, selfId, "Mµt l¥n næa nh§n ph¥n thß·ng danh sß thß·ng cho thành công" )
+	end
+	
+	x808065_OnEventRequest( sceneId, selfId, targetId )
+	
+end
+
+--**********************************
+--ÊÂ¼þÁÐ±íÑ¡ÖÐmµt Ïî
+--**********************************
+function x808065_OnEventRequest( sceneId, selfId, targetId )
+
+		local	key	= GetNumText()
+		if(key == x808065_g_Key["choujiangshuoming1"]) then
+		
+			x808065_Printf(  sceneId, selfId, targetId, "#{XSCJ_20070919_003}" )
+			
+		elseif(key == x808065_g_Key["choujiangshuoming2"]) then
+		
+			x808065_Printf(  sceneId, selfId, targetId, "#{XSCJ_20070919_005}" )
+			
+		elseif(key == x808065_g_Key["choujiangshuoming3"]) then
+		
+			x808065_Printf(  sceneId, selfId, targetId, "#{XSCJ_20070919_007}" )
+			
+		end
+end
+
+function x808065_OnEnumerate( sceneId, selfId, targetId )
+
+		--x808065_Printf(sceneId, selfId, targetId, GetDayTime());
+
+    local isTime = x808065_CheckRightTime();
+    local MyLevel = GetLevel( sceneId, selfId );
+    if 1 == isTime then    	
+    	
+    	if( MyLevel <= 39) then
+				AddNumText( sceneId, x808065_g_ScriptId, "Tân binh ðoÕt bäo: Cá nhân lãnh thß·ng", 6, x808065_g_Key["choujiang1"] )
+			end
+			if ( MyLevel <= 55) then
+				AddNumText( sceneId, x808065_g_ScriptId, "Tân binh ðoÕt bäo: ðÕi l­ bao", 6, x808065_g_Key["choujiang2"] )
+			end
+			AddNumText( sceneId, x808065_g_ScriptId, "ÐÂ±ø¶á±¦: ÃûÊ¦³é½±", 6, x808065_g_Key["choujiang3"] )
+			AddNumText( sceneId, x808065_g_ScriptId, "³é½±Ë ði¬m÷", 11, x808065_g_Key["choujianghuodong"] )												
+			--AddNumText(sceneId,x808065_g_ScriptId, "ÖØÐÂÁìÃûÊ¦³é½±",9,333)
+    end
+
+end
+
+function x808065_SendMail( sceneId, selfId )
+	--³é½±»î¶¯
+	if(x808065_CheckRightTime() == 1) then
+		LuaFnSendSystemMail( sceneId, GetName(sceneId,selfId), "#{XSCJ_20070919_008}" )
+		LuaFnSendSystemMail( sceneId, GetName(sceneId,selfId), "#{XSCJ_20070919_007}" )
+	end
+end
+
+--**********************************
+--¼ì²â»î¶¯Ðúng·ñÒÑ½áÊø
+--**********************************
+function x808065_CheckRightTime()
+
+	local curDayTime = GetDayTime()
+	if curDayTime >= x808065_g_StartDayTime and curDayTime <= x808065_g_EndDayTime then
+		return 1
+	else
+		return 0
+	end
+
+end
+
+function x808065_CheckPacketSpace( sceneId, selfId, targetId, space )
+
+	if LuaFnGetPropertyBagSpace( sceneId, selfId ) < space then
+	
+		x808065_Printf(sceneId,selfId, targetId, ""..GetName( sceneId, selfId )..", b÷c hành lý cüa ngß½i ðã ð¥y. Ði rØa sÕch mµt chút b÷c hành lý lÕi ðªn ði, ta s¨ · ch² này ch¶ cüa ngß½i!");
+			
+		return 0
+		
+	else
+		return 1
+	end
+
+end
+
+function x808065_PutIntoPack(sceneId, selfId, targetId, itemId, flag, num, isBind)
+	
+	if(x808065_CheckPacketSpace(sceneId, selfId, targetId, num) == 1) then
+	--ËÍ¶«Î÷
+		for i=0,num-1 do
+			local bagIndex = TryRecieveItem( sceneId, selfId, itemId, QUALITY_MUST_BE_CHANGE );
+			if(isBind == 1) then
+				LuaFnItemBind( sceneId, selfId, bagIndex);
+			end
+		end
+		return 1;
+	else
+		return 0;
+	end
+	
+end
+
+--²âÊÔ
+function x808065_MessageBox( sceneId, selfId, str )
+	BeginEvent( sceneId )
+		AddText( sceneId, str )
+	EndEvent( sceneId )
+	DispatchMissionTips( sceneId, selfId )
+end
+
+function x808065_Printf(  sceneId, selfId, targetId, str )
+		BeginEvent( sceneId );
+			AddText(sceneId, str);
+		EndEvent( sceneId );
+		DispatchEventList( sceneId, selfId, targetId )		
+end
+
+function x808065_AddJiangjuan(sceneId, selfId, itemId)
+		BeginAddItem( sceneId )
+		AddItem( sceneId, itemId, 1 )
+		ret = EndAddItem( sceneId, selfId )
+		if ret > 0 then
+			AddItemListToHuman(sceneId,selfId )
+			--TÕi ³é½±ÈÕÖ¾ÖÐ¼ÇÂ¼....
+			--ÈÕÖ¾±àºÅ,Íæ¼ÒGUID,Íæ¼ÒTên,½±È¯ÎïÆ·ID
+			local logstr = format("PL:%d,0x%X,%s,%d",
+									 				PRIZE_LOG_XINSHOUSHITU,
+									 				LuaFnGetGUID(sceneId,selfId),
+									 				GetName(sceneId,selfId),
+									 				itemId)
+			LuaFnLogPrize(logstr)
+			return 1;
+		else
+			return 0;
+		end
+end
+
+--ÐÂÊ¦Í½³é½±Ñ¡Ïî3
+function x808065_ShiTuPrizeOption3(sceneId,selfId,targetId)
+	--local sname = GetName( sceneId, selfId )
+	--0.¼ì²éÐúng·ñÓÐÊ¦¸¸Éí·Ý
+	--local	nMlevel	= LuaFnGetmasterLevel( sceneId, selfId )
+	--if nMlevel < 1 or nMlevel > 4 then
+	--	x808065_Printf( sceneId, selfId, targetId, sname..",ÏëÒª²Î¼ÓÃûÊ¦³é½±»î¶¯,Ê×ÏÈÒª³ÉÎªÊ¦¸¸²ÅÐÐ°.¡")
+	--	return
+	--end
+	--1.¼ì²éÐúng·ñÓÐÍ½µÜ
+	--if LuaFnGetPrenticeCount( sceneId, selfId ) == 0 then
+	--	x808065_Printf( sceneId, selfId, targetId, sname..",ÏëÒª²Î¼ÓÃûÊ¦³é½±»î¶¯,Ê×ÏÈ ði¬mÒªÊÕÁËÍ½µÜ²ÅÐÐ°.¡¶øÇÒÍ½µÜÒªTÕi Cüa ngß½i ½Ìµ¼ÏÂÉýµ½40c¤pºÍ50c¤pÊ±²ÅÐÐÄØ!")
+	--	return 0
+	--end
+	--2.Ðúng·ñÁì½±´ÎÊýÒÑ¾­´ïµ½Ê®´ÎÁË
+	--±ØÐëTÕi ¿ÉÖ´ÐÐÓÊ¼þLînh toÕ ðµ Ê±ºòÅÐ¶Ï
+	--local ct = GetMissionData(sceneId, selfId, MD_SHITU_PRIZE_COUNT)
+	--²éÑ¯Cái này Ê¦¸¸Ðúng²»ÐúngÓÐ½±ÀøÓÊ¼þ
+	LuaFnAskNpcScriptMail(sceneId, selfId, MAIL_SHITUPRIZE)
+end

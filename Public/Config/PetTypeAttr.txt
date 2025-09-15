@@ -1,0 +1,1188 @@
+INT	INT	STRING
+INT	INT	STRING
+58	1	Phiêu Phiêu Áp
+59	1	Phiêu Phiêu Th¯
+255	5	Chúc Dçn Thß½ng Minh
+256	45	Chúc Dçn Thß½ng Minh
+257	55	Chúc Dçn Thß½ng Minh
+258	65	Chúc Dçn Thß½ng Minh
+259	75	Chúc Dçn Thß½ng Minh
+260	85	Chúc Dçn Thß½ng Minh
+261	95	Chúc Dçn Thß½ng Minh
+262	5	Chiêu Minh Quy Khß
+263	45	Chiêu Minh Quy Khß
+264	55	Chiêu Minh Quy Khß
+265	65	Chiêu Minh Quy Khß
+266	75	Chiêu Minh Quy Khß
+267	85	Chiêu Minh Quy Khß
+268	95	Chiêu Minh Quy Khß
+269	5	An KÏ Nhi
+270	45	An KÏ Nhi
+271	55	An KÏ Nhi
+272	65	An KÏ Nhi
+273	75	An KÏ Nhi
+274	85	An KÏ Nhi
+275	95	An KÏ Nhi
+276	95	An KÏ Nhi Hoàng Kim
+277	5	T¥n Ti¬u Ngçu
+278	45	T¥n Ti¬u Ngçu
+279	55	T¥n Ti¬u Ngçu
+280	65	T¥n Ti¬u Ngçu
+281	75	T¥n Ti¬u Ngçu
+282	85	T¥n Ti¬u Ngçu
+283	95	T¥n Ti¬u Ngçu
+284	5	VÕn Thª H°n
+285	45	VÕn Thª H°n
+286	55	VÕn Thª H°n
+287	65	VÕn Thª H°n
+288	75	VÕn Thª H°n
+289	85	VÕn Thª H°n
+290	95	VÕn Thª H°n
+291	5	Hi®p Lµ Phùng
+292	45	Hi®p Lµ Phùng
+293	55	Hi®p Lµ Phùng
+294	65	Hi®p Lµ Phùng
+295	75	Hi®p Lµ Phùng
+296	85	Hi®p Lµ Phùng
+297	95	Hi®p Lµ Phùng
+298	95	Hi®p Lµ Phùng CØu U
+300	5	Th¯
+301	5	Yªn TØ
+302	5	Ô Quy
+303	15	Tu¤t
+304	15	Nhím
+305	15	H¥u TØ
+306	25	Tùng ThØ
+307	25	Hoán Hùng
+308	25	Anh Vû
+309	35	Tích D¸ch
+310	35	D½i
+311	35	Ðß¶ng Lang
+312	35	NgÕc Ngß
+313	45	Miêu Ð¥u ¿ng
+314	45	Ch°n
+315	45	H±
+316	45	Dã Trß
+317	55	Bång T¢m
+318	55	¿ng
+319	55	Ðà Ði¬u
+320	55	Báo
+321	65	B¡c Cñc Hùng
+322	65	Kh±ng Tß¾c
+323	65	Kiªm Xï H±
+324	65	Tinh Tinh
+325	75	Tê Ngßu
+326	75	Tuyªt Ðiêu
+327	75	Kiªm Long
+328	75	Bác Mã
+329	85	S° Phøng
+330	85	Niên Thú
+331	85	Long Quy
+332	85	Anh Chiêu
+333	95	KÏ Lân
+334	95	Giao Long
+335	20	Sài Miêu
+336	20	D§u
+337	20	Áp TØ
+338	5	KÛ Gia Dß½ng
+339	20	Mao Lß
+340	20	Nga
+341	20	Bá Vß½ng Long
+342	5	Xí Nga
+343	75	ÐÕi ThØ
+344	20	Áp Chüy Thú
+345	5	Hþi
+346	5	Thanh Oa
+347	75	Ti¬u Tßþng
+348	5	Tuyªt H°
+349	25	Lang
+423	5	Hoä Di­m Yêu Ma
+424	45	Hoä Di­m Yêu Ma
+425	55	Hoä Di­m Yêu Ma
+426	65	Hoä Di­m Yêu Ma
+427	75	Hoä Di­m Yêu Ma
+428	85	Hoä Di­m Yêu Ma
+429	95	Hoä Di­m Yêu Ma
+430	5	Loan Phøng Hoà Minh
+431	45	Loan Phøng Hoà Minh
+432	55	Loan Phøng Hoà Minh
+433	65	Loan Phøng Hoà Minh
+434	75	Loan Phøng Hoà Minh
+435	85	Loan Phøng Hoà Minh
+436	95	Loan Phøng Hoà Minh
+437	95	Loan Phøng Hoà Minh Linh Tê
+438	5	Th¤t Thäi Huy Tu¤n
+439	45	Th¤t Thäi Huy Tu¤n
+440	55	Th¤t Thäi Huy Tu¤n
+441	65	Th¤t Thäi Huy Tu¤n
+442	75	Th¤t Thäi Huy Tu¤n
+443	85	Th¤t Thäi Huy Tu¤n
+444	95	Th¤t Thäi Huy Tu¤n
+445	95	Th¤t Thäi Huy Tu¤n Tuy«n Tinh
+446	5	Li®t Th¯ Ði«m Tâm
+447	45	Li®t Th¯ Ði«m Tâm
+448	55	Li®t Th¯ Ði«m Tâm
+449	65	Li®t Th¯ Ði«m Tâm
+450	75	Li®t Th¯ Ði«m Tâm
+451	85	Li®t Th¯ Ði«m Tâm
+452	95	Li®t Th¯ Ði«m Tâm
+453	5	Xäo Xäo
+454	45	Xäo Xäo
+455	55	Xäo Xäo
+456	65	Xäo Xäo
+457	75	Xäo Xäo
+458	85	Xäo Xäo
+459	95	Xäo Xäo
+460	95	Xäo Xäo C¦m Hà
+461	95	Th® ¿¾c KÜ Sî
+462	95	V¸nh Ái Công Chúa
+463	5	Nguyên Hanh Minh Dæ
+464	45	Nguyên Hanh Minh Dæ
+465	55	Nguyên Hanh Minh Dæ
+466	65	Nguyên Hanh Minh Dæ
+467	75	Nguyên Hanh Minh Dæ
+468	85	Nguyên Hanh Minh Dæ
+469	95	Nguyên Hanh Minh Dæ
+470	5	Hoà Trinh Tiên B°ng
+471	45	Hoà Trinh Tiên B°ng
+472	55	Hoà Trinh Tiên B°ng
+473	65	Hoà Trinh Tiên B°ng
+474	75	Hoà Trinh Tiên B°ng
+475	85	Hoà Trinh Tiên B°ng
+476	95	Hoà Trinh Tiên B°ng
+477	95	D¸ Biªn Thú H°n
+478	95	Thanh Long
+479	95	Huy«n Vû
+480	95	BÕch H±
+481	95	Chu Tß¾c
+482	95	CØu Vî H°
+483	95	C¦m Lân
+484	95	Hoan Ði®p
+485	95	Sß½ng HÕc
+486	95	Kim Ô
+487	95	Lµc Thøc
+488	95	Cùng KÏ Thú H°n
+540	5	Phá Tr§n Tß½ng H°n
+541	45	Phá Tr§n Tß½ng H°n
+542	55	Phá Tr§n Tß½ng H°n
+543	65	Phá Tr§n Tß½ng H°n
+544	75	Phá Tr§n Tß½ng H°n
+545	85	Phá Tr§n Tß½ng H°n
+546	95	Phá Tr§n Tß½ng H°n
+547	95	Phá Tr§n Tß½ng H°n Cu°ng Bá
+548	5	Huy«n Lång Nguyên Quân
+549	45	Huy«n Lång Nguyên Quân
+550	55	Huy«n Lång Nguyên Quân
+551	65	Huy«n Lång Nguyên Quân
+552	75	Huy«n Lång Nguyên Quân
+553	85	Huy«n Lång Nguyên Quân
+554	95	Huy«n Lång Nguyên Quân
+555	5	Thiên Cñc Th¥n Quân
+556	45	Thiên Cñc Th¥n Quân
+557	55	Thiên Cñc Th¥n Quân
+558	65	Thiên Cñc Th¥n Quân
+559	75	Thiên Cñc Th¥n Quân
+560	85	Thiên Cñc Th¥n Quân
+561	95	Thiên Cñc Th¥n Quân
+
+600	65	Thìn
+601	5	Long Miêu
+602	45	Cß¶ng Long Miêu
+603	55	Trân Long Miêu
+604	65	Siêu Long Miêu
+605	75	Th¥n Long Miêu
+606	5	M£c Kính Miêu
+607	45	Lßu Hành Miêu
+608	55	Th¶i Thßþng Miêu
+609	65	Ngçu Tßþng Miêu
+610	75	Quán Quân Miêu
+611	5	Tê Ði¬u
+612	45	Linh Tê Ði¬u
+613	55	Trân Tê Ði¬u
+614	65	Siêu Tê Ði¬u
+615	75	Th¥n Tê Ði¬u
+616	5	Hùng Miêu
+617	45	Cß¶ng Hùng Miêu
+618	55	Trân Hùng Miêu
+619	65	Siêu Hùng Miêu
+620	75	Th¥n Hùng Miêu
+621	5	Bàng giäi
+622	45	Cua Bi¬n
+623	55	ÐÕi Áp Giäi
+624	65	Tri«u Hành Giäi
+625	75	Nhung Ngao Giäi
+626	5	Ph¤n Ði®p
+627	45	Ban Ði®p
+628	55	Quyên Ði®p
+629	65	Hoàn Ði®p
+630	75	Phßþng Vî Ði®p
+631	5	Oa Ngßu
+632	45	Tráng Oa Ngßu
+633	55	Trân Oa Ngßu
+634	65	Siêu Oa Ngßu
+635	75	Th¥n Oa Ngßu
+636	5	Ðµc HÕt
+637	45	Linh HÕt
+638	55	Trân HÕt
+639	65	Thiên HÕt
+640	75	Ma HÕt
+641	5	Ti¬u Mô
+642	45	Tráng Mô
+643	55	Trân Mô
+644	65	Thánh Mô
+645	75	Th¥n Mô
+646	5	Giáp trùng
+647	45	Cß¶ng Giáp trùng
+648	55	Trân Giáp Trùng
+649	65	Thánh Giáp Trùng
+650	75	Th¥n Giáp Trùng
+651	5	Ðß½ng H²
+652	45	Linh Ðß½ng H²
+653	55	Trân Ðß½ng H²
+654	65	Thánh Ðß½ng H²
+655	75	Th¥n Ðß½ng H²
+656	65	Th¥n Xí Nga
+657	45	Quai Xí Nga
+658	55	Linh Xí Nga
+659	65	Thánh Xí Nga
+660	55	Höa Tông ThØ
+661	75	Viêm Höa Tông ThØ
+662	65	Huy«n Dñc Thú
+663	75	Xuy Huy«n Dñc Thú
+664	5	Ng÷c Th¯
+665	45	HÕo Nguy®t Ng÷c Th¯
+666	55	Thi«m Cung Ng÷c Th¯
+667	65	H¢ng Nga Ng÷c Th¯
+668	45	Tiêm Nha BÕo Long
+669	55	Lþi Nha BÕo Long
+670	65	Cang Nha BÕo Long
+671	75	Huyªt Nha BÕo Long
+750	5	Áp Chüy Thú
+751	45	Áp Chüy Thú
+752	55	Áp Chüy Thú
+753	65	Áp Chüy Thú
+754	75	Áp Chüy Thú
+755	85	Áp Chüy Thú
+756	95	Áp Chüy Thú
+757	5	Tuyªt H°
+758	45	Tuyªt H°
+759	55	Tuyªt H°
+760	65	Tuyªt H°
+761	75	Tuyªt H°
+762	85	Tuyªt H°
+763	95	Tuyªt H°
+764	5	Long Miêu
+765	45	Long Miêu
+766	55	Long Miêu
+767	65	Long Miêu
+768	75	Long Miêu
+769	85	Long Miêu
+770	95	Long Miêu
+771	5	Tê Ði¬u
+772	45	Tê Ði¬u
+773	55	Tê Ði¬u
+774	65	Tê Ði¬u
+775	75	Tê Ði¬u
+776	85	Tê Ði¬u
+777	95	Tê Ði¬u
+778	5	Hùng Miêu
+779	45	Hùng Miêu
+780	55	Hùng Miêu
+781	65	Hùng Miêu
+782	75	Hùng Miêu
+783	85	Hùng Miêu
+784	95	Hùng Miêu
+785	5	Bàng giäi
+786	45	Bàng giäi
+787	55	Bàng giäi
+788	65	Bàng giäi
+789	75	Bàng giäi
+790	85	Bàng giäi
+791	95	Bàng giäi
+792	5	H° Ði®p
+793	45	H° Ði®p
+794	55	H° Ði®p
+795	65	H° Ði®p
+796	75	H° Ði®p
+797	85	H° Ði®p
+798	95	H° Ði®p
+799	5	Oa Ngßu
+800	45	Oa Ngßu
+801	55	Oa Ngßu
+802	65	Oa Ngßu
+803	75	Oa Ngßu
+804	85	Oa Ngßu
+805	95	Oa Ngßu
+806	5	HÕt TØ
+807	45	HÕt TØ
+808	55	HÕt TØ
+809	65	HÕt TØ
+810	75	HÕt TØ
+811	85	HÕt TØ
+812	95	HÕt TØ
+813	5	Xuyên S½n Giáp
+814	45	Xuyên S½n Giáp
+815	55	Xuyên S½n Giáp
+816	65	Xuyên S½n Giáp
+817	75	Xuyên S½n Giáp
+818	85	Lôi Lân
+819	95	Xuyên S½n Giáp
+820	5	Huy«n Giáp Lôi Xà
+821	45	Huy«n Giáp Lôi Xà
+822	55	Huy«n Giáp Lôi Xà
+823	65	Huy«n Giáp Lôi Xà
+824	75	Huy«n Giáp Lôi Xà
+825	85	Huy«n Giáp Lôi Xà
+826	95	Huy«n Giáp Lôi Xà
+827	5	Ðß½ng H²
+828	45	Ðß½ng H²
+829	55	Ðß½ng H²
+830	65	Ðß½ng H²
+831	75	Ðß½ng H²
+832	85	Ðß½ng H²
+833	95	Ðß½ng H²
+834	5	Häi T£c ThØ
+835	45	Häi T£c ThØ
+836	55	Häi T£c ThØ
+837	65	Häi T£c ThØ
+838	75	Häi T£c ThØ
+839	85	Häi T£c ThØ
+840	95	Häi T£c ThØ
+841	5	Bäo Rß½ng Ð°ng TØ
+842	45	Bäo Rß½ng Ð°ng TØ
+843	55	Bäo Rß½ng Ð°ng TØ
+844	65	Bäo Rß½ng Ð°ng TØ
+845	75	Bäo Rß½ng Ð°ng TØ
+846	85	Bäo Rß½ng Ð°ng TØ
+847	95	Bäo Rß½ng Ð°ng TØ
+848	5	Thø ÐÕi Hùng
+849	45	Thø ÐÕi Hùng
+850	55	Thø ÐÕi Hùng
+851	65	Thø ÐÕi Hùng
+852	75	Thø ÐÕi Hùng
+853	85	Thø ÐÕi Hùng
+854	95	Thø ÐÕi Hùng
+856	5	Hoan LÕc Trß
+857	45	Hoan LÕc Trß
+858	55	Hoan LÕc Trß
+859	65	Hoan LÕc Trß
+860	75	Hoan LÕc Trß
+861	85	Hoan LÕc Trß
+862	95	Hoan LÕc Trß
+863	55	Höa Tông Yêu ThØ
+864	75	Viêm Höa Yêu ThØ
+865	65	Huy«n Dñc Ma Thú
+866	75	Xuy Huy«n Ma Thú
+867	65	Trân KÏ ThØ
+868	75	KÏ Lân
+869	85	Cát Tß¶ng Miêu
+870	5	Trân KÏ ThØ
+871	45	Trân KÏ ThØ
+872	55	Trân KÏ ThØ
+873	85	Ma Nha BÕo Long
+874	5	Ðß¶ng Trang ThØ
+875	45	Ðß¶ng Trang ThØ
+876	55	Ðß¶ng Trang ThØ
+877	65	Ðß¶ng Trang ThØ
+878	75	Ðß¶ng Trang ThØ
+879	85	Ðß¶ng Trang ThØ
+880	95	Ðß¶ng Trang ThØ
+881	5	Niên Thú
+882	45	Niên Thú
+883	55	Niên Thú
+884	65	Niên Thú
+885	75	Niên Thú
+886	85	Niên Thú
+887	95	Niên Thú
+888	5	Uyên ß½ng
+889	45	Uyên ß½ng
+890	55	Uyên ß½ng
+891	65	Uyên ß½ng
+892	75	Uyên ß½ng
+893	85	Uyên ß½ng
+894	95	Uyên ß½ng
+895	65	C¥u Long
+896	45	Mao Lß
+897	55	Mao Lß
+898	65	Mao Lß
+2011	85	Vß½ng Höa Tông ThØ
+2012	85	Hoàng Huy«n Dñc Thú
+2013	95	Vß½ng Höa Yêu ThØ
+2014	95	Hoàng Huy«n Ma Thú
+2200	5	Cùng KÏ
+2201	45	Cùng KÏ
+2202	55	Cùng KÏ
+2203	65	Cùng KÏ
+2204	75	Cùng KÏ
+2205	85	Cùng KÏ
+2206	95	Cùng KÏ
+2207	5	Ti¬u H° Tiên
+2208	45	Ti¬u H° Tiên
+2209	55	Ti¬u H° Tiên
+2210	65	Ti¬u H° Tiên
+2211	75	Ti¬u H° Tiên
+2212	85	Ti¬u H° Tiên
+2213	95	Ti¬u H° Tiên
+2214	5	Thßþng C± Th¥n Viên
+2215	45	Thßþng C± Th¥n Viên
+2216	55	Thßþng C± Th¥n Viên
+2217	65	Thßþng C± Th¥n Viên
+2218	75	Thßþng C± Th¥n Viên
+2219	85	Thßþng C± Th¥n Viên
+2220	75	C¥u Long
+2221	5	TÖ Dñc Ði¬u
+2222	45	TÖ Dñc Ði¬u
+2223	55	TÖ Dñc Ði¬u
+2224	65	TÖ Dñc Ði¬u
+2225	75	TÖ Dñc Ði¬u
+2226	85	TÖ Dñc Ði¬u
+2227	95	TÖ Dñc Ði¬u
+2228	5	Ng¯c Ng¯c Ngßu
+2229	45	Ng¯c Ng¯c Ngßu
+2230	55	Ng¯c Ng¯c Ngßu
+2231	65	Ng¯c Ng¯c Ngßu
+2232	75	Ng¯c Ng¯c Ngßu
+2233	85	Ng¯c Ng¯c Ngßu
+2234	95	Ng¯c Ng¯c Ngßu
+2235	5	Trân KÏ Ngßu
+2236	45	Trân KÏ Ngßu
+2237	55	Trân KÏ Ngßu
+2238	65	Trân KÏ Ngßu
+2239	75	Trân KÏ Ngßu
+2240	85	Trân KÏ Ngßu
+2241	95	Trân KÏ Ngßu
+2242	5	KÏ Lân
+2243	45	KÏ Lân
+2244	55	KÏ Lân
+2245	65	KÏ Lân
+2246	75	KÏ Lân
+2247	85	KÏ Lân
+2248	95	KÏ Lân
+2249	5	go TØ
+2250	45	go TØ
+2251	55	go TØ
+2252	65	go TØ
+2253	75	go TØ
+2254	85	go TØ
+2255	95	go TØ
+2256	85	Th¥n Viên
+2257	95	Th¥n Viên
+2258	5	Nham H°n
+2259	45	Nham H°n
+2260	55	Nham H°n
+2261	65	Nham H°n
+2262	75	Nham H°n
+2263	85	Nham H°n
+2264	95	Nham H°n
+2265	5	Th¤t T¸ch Uyên ¿½ng
+2266	45	Th¤t T¸ch Uyên ¿½ng
+2267	55	Th¤t T¸ch Uyên ¿½ng
+2268	65	Th¤t T¸ch Uyên ¿½ng
+2269	75	Th¤t T¸ch Uyên ¿½ng
+2270	85	Th¤t T¸ch Uyên ¿½ng
+2271	95	Th¤t T¸ch Uyên ¿½ng
+2272	5	Phª Sài
+2273	45	Phª Sài
+2274	55	Phª Sài
+2275	65	Phª Sài
+2276	75	Phª Sài
+2277	85	Phª Sài
+2278	95	Phª Sài
+2279	5	Linh Th¯ Thú
+2280	45	Linh Th¯ Thú
+2281	55	Linh Th¯ Thú
+2282	65	Linh Th¯ Thú
+2283	75	Linh Th¯ Thú
+2284	85	Linh Th¯ Thú
+2285	95	Linh Th¯ Thú
+2286	5	Chí Tôn Th¥n Thú
+2287	45	Chí Tôn Th¥n Thú
+2288	55	Chí Tôn Th¥n Thú
+2289	65	Chí Tôn Th¥n Thú
+2290	75	Chí Tôn Th¥n Thú
+2291	85	Chí Tôn Th¥n Thú
+2292	95	Chí Tôn Th¥n Thú
+2293	5	Khäi Khäi Sß
+2294	5	Hß½ng Ði«m Höa Kê
+2295	45	Th¯ Tiêu Höa Kê
+2296	55	Ba Gia Höa Kê
+2297	65	Lam Môi Höa Kê
+2298	75	Toán Nê Höa Kê
+2299	85	Già Ly Höa Kê
+2300	95	Nãi Du Höa Kê
+2301	5	SØu Ti¬u Áp
+2302	55	SØu Ti¬u Áp
+2303	85	SØu Ti¬u Áp
+2304	5	Hoa Tiên TØ
+2305	45	Hoa Tiên TØ
+2306	55	Hoa Tiên TØ
+2307	65	Hoa Tiên TØ
+2308	75	Hoa Tiên TØ
+2309	85	Hoa Tiên TØ
+2310	95	Hoa Tiên TØ
+2311	5	Tu¥n Lµc
+2312	45	Tu¥n Lµc
+2313	55	Tu¥n Lµc
+2314	65	Tu¥n Lµc
+2315	75	Tu¥n Lµc
+2316	85	Tu¥n Lµc
+2317	95	Tu¥n Lµc
+2318	5	Trân KÏ H±
+2319	45	Trân KÏ H±
+2320	55	Trân KÏ H±
+2321	65	Trân KÏ H±
+2322	75	Trân KÏ H±
+2323	85	Trân KÏ H±
+2324	95	Trân KÏ H±
+2325	5	B¯ Lão H±
+2326	45	B¯ Lão H±
+2327	55	B¯ Lão H±
+2328	65	B¯ Lão H±
+2329	75	B¯ Lão H±
+2330	85	B¯ Lão H±
+2331	95	B¯ Lão H±
+2332	85	Bång Ðiêu Long
+2333	5	„u Xï Long
+2334	45	„u Xï Long
+2335	55	„u Xï Long
+2336	65	„u Xï Long
+2337	75	„u Xï Long
+2338	85	„u Xï Long
+2339	95	„u Xï Long
+2340	5	Hùng Miêu Song Hi®p
+2341	45	Hùng Miêu Song Hi®p
+2342	55	Hùng Miêu Song Hi®p
+2343	65	Hùng Miêu Song Hi®p
+2344	75	Hùng Miêu Song Hi®p
+2345	85	Hùng Miêu Song Hi®p
+2346	95	Hùng Miêu Song Hi®p
+2347	20	Chiêu Sài Miêu
+2349	5	Chß½ng Ngß
+2350	45	Chß½ng Ngß
+2351	55	Chß½ng Ngß
+2352	65	Chß½ng Ngß
+2353	75	Chß½ng Ngß
+2354	85	Chß½ng Ngß
+2355	95	Chß½ng Ngß
+2356	5	Ði®p Luyªn Hoa
+2357	45	Ði®p Luyªn Hoa
+2358	55	Ði®p Luyªn Hoa
+2359	65	Ði®p Luyªn Hoa
+2360	75	Ði®p Luyªn Hoa
+2361	85	Ði®p Luyªn Hoa
+2362	95	Ði®p Luyªn Hoa
+2363	5	Khôi L²i Lang
+2364	45	Khôi L²i Lang
+2365	55	Khôi L²i Lang
+2366	65	Khôi L²i Lang
+2367	75	Khôi L²i Lang
+2368	85	Khôi L²i Lang
+2369	95	Khôi L²i Lang
+2370	5	Cß½ng Thi
+2371	5	Ngû S¡c Th¥n Ngßu
+2372	45	Ngû S¡c Th¥n Ngßu
+2373	55	Ngû S¡c Th¥n Ngßu
+2374	65	Ngû S¡c Th¥n Ngßu
+2375	75	Ngû S¡c Th¥n Ngßu
+2376	85	Ngû S¡c Th¥n Ngßu
+2377	95	Ngû S¡c Th¥n Ngßu
+2378	45	Cß½ng Thi
+2379	55	Cß½ng Thi
+2380	65	Cß½ng Thi
+2381	75	Cß½ng Thi
+2382	85	Cß½ng Thi
+2383	95	Cß½ng Thi
+2384	5	U Minh Lang Yêu
+2385	45	U Minh Lang Yêu
+2386	55	U Minh Lang Yêu
+2387	65	U Minh Lang Yêu
+2388	75	U Minh Lang Yêu
+2389	85	U Minh Lang Yêu
+2390	95	U Minh Lang Yêu
+2391	5	Th¤t Xäo Ly Miêu
+2392	45	Th¤t Xäo Ly Miêu
+2393	55	Th¤t Xäo Ly Miêu
+2394	65	Th¤t Xäo Ly Miêu
+2395	75	Th¤t Xäo Ly Miêu
+2396	85	Th¤t Xäo Ly Miêu
+2397	95	Th¤t Xäo Ly Miêu
+2398	5	Ng÷c Loan Phøng
+2399	45	Ng÷c Loan Phøng
+2400	55	Ng÷c Loan Phøng
+2401	65	Ng÷c Loan Phøng
+2402	75	Ng÷c Loan Phøng
+2403	85	Ng÷c Loan Phøng
+2404	95	Ng÷c Loan Phøng
+2405	5	Th¥n Xí Nga
+2406	45	Th¥n Xí Nga
+2407	55	Th¥n Xí Nga
+2409	75	Th¥n Xí Nga
+2410	85	Th¥n Xí Nga
+2411	95	Th¥n Xí Nga
+2412	5	Linh Th¯ Song Ki®t
+2413	45	Linh Th¯ Song Ki®t
+2414	55	Linh Th¯ Song Ki®t
+2415	65	Linh Th¯ Song Ki®t
+2416	75	Linh Th¯ Song Ki®t
+2417	85	Linh Th¯ Song Ki®t
+2418	95	Linh Th¯ Song Ki®t
+2419	5	Man ThÕch Quái
+2420	45	Man ThÕch Quái
+2421	55	Man ThÕch Quái
+2422	65	Man ThÕch Quái
+2423	75	Man ThÕch Quái
+2424	85	Man ThÕch Quái
+2425	95	Man ThÕch Quái
+2426	5	Tinh Linh Th¯
+2427	45	Tinh Linh Th¯
+2428	55	Tinh Linh Th¯
+2429	65	Tinh Linh Th¯
+2430	75	Tinh Linh Th¯
+2431	85	Tinh Linh Th¯
+2432	95	Tinh Linh Th¯
+2433	5	C¦m Mao ThØ
+2434	45	C¦m Mao ThØ
+2435	55	C¦m Mao ThØ
+2436	65	C¦m Mao ThØ
+2437	75	C¦m Mao ThØ
+2438	85	C¦m Mao ThØ
+2439	95	C¦m Mao ThØ
+2440	5	Ða NgoÕn Hùng
+2441	20	YY Hùng
+2442	5	Mão Nh§t Tinh
+2443	5	Cüng Thiên thï
+2444	5	Ðông Phong Loa
+2445	75	Tinh Hà Ng÷c Th¯
+2446	85	CØu Thiên Ng÷c Th¯
+2447	5	Ng÷c Th¯
+2448	45	Th¥n Tinh Ng÷c Th¯
+2449	55	Nguy®t Quª Ng÷c Th¯
+2450	65	Thiên Cung Ng÷c Th¯
+2451	5	Bách Biªn Miêu
+2452	45	Bách Biªn Miêu
+2453	55	Bách Biªn Miêu
+2454	65	Bách Biªn Miêu
+2455	75	Bách Biªn Miêu
+2456	85	Bách Biªn Miêu
+2457	95	Bách Biªn Miêu
+2458	5	Chuµt kh±ng l°
+2459	5	Nhân Ngçu
+2460	45	Toàn Linh Nhân Ngçu
+2461	55	Tinh Minh Nhân Ngçu
+2462	65	Vû Huy«n Nhân Ngçu
+2463	75	Diêm Th¥n Nhân Ngçu
+2464	85	Phàn Thánh Nhân Ngçu
+2465	95	Thông Thiên Nhân Ngçu
+2466	5	Ð§u Ð§u Long
+2467	45	Ð§u Ð§u Long
+2468	55	Ð§u Ð§u Long
+2469	65	Ð§u Ð§u Long
+2470	75	Ð§u Ð§u Long
+2471	85	Ð§u Ð§u Long
+2472	95	Ð§u Ð§u Long
+2473	5	Xu¤t Vân Long Mãng
+2474	45	Xu¤t Vân Long Mãng
+2475	55	Xu¤t Vân Long Mãng
+2476	65	Xu¤t Vân Long Mãng
+2477	75	Xu¤t Vân Long Mãng
+2478	85	Xu¤t Vân Long Mãng
+2479	95	Xu¤t Vân Long Mãng
+2480	20	Mèo Du CØu Manh Manh
+2481	5	NgÕo Vân Thß½ng Long
+2482	45	NgÕo Vân Thß½ng Long
+2483	55	NgÕo Vân Thß½ng Long
+2484	65	NgÕo Vân Thß½ng Long
+2485	75	NgÕo Vân Thß½ng Long
+2486	85	NgÕo Vân Thß½ng Long
+2487	95	NgÕo Vân Thß½ng Long
+2488	5	Thái C± Long H°n
+2489	45	Thái C± Long H°n
+2490	55	Thái C± Long H°n
+2491	65	Thái C± Long H°n
+2492	75	Thái C± Long H°n
+2493	85	Thái C± Long H°n
+2494	95	Thái C± Long H°n
+2500	85	Äo Hóa Bång Yêu
+2501	85	Äo Hóa Tôn MÛ MÛ
+2502	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2503	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2504	85	Äo Hóa Bång Yêu
+2505	85	Äo Hóa Tôn MÛ MÛ
+2506	85	Äo Hóa Tôn MÛ MÛ
+2507	85	Äo Hóa Bång Yêu
+2508	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2509	85	Äo Hóa Tôn MÛ MÛ
+2510	85	Äo Hóa Bång Yêu
+2511	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2512	85	Äo Hóa Tôn MÛ MÛ
+2513	85	Äo Hóa Tôn MÛ MÛ
+2514	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2515	85	Äo Hóa Bång Yêu
+2516	85	Äo Hóa Tôn MÛ MÛ
+2517	85	Äo Hóa Bång Yêu
+2518	85	Äo Hóa Bång Yêu
+2519	85	Äo Hóa Tôn MÛ MÛ
+2520	85	Äo Hóa Bång Yêu
+2521	85	Äo Hóa Tôn MÛ MÛ
+2522	85	Äo Hóa Tôn MÛ MÛ
+2523	85	Äo Hóa Tôn MÛ MÛ
+2524	85	Äo Hóa Bång Yêu
+2525	85	Äo Hóa Tôn MÛ MÛ
+2526	85	Äo Hóa Bång Yêu
+2527	85	Äo Hóa Bång Yêu
+2528	85	Äo Hóa Tôn MÛ MÛ
+2529	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2530	85	Äo Hóa Bång Yêu
+2531	85	Äo Hóa Tôn MÛ MÛ
+2532	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2533	85	Äo Hóa Bång Yêu
+2534	85	Äo Hóa Bång Yêu
+2535	95	Äo Hóa T¥n Vß½ng
+2536	95	Äo Hóa Vi­n C± KÏ H°n
+2537	95	Äo Hóa Vi­n C± KÏ H°n
+2538	95	Äo Hóa T¥n Vß½ng
+2539	95	Äo Hóa T¥n Vß½ng
+2540	95	Äo Hóa Vi­n C± KÏ H°n
+2541	95	Äo Hóa Cáp ÐÕi Bá
+2542	95	Äo Hóa T¥n Vß½ng
+2543	95	Äo Hóa Vi­n C± KÏ H°n
+2544	95	Äo Hóa Cáp ÐÕi Bá
+2545	95	Äo Hóa T¥n Vß½ng
+2546	95	Äo Hóa Cáp ÐÕi Bá
+2547	95	Äo Hóa Cáp ÐÕi Bá
+2548	95	Äo Hóa Vi­n C± KÏ H°n
+2549	95	Äo Hóa T¥n Vß½ng
+2550	95	Äo Hóa Vi­n C± KÏ H°n
+2551	95	Äo Hóa Vi­n C± KÏ H°n
+2552	95	Äo Hóa T¥n Vß½ng
+2553	95	Äo Hóa T¥n Vß½ng
+2554	95	Äo Hóa T¥n Vß½ng
+2555	95	Äo Hóa Vi­n C± KÏ H°n
+2556	95	Äo Hóa T¥n Vß½ng
+2557	95	Äo Hóa Vi­n C± KÏ H°n
+2558	95	Äo Hóa Vi­n C± KÏ H°n
+2559	95	Äo Hóa T¥n Vß½ng
+2560	95	Äo Hóa Cáp ÐÕi Bá
+2561	95	Äo Hóa Vi­n C± KÏ H°n
+2562	95	Äo Hóa T¥n Vß½ng
+2563	95	Äo Hóa Cáp ÐÕi Bá
+2564	95	Äo Hóa Vi­n C± KÏ H°n
+2565	95	Äo Hóa Vi­n C± KÏ H°n
+2566	85	Äo Hóa Tôn MÛ MÛ
+2567	95	Äo Hóa T¥n Vß½ng
+2568	85	Äo Hóa Bång Yêu
+2569	95	Äo Hóa Vi­n C± KÏ H°n
+2570	85	Äo Hóa Tôn MÛ MÛ
+2571	95	Äo Hóa T¥n Vß½ng
+2572	85	Äo Hóa Bång Yêu
+2573	95	Äo Hóa Vi­n C± KÏ H°n
+2574	85	Äo Hóa Bång Yêu
+2575	95	Äo Hóa Vi­n C± KÏ H°n
+2576	85	Äo Hóa Bång Yêu
+2577	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2578	95	Äo Hóa Cáp ÐÕi Bá
+2579	85	Äo Hóa Tôn MÛ MÛ
+2580	95	Äo Hóa T¥n Vß½ng
+2581	85	Äo Hóa Tôn MÛ MÛ
+2582	95	Äo Hóa T¥n Vß½ng
+2583	85	Äo Hóa Tôn MÛ MÛ
+2584	95	Äo Hóa T¥n Vß½ng
+2585	85	Äo Hóa Bång Yêu
+2586	95	Äo Hóa Vi­n C± KÏ H°n
+2587	85	Äo Hóa Bång Yêu
+2588	95	Äo Hóa Vi­n C± KÏ H°n
+2589	85	Äo Hóa Tôn MÛ MÛ
+2590	95	Äo Hóa T¥n Vß½ng
+2591	85	Äo Hóa Tôn MÛ MÛ
+2592	95	Äo Hóa T¥n Vß½ng
+2593	85	Äo Hóa Tôn MÛ MÛ
+2594	85	Äo Hóa Tôn MÛ MÛ
+2595	95	Äo Hóa T¥n Vß½ng
+2596	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2597	95	Äo Hóa Cáp ÐÕi Bá
+2598	85	Äo Hóa Bång Yêu
+2599	95	Äo Hóa Vi­n C± KÏ H°n
+2600	85	Äo Hóa Bång Yêu
+2601	95	Äo Hóa Vi­n C± KÏ H°n
+2602	85	Äo Hóa Bång Yêu
+2603	95	Äo Hóa Vi­n C± KÏ H°n
+2604	85	Äo Hóa Tôn MÛ MÛ
+2605	95	Äo Hóa T¥n Vß½ng
+2606	85	Äo Hóa Tôn MÛ MÛ
+2607	95	Äo Hóa T¥n Vß½ng
+2608	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2609	95	Äo Hóa Cáp ÐÕi Bá
+2610	85	Äo Hóa Tôn MÛ MÛ
+2611	95	Äo Hóa T¥n Vß½ng
+2612	85	Äo Hóa Bång Yêu
+2613	85	Äo Hóa Bång Yêu
+2614	95	Äo Hóa Vi­n C± KÏ H°n
+2615	85	Äo Hóa Tôn MÛ MÛ
+2616	95	Äo Hóa T¥n Vß½ng
+2617	85	Äo Hóa Bång Yêu
+2618	95	Äo Hóa Vi­n C± KÏ H°n
+2619	85	Äo Hóa Tôn MÛ MÛ
+2620	95	Äo Hóa T¥n Vß½ng
+2621	85	Äo Hóa Bång Yêu
+2622	95	Äo Hóa Vi­n C± KÏ H°n
+2623	85	Äo Hóa Bång Yêu
+2624	95	Äo Hóa Vi­n C± KÏ H°n
+2625	85	Äo Hóa Bång Yêu
+2626	95	Äo Hóa Vi­n C± KÏ H°n
+2627	85	Äo Hóa Bång Yêu
+2628	95	Äo Hóa Vi­n C± KÏ H°n
+2629	85	Äo Hóa Bång Yêu
+2630	95	Äo Hóa Vi­n C± KÏ H°n
+2631	85	Äo Hóa Bång Yêu
+2632	95	Äo Hóa Vi­n C± KÏ H°n
+2633	85	Äo Hóa Tôn MÛ MÛ
+2634	85	Äo Hóa Tôn MÛ MÛ
+2635	95	Äo Hóa T¥n Vß½ng
+2636	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2637	95	Äo Hóa Cáp ÐÕi Bá
+2638	95	Äo Hóa Vi­n C± KÏ H°n
+2639	95	Äo Hóa Vi­n C± KÏ H°n
+2640	95	Äo Hóa Cáp ÐÕi Bá
+2641	95	Äo Hóa Cáp ÐÕi Bá
+2654	85	Äo Hóa Bång Yêu
+2655	95	Äo Hóa Vi­n C± KÏ H°n
+2656	85	Äo Hóa Thüy Phï Ð¥u Lînh
+2657	95	Äo Hóa Cáp ÐÕi Bá
+2658	85	Äo Hóa Bång Yêu
+2659	95	Äo Hóa Vi­n C± KÏ H°n
+2700	5	Chuµt ð°ng
+2701	45	Chuµt ð°ng
+2702	55	Chuµt ð°ng
+2703	65	Chuµt ð°ng
+2704	75	Chuµt ð°ng
+2705	85	Chuµt ð°ng
+2706	95	Chuµt ð°ng
+2707	5	Chuµt Phá Phách
+2708	45	Chuµt Phá Phách
+2709	55	Chuµt Phá Phách
+2710	65	Chuµt Phá Phách
+2711	75	Chuµt Phá Phách
+2712	85	Chuµt Phá Phách
+2713	95	Chuµt Phá Phách
+2714	5	Miªt Ti¬u Manh
+2715	45	Miªt Ti¬u Manh
+2716	55	Miªt Ti¬u Manh
+2717	65	Miªt Ti¬u Manh
+2718	75	Miªt Ti¬u Manh
+2719	85	Miªt Ti¬u Manh
+2720	95	Miªt Ti¬u Manh
+2721	20	C¥u C¥u Hùng
+2722	5	MÛ Nhân Ngß
+2723	45	MÛ Nhân Ngß
+2724	55	MÛ Nhân Ngß
+2725	65	MÛ Nhân Ngß
+2726	75	MÛ Nhân Ngß
+2727	85	MÛ Nhân Ngß
+2728	95	MÛ Nhân Ngß
+2729	5	Thiên B°ng Lãm Nguy®t
+2730	45	Thiên B°ng Lãm Nguy®t
+2731	55	Thiên B°ng Lãm Nguy®t
+2732	65	Thiên B°ng Lãm Nguy®t
+2733	75	Thiên B°ng Lãm Nguy®t
+2734	85	Thiên B°ng Lãm Nguy®t
+2735	5	CØu Lê Yêu H±
+2736	45	CØu Lê Yêu H±
+2737	55	CØu Lê Yêu H±
+2738	65	CØu Lê Yêu H±
+2739	75	CØu Lê Yêu H±
+2740	85	CØu Lê Yêu H±
+2741	95	CØu Lê Yêu H±
+2742	5	Hiên Viên Thiên Phßþng
+2743	45	Hiên Viên Thiên Phßþng
+2744	55	Hiên Viên Thiên Phßþng
+2745	65	Hiên Viên Thiên Phßþng
+2746	75	Hiên Viên Thiên Phßþng
+2747	85	Hiên Viên Thiên Phßþng
+2748	95	Hiên Viên Thiên Phßþng
+2749	5	Bách Biªn Uông TØ
+2750	45	Bách Biªn Uông TØ
+2751	55	Bách Biªn Uông TØ
+2752	65	Bách Biªn Uông TØ
+2753	75	Bách Biªn Uông TØ
+2754	85	Bách Biªn Uông TØ
+2755	95	Bách Biªn Uông TØ
+2756	5	Huy«n Hoang Ð¢ng Xà
+2757	45	Huy«n Hoang Ð¢ng Xà
+2758	55	Huy«n Hoang Ð¢ng Xà
+2759	65	Huy«n Hoang Ð¢ng Xà
+2760	75	Huy«n Hoang Ð¢ng Xà
+2761	85	Huy«n Hoang Ð¢ng Xà
+2762	95	Huy«n Hoang Ð¢ng Xà
+2763	5	Oa Hoàng Long Mãng
+2764	45	Oa Hoàng Long Mãng
+2765	55	Oa Hoàng Long Mãng
+2766	65	Oa Hoàng Long Mãng
+2767	75	Oa Hoàng Long Mãng
+2768	85	Oa Hoàng Long Mãng
+2769	95	Oa Hoàng Long Mãng
+2770	95	Thái C± Long H°n
+2771	95	NgÕo Vân Thß½ng Long
+2772	95	Oa Hoàng Long Mãng
+2773	95	Huy«n Hoang Ð¢ng Xà
+2774	5	T¸nh T¸nh Mã
+2775	5	Huy«n Næ Xà
+2776	45	Huy«n Næ Xà
+2777	55	Huy«n Næ Xà
+2778	65	Huy«n Næ Xà
+2779	75	Huy«n Næ Xà
+2780	85	Huy«n Næ Xà
+2781	95	Huy«n Næ Xà
+2782	20	Tu¥n Du Ti¬u Tiên
+2783	45	Chung Ti¬u Hoa
+2784	20	Ti¬u Lãng Nhân
+2785	20	Phong Ði¬u
+2786	20	An TØ
+2787	5	Chung Ti¬u H¡c
+2788	1	Thi¬m ði®n ðiêu
+2789	1	Thi¬m ði®n ðiêu
+2790	5	Mao Mao Ngßu
+2791	45	Mao Mao Ngßu
+2792	55	Mao Mao Ngßu
+2793	65	Mao Mao Ngßu
+2794	75	Mao Mao Ngßu
+2795	85	Mao Mao Ngßu
+2796	95	Mao Mao Ngßu
+2797	5	Thánh Trang Ti¬u Lµc
+2798	45	Thánh Trang Ti¬u Lµc
+2799	55	Thánh Trang Ti¬u Lµc
+2800	65	Thánh Trang Ti¬u Lµc
+2801	75	Thánh Trang Ti¬u Lµc
+2802	85	Thánh Trang Ti¬u Lµc
+2803	95	Thánh Trang Ti¬u Lµc
+2804	5	Côn Lôn Tiên Tu¤n
+2805	45	Côn Lôn Tiên Tu¤n
+2806	55	Côn Lôn Tiên Tu¤n
+2807	65	Côn Lôn Tiên Tu¤n
+2808	75	Côn Lôn Tiên Tu¤n
+2809	85	Côn Lôn Tiên Tu¤n
+2810	95	Côn Lôn Tiên Tu¤n
+2811	5	Thái Thß½ng Long TØ
+2812	45	Thái Thß½ng Long TØ
+2813	55	Thái Thß½ng Long TØ
+2814	65	Thái Thß½ng Long TØ
+2815	75	Thái Thß½ng Long TØ
+2816	85	Thái Thß½ng Long TØ
+2817	95	Thái Thß½ng Long TØ
+2818	5	BÕo T¦u Hùng Miêu
+2819	45	BÕo T¦u Hùng Miêu
+2820	55	BÕo T¦u Hùng Miêu
+2821	65	BÕo T¦u Hùng Miêu
+2822	75	BÕo T¦u Hùng Miêu
+2823	85	BÕo T¦u Hùng Miêu
+2824	95	BÕo T¦u Hùng Miêu
+2825	5	Minh Âm Hoa Linh
+2826	45	Minh Âm Hoa Linh
+2827	55	Minh Âm Hoa Linh
+2828	65	Minh Âm Hoa Linh
+2829	75	Minh Âm Hoa Linh
+2830	85	Minh Âm Hoa Linh
+2831	95	Minh Âm Hoa Linh
+2832	20	Ti¬u D¸
+2833	5	Ti¬u Mã Ca
+2834	45	Ti¬u Mã Ca
+2835	55	Ti¬u Mã Ca
+2836	65	Ti¬u Mã Ca
+2837	75	Ti¬u Mã Ca
+2838	85	Ti¬u Mã Ca
+2839	95	Ti¬u Mã Ca
+2840	5	Bách Chiªn Kim Cang
+2841	45	Bách Chiªn Kim Cang
+2842	55	Bách Chiªn Kim Cang
+2843	65	Bách Chiªn Kim Cang
+2844	75	Bách Chiªn Kim Cang
+2845	85	Bách Chiªn Kim Cang
+2846	95	Bách Chiªn Kim Cang
+2847	5	Thanh Dß½ng
+2848	45	Thanh Dß½ng
+2849	55	Thanh Dß½ng
+2850	65	Thanh Dß½ng
+2851	75	Thanh Dß½ng
+2852	85	Thanh Dß½ng
+2853	95	Thanh Dß½ng
+2854	5	Lînh Thiên ÐÕi Thánh
+2855	45	Lînh Thiên ÐÕi Thánh
+2856	55	Lînh Thiên ÐÕi Thánh
+2857	65	Lînh Thiên ÐÕi Thánh
+2858	75	Lînh Thiên ÐÕi Thánh
+2859	85	Lînh Thiên ÐÕi Thánh
+2860	95	Lînh Thiên ÐÕi Thánh
+2861	5	Kim Ð°ng Ng÷c Næ
+2862	45	Kim Ð°ng Ng÷c Næ
+2863	55	Kim Ð°ng Ng÷c Næ
+2864	65	Kim Ð°ng Ng÷c Næ
+2865	75	Kim Ð°ng Ng÷c Næ
+2866	85	Kim Ð°ng Ng÷c Næ
+2867	95	Kim Ð°ng Ng÷c Næ
+2931	5	Th¤t Xäo Ly Miêu
+2932	45	Th¤t Xäo Ly Miêu
+2933	55	Th¤t Xäo Ly Miêu
+2934	65	Th¤t Xäo Ly Miêu
+2935	75	Th¤t Xäo Ly Miêu
+2936	85	Th¤t Xäo Ly Miêu
+2937	95	Th¤t Xäo Ly Miêu
+2938	5	G¤u Ham Ch½i
+2939	45	G¤u Ham Ch½i
+2940	55	G¤u Ham Ch½i
+2941	65	G¤u Ham Ch½i
+2942	75	G¤u Ham Ch½i
+2943	85	G¤u Ham Ch½i
+2944	95	G¤u Ham Ch½i
+2945	5	Nguyên Nguyên
+2946	5	Công Chúa Nhân Ngß
+2947	45	Công Chúa Nhân Ngß
+2948	55	Công Chúa Nhân Ngß
+2949	65	Công Chúa Nhân Ngß
+2950	75	Công Chúa Nhân Ngß
+2951	85	Công Chúa Nhân Ngß
+2952	95	Công Chúa Nhân Ngß
+2953	20	Bàng Giäi Biªn D¸
+2954	5	Chiªn Tu La
+2955	45	Chiªn Tu La
+2956	55	Chiªn Tu La
+2957	65	Chiªn Tu La
+2958	75	Chiªn Tu La
+2959	85	Chiªn Tu La
+2960	95	Chiªn Tu La
+2961	5	Tà Linh
+2962	45	Tà Linh
+2963	55	Tà Linh
+2964	65	Tà Linh
+2965	75	Tà Linh
+2966	85	Tà Linh
+2967	95	Tà Linh
+2968	5	Yêu H° Kiªm Quân
+2969	45	Yêu H° Kiªm Quân
+2970	55	Yêu H° Kiªm Quân
+2971	65	Yêu H° Kiªm Quân
+2972	75	Yêu H° Kiªm Quân
+2973	85	Yêu H° Kiªm Quân
+2974	95	Yêu H° Kiªm Quân
+2975	5	CØu Tiêu Chiªn Long
+2976	45	CØu Tiêu Chiªn Long
+2977	55	CØu Tiêu Chiªn Long
+2978	65	CØu Tiêu Chiªn Long
+2979	75	CØu Tiêu Chiªn Long
+2980	85	CØu Tiêu Chiªn Long
+2981	95	CØu Tiêu Chiªn Long
+2982	5	Ð°ng Tâm Uyên ¿½ng
+2983	45	Ð°ng Tâm Uyên ¿½ng
+2984	55	Ð°ng Tâm Uyên ¿½ng
+2985	65	Ð°ng Tâm Uyên ¿½ng
+2986	75	Ð°ng Tâm Uyên ¿½ng
+2987	85	Ð°ng Tâm Uyên ¿½ng
+2988	95	Ð°ng Tâm Uyên ¿½ng
+2989	5	Thiªt Phiªn Công chúa
+2990	45	Thiªt Phiªn Công chúa
+2991	55	Thiªt Phiªn Công chúa
+2992	65	Thiªt Phiªn Công chúa
+2993	75	Thiªt Phiªn Công chúa
+2994	85	Thiªt Phiªn Công chúa
+2995	95	Thiªt Phiªn Công chúa
+2996	20	Tùng ThØ
+2997	5	Thông Tí Viên H¥u
+2998	45	Thông Tí Viên H¥u
+2999	55	Thông Tí Viên H¥u
+3000	65	Thông Tí Viên H¥u
+3001	75	Thông Tí Viên H¥u
+3002	85	Thông Tí Viên H¥u
+3003	95	Thông Tí Viên H¥u
+3004	5	Cá Vui Vë
+3005	45	Cá Vui Vë
+3006	55	Cá Vui Vë
+3007	65	Cá Vui Vë
+3008	75	Cá Vui Vë
+3009	85	Cá Vui Vë
+3010	95	Cá Vui Vë
+3011	5	MÛ H¥u Vß½ng
+3012	45	MÛ H¥u Vß½ng
+3013	55	MÛ H¥u Vß½ng
+3014	65	MÛ H¥u Vß½ng
+3015	75	MÛ H¥u Vß½ng
+3016	85	MÛ H¥u Vß½ng
+3017	95	MÛ H¥u Vß½ng
+3018	5	T« Thiên ÐÕi Thánh
+3019	45	T« Thiên ÐÕi Thánh
+3020	55	T« Thiên ÐÕi Thánh
+3021	65	T« Thiên ÐÕi Thánh
+3022	75	T« Thiên ÐÕi Thánh
+3023	85	T« Thiên ÐÕi Thánh
+3024	95	T« Thiên ÐÕi Thánh
+3025	5	Trî Nguy®t Linh
+3026	45	Trî Nguy®t Linh
+3027	55	Trî Nguy®t Linh
+3028	65	Trî Nguy®t Linh
+3029	75	Trî Nguy®t Linh
+3030	85	Trî Nguy®t Linh
+3031	95	Trî Nguy®t Linh
+3032	5	Nh¸ Lang Chân Quân
+3033	45	Nh¸ Lang Chân Quân
+3034	55	Nh¸ Lang Chân Quân
+3035	65	Nh¸ Lang Chân Quân
+3036	75	Nh¸ Lang Chân Quân
+3037	85	Nh¸ Lang Chân Quân
+3038	95	Nh¸ Lang Chân Quân
+3039	20	Ðông TØ
+3040	5	Long Tam Thái TØ
+3041	45	Long Tam Thái TØ
+3042	55	Long Tam Thái TØ
+3043	65	Long Tam Thái TØ
+3044	75	Long Tam Thái TØ
+3045	85	Long Tam Thái TØ
+3046	95	Long Tam Thái TØ
+3050	5	H° Ti¬u Tiên
+3051	45	H° Ti¬u Tiên
+3052	55	H° Ti¬u Tiên
+3053	65	H° Ti¬u Tiên
+3054	75	H° Ti¬u Tiên
+3055	85	H° Ti¬u Tiên
+3056	95	H° Ti¬u Tiên
+3057	5	Manh Bäo Trß
+3058	45	Manh Bäo Trß
+3059	55	Manh Bäo Trß
+3060	65	Manh Bäo Trß
+3061	75	Manh Bäo Trß
+3062	85	Manh Bäo Trß
+3063	95	Manh Bäo Trß
+3064	95	Oa Hoàng Long Quân
+3065	5	Linh M¸ Nhi
+3066	45	Linh M¸ Nhi
+3067	55	Linh M¸ Nhi
+3068	65	Linh M¸ Nhi
+3069	75	Linh M¸ Nhi
+3070	85	Linh M¸ Nhi
+3071	95	Linh M¸ Nhi
+3072	95	Oa Hoàng Long Ðª
+3073	20	Khôi L²i Lang
+3074	5	Bích LÕc Thanh Loan
+3075	45	Bích LÕc Thanh Loan
+3076	55	Bích LÕc Thanh Loan
+3077	65	Bích LÕc Thanh Loan
+3078	75	Bích LÕc Thanh Loan
+3079	85	Bích LÕc Thanh Loan
+3080	95	Bích LÕc Thanh Loan
+3081	5	Thiên M®nh Huy«n Phßþng
+3082	45	Thiên M®nh Huy«n Phßþng
+3083	55	Thiên M®nh Huy«n Phßþng
+3084	65	Thiên M®nh Huy«n Phßþng
+3085	75	Thiên M®nh Huy«n Phßþng
+3086	85	Thiên M®nh Huy«n Phßþng
+3087	95	Thiên M®nh Huy«n Phßþng
+3088	5	Di®u ThØ Ti¬u Tiên
+3089	45	Di®u ThØ Ti¬u Tiên
+3090	55	Di®u ThØ Ti¬u Tiên
+3091	65	Di®u ThØ Ti¬u Tiên
+3092	75	Di®u ThØ Ti¬u Tiên
+3093	85	Di®u ThØ Ti¬u Tiên
+3094	95	Di®u ThØ Ti¬u Tiên
+3095	5	Th¥n C½ Ti¬u TØ
+3096	45	Th¥n C½ Ti¬u TØ
+3097	55	Th¥n C½ Ti¬u TØ
+3098	65	Th¥n C½ Ti¬u TØ
+3099	75	Th¥n C½ Ti¬u TØ
+3100	85	Th¥n C½ Ti¬u TØ
+3101	95	Th¥n C½ Ti¬u TØ

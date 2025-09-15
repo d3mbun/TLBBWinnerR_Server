@@ -1,0 +1,8 @@
+[System]
+navmapname=gusufb_1.nav
+monsterfile=gusufb_1_monster.ini
+patrolpoint=gusufb_1_patrolpoint.ini
+growpointdata=gusufb_1_growpoint.txt
+growpointsetup=gusufb_1_growpointsetup.txt
+eventfile=gusufb_1_area.ini
+platformfile=gusufb_1_platform.ini

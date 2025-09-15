@@ -1,0 +1,49 @@
+--ÐþÎäµºBOSS°ó¶¨
+
+--½Å±¾±àºÅ
+x501999_g_ScriptId	= 501999
+
+--**********************************
+--Monster Timer
+--**********************************
+function x501999_OnCharacterTimer( sceneId, objId, dataId, uTime )
+	--È«Çò¹«¸æ
+	local	nam_mob	= GetName( sceneId, objId )
+	if nam_mob ~= nil then
+		str	= format( "#cff99ccÁc thú trên#G Huy«n Vû Ðäo #G%s#cff99cc ðã xu¤t hi®n, xin các v¸ ðÕi hi®p mau chóng ðªn Huy«n Vû Ðäo thu phøc, tránh gây hÕi cho bách tính.", nam_mob )
+		AddGlobalCountNews( sceneId, str )
+	end
+
+	--HuÖ böÊ±ÖÓ
+	SetCharacterTimer( sceneId, objId, 0 )
+end
+
+--**********************************
+--ËÀÍöÊÂ¼þ
+--**********************************
+function x501999_OnDie( sceneId, objId, killerId )
+
+	--È«Çò¹«¸æ
+	local	nam_mob	= GetName( sceneId, objId )
+	local	nam_ply	= GetName( sceneId, killerId )
+	
+	--É±ËÀ¹ÖÎïtoÕ ðµ Ðúng³èÎïÔmµt ñÈ¡ÆäÖ÷ÈËtoÕ ðµ Tên....
+	local playerID = killerId
+	local objType = GetCharacterType( sceneId, killerId )
+	if objType == 3 then
+		playerID = GetPetCreator( sceneId, killerId )
+		nam_ply = GetName( sceneId, playerID )
+	end
+	
+	--Èç¹ûÍæ¼Ò×é¶ÓÁËÔmµt ñÈ¡¶Ó³¤toÕ ðµ Tên....
+	local leaderID = GetTeamLeader( sceneId, playerID )
+	if leaderID ~= -1 then
+		nam_ply = GetName( sceneId, leaderID )
+	end
+	
+	if nam_mob ~= nil and nam_ply ~= nil then
+		str	= format( "#{_INFOUSR%s}#cff99cc cùng ngß¶i trong ðµi ngû träi qua 1 tr§n chiªn gian kh±, #G%s#cff99cccu¯i cûng cûng b¸ ðánh bÕi.", nam_ply, nam_mob )
+		AddGlobalCountNews( sceneId, str )
+	end
+	
+end

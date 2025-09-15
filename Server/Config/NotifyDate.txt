@@ -1,0 +1,40 @@
+INT	INT	INT	STRING
+index	BeginDate	EndDate	info$1$
+#<0>index	thÑ tñ		
+#<1>BeginDate	¿ªÊ¼Ê±¼ä£¨Àý£º20061204£©		
+#<2>EndDate	½áÊøÊ±¼ä£¨Àý£º20061204£©		
+#<3>info	nµi dung		
+#			
+0	20121010	20121010	Chào m×ng ngày giäi phóng thü ðô 10/10
+1	20121020	20121020	Chào m×ng ngày Phø næ Vi®t Nam, chúc các b¢ng hæu næ ngày càng xinh ð©p h½n
+2	20121101	20121101	Hôm nay là ngày l­ VÕn Thánh cüa Phß½ng Tây, Thiên Long Bát Bµ chúc bÕn ngày l­ vui vë
+3	20121120	20121120	Chào m×ng ngày Nhà giáo Vi®t Nam, Thiên Long Bát Bµ chúc các quý th¥y cô ðßþc nhi«u sÑc khoë
+4	20121122	20121122	Hôm nay là ngày l­ TÕ ½n cüa Phß½ng Tây, Thiên Long Bát Bµ chúc bÕn có mµt ngày l­ vui vë
+5	20121222	20121222	Chào m×ng ngày thành l§p Quân ðµi Nhân dân Vi®t Nam
+6	20111224	20111224	Thiên Long Bát Bµ kính chúc quý b¢ng hæu ðêm Giáng Sinh an lành, nhi«u sÑc khoë
+7	20111210	20111225	Nhân d¸p Giáng Sinh, b±n môn kính chúc t¤t cä các b¢ng hæu mµt mùa Giáng Sinh yên bình và hÕnh phúc cùng ngß¶i thân
+8	20120101	20120101	Nåm m¾i b¡t ð¥u, vÕn v§t ð±i m¾i, Thiên Long Bát Bµ chúc quý b¢ng hæu trong nåm m¾i ß¾c gì ðßþc n¤y, vÕn sñ nhß ý
+9	20120206	20120206	Ðêm nay là là ðêm giao th×a, ðèn hoa rñc rÞ, vÕn gia ðoàn viên. Thiên Long Bát Bµ chúc các b¢ng hæu có mµt ðêm giao th×a t¯t lành
+10	20120207	20120207	Nhân d¸p nåm m¾i, chúc quý b¢ng hæu mµt nåm m¾i an khang, th¸nh vßþng, tràn ng§p ni«m vui và hÕnh phúc, phát tài phát lµc, su¯t ð¶i bình an
+11	20120214	20120214	Hôm nay là ngày l­ tình nhân cüa Phß½ng Tây. Mong nhæng ngß¶i yêu nhau trong thiên hÕ s¨ ðßþc s¯ng bên nhau, Thiên Long Bát Bµ chúc bÕn mãi mãi hÕnh phúc
+12	20120203	20120203	Chào m×ng ngày thành l§p Ðäng Cµng Sän Vi®t Nam
+13	20120227	20120227	Chào m×ng ngày Th¥y thu¯c Vi®t Nam
+14	20120308	20120308	Chào m×ng ngày Qu¯c Tª Phø Næ
+15	20120415	20120415	M×ng ngày Gi² T± Hùng Vß½ng
+16	20120430	20120430	Chào m×ng ngày Giäi phóng Mi«n Nam 30/04
+17	20120501	20120501	Chào m×ng ngày Qu¯c Tª Lao Ðµng 01/05
+18	20120601	20120601	Hôm nay là ngày Qu¯c tª thiªu nhi, Thiên Long Bát Bµ chúc các b¢ng hæu mãi mãi mang trong mình trái tim cüa trë th½
+19	20120622	20120622	Hôm nay là ngày l­ giành cho các ông b¯, Thiên Long Bát Bµ nh¡c bÕn ð×ng quên gØi ðªn phø thân cüa mình l¶i thåm höi nhân d¸p này
+20	20120727	20120727	Chào m×ng ngày Thß½ng binh Li®t sî Vi®t Nam
+21	20120815	20120815	Nhân ngày l­ Vu Lan, Thiên Long Bát Bµ nh¡c bÕn ð×ng quên gØi ðªn mçu thân cüa mình l¶i chúc t¯t ð©p nh¤t
+22	20120902	20120902	Chào m×ng ngày Qu¯c khánh Vi®t Nam 02/09
+23	20120914	20120914	Hoa ð©p trång tròn, tªt Trung thu ðªn r°i, Thiên Long Bát Bµ chúc bÕn MÛ mÛ mãn mãn, ðßþc ðoàn tø cùng gia ðình
+24	20121101	20121101	Hôm nay là ngày l­ VÕn Thánh cüa Phß½ng Tây, Thiên Long Bát Bµ chúc bÕn ngày l­ vui vë
+25	20121122	20121122	Hôm nay là ngày l­ TÕ ½n cüa Phß½ng Tây, Thiên Long Bát Bµ chúc bÕn có mµt ngày l­ vui vë
+26	20121224	20121224	Hôm nay là mµt ðêm bình an, Thiên Long Bát Bµ chúc bÕn vui vë
+27	20111225	20111225	Hôm nay là ngày l­ giáng sinh, trong th¶i kh¡c Thánh ra ð¶i trong tuyªt tr¡ng bay bay, ta chúc ngß½i bình an
+28	20120311	20120410	#{TSJH_090224_1}
+29	20120325	20120405	#{TWYRJ_090217_7}
+30	20120408	20120512	#{TLXQC_090306_1}
+31	20120709	20120816	#{TLXQC_090629_1}
+32	20120721	20120829	#{H1N1_090718_1}

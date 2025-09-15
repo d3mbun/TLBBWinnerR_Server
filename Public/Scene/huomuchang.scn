@@ -1,0 +1,10 @@
+[System]
+navmapname=huomuchang.nav
+monsterfile=huomuchang_monster.ini
+busfile=huomuchang_bus.ini
+patrolpoint=huomuchang_patrolpoint.ini
+eventfile=huomuchang_area.ini
+growpointdata=huomuchang_growpoint.txt
+growpointsetup=huomuchang_growpointsetup.txt
+platformfile=huomuchang_platform.ini
+stallinfodata=huomuchang_StallInfo.stall

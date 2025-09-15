@@ -1,0 +1,13 @@
+INT	INT	STRING
+index	week	info$1$
+#<0>index	Ë÷Òý	
+#<1>week	ÐÇÆÚ£¨0-6£¬ÖÜÈÕ-ÖÜÁù£©	
+#<2>info	ÏûÏ¢ÄÚÈÝ	
+#		
+0	0	#PHôm nay là ngày Tào V§n, kéo dài ðªn hªt #Y24: 00#P ngß¶i ch½i s¨ tiªn hành v§n chuy¬n lß½ng thäo và thu lþi ích g¤p bµi t× hoÕt ðµng này. Xin hãy ðªn#GLÕc Dß½ng (228,175) #YTào V§n sÑ Tri®u Minh Thành #Pho£c #GTô Châu (234,78) #YTào V§n sÑ Løc Sî Tranh#P ho£c#G ÐÕi Lý (54,192) #YTào V§n sÑ Vß½ng Nhßþc Vû#P b¡t ð¥u Tào V§n.
+1	6	#PHôm nay là ngày Thß½ng Nhân, nhæng ngß¶i ch½i trong Bang Hµi khi ðã hoàn thành nhi®m vø "Thß½ng nhân" s¨ giành ðßþc nhæng lþi ích l¾n . Xin hãy ðªn #GBang hµi trong thành th¸ (149,56) #YTi«n Vî Nh¤t#P b¡t ð¥u ði thß½ng nhân.
+2	4	#PLu§n kiªm Hoa S½n l¥n ð¥u tiên s¨ b¡t ð¥u vào lúc #Y15: 00#P Xin m¶i ð® tØ cüa các môn phái hãy ðªn #GTô Châu (193,138) #YTô Kiªm Lînh#P báo danh tham gia.
+3	0	#PLu§n kiªm Hoa S½n l¥n ð¥u tiên s¨ b¡t ð¥u vào lúc #Y15: 00#P Xin m¶i ð® tØ cüa các môn phái hãy ðªn #GTô Châu (193,138) #YTô Kiªm Lînh#P báo danh tham gia.
+4	3	#PÐÕi hµi tÖ võ l¥n ð¥u tiên s¨ b¡t ð¥u vào lúc#Y15: 35#Pxin m¶i các v¸ anh hùng ðªn #GTô Châu (173,130) #YTùy Báo Minh#P báo danh tham gia.
+5	6	#PÐÕi hµi tÖ võ l¥n ð¥u tiên s¨ b¡t ð¥u vào lúc#Y15: 35#Pxin m¶i các v¸ anh hùng ðªn #GTô Châu (173,130) #YTùy Báo Minh#P báo danh tham gia.
+6	6	#PVi ti­u #YKính H° Thüy Phï Ð¥u Lînh#P hoÕt ðµng di­n ra vào bu±i chi«u lúc #Y13:00#P b¡t ð¥u t¾i #Y22:00#P kªt thúc. Nhi®m vø c¥n #Y3 ngß¶i#P ðã l§p thành t± ðµi t¾i#G Kính H° (199,54)#P tham gia, m²i ngß¶i tham gia c¥n #Y cái#W Ngân bì l®nh ti­n#P.#W Nhân bì l®nh ti­n#P có th¬ ðªn bang hµi thành th¸ tìm #YVõ sß quan viên Võ ÐÕi Uy #Plînh.

@@ -1,0 +1,14 @@
+INT	STRING
+ID	CHAT$1$
+1000	Ha ha
+1001	Xem ta xØ lý ngß½i
+2000	You must be cheating.
+2001	Ð×ng có ch÷c ðªn ta
+2002	I'm very angry!
+2003	Cháy cháy cháy
+3000	Ái..
+3001	Th§t th¤t bÕi!
+3002	T±n thß½ng tñ tr÷ng, bö ði
+4000	Kha kha
+4001	Khà khà
+4002	Khà khà khà

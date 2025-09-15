@@ -1,0 +1,5 @@
+[System]
+navmapname=taohuayuan_pet.nav
+monsterfile=taohuayuan_pet_monster.ini
+patrolpoint=taohuayuan_pet_patrolpoint.ini
+eventfile=taohuayuan_pet_area.ini

@@ -1,0 +1,10 @@
+# Bo qua thu muc
+DataBackup/GMCommand/
+Server/Log/
+Server/Debug/
+Server/Var/DuaTop/
+Server/Var/GiftCode/Creator/
+Server/Var/GiftCode/GiftCodes/
+Server/Var/GiftCode/Users/
+Server/Var/LogKNB/
+Server/Var/QuaTangBaoThach/

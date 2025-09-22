@@ -10,6 +10,8 @@ cd /home/tlbb/Server
 mv Debug $TEMP_DIR
 mkdir Debug
 
+touch Debug/.gitkeep
+
 tar -zcvf $LOGS_DIR/Debug.$(date +%F_%H-%M-%S).tar.gz $TEMP_DIR
 rm -rf $TEMP_DIR
 

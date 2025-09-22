@@ -10,6 +10,8 @@ cd /home/tlbb/Server
 mv Log $TEMP_DIR
 mkdir Log
 
+touch Log/.gitkeep
+
 tar -zcvf $LOGS_DIR/Log.$(date +%F_%H-%M-%S).tar.gz $TEMP_DIR
 rm -rf $TEMP_DIR
 

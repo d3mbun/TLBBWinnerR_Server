@@ -700,7 +700,6 @@ x045060_g_ShopItem[0303] = {
 	{ItemID = 33000011, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	{ItemID = 33004639, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	{ItemID = 33004709, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
-	{ItemID = 33000012, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	{ItemID = 33000013, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	{ItemID = 33000014, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	{ItemID = 33000015, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
@@ -716,6 +715,13 @@ x045060_g_ShopItem[0303] = {
 	{ItemID = 33000024, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	{ItemID = 33005489, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	{ItemID = 33005559, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
+	{ItemID = 33004899, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
+	{ItemID = 33000025, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
+	{ItemID = 33000012, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
+	{ItemID = 33000026, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
+	{ItemID = 33000029, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
+	{ItemID = 33000028, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
+	{ItemID = 33000027, Num = 1, Sale = 0, Price = 16, DC = 1, NL = 0, NV = 0, Time = 0},
 	
 }
 x045060_g_ShopDetail[0304] = {"Bí Kíp Trân Thú",1,6}

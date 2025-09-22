@@ -1,9 +1,4 @@
-0-@Name=0:9+INFO
-0-@Name=0:9+INFO
-0-@Name=0:9+INFO
-0-@Name=0:9+INFO
-0-@Name=0:9+INFO
-0-@Name=0:9+INFO
+1010000001-DÕVû=95:9+2025-09-23_00-35-33
 0-@Name=0:9+INFO
 0-@Name=0:9+INFO
 0-@Name=0:9+INFO

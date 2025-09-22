@@ -150,7 +150,7 @@ INT	INT	STRING
 474	75	Hoà Trinh Tiên B°ng
 475	85	Hoà Trinh Tiên B°ng
 476	95	Hoà Trinh Tiên B°ng
-477	95	D¸ Biªn Thú H°n
+
 478	95	Thanh Long
 479	95	Huy«n Vû
 480	95	BÕch H±
@@ -162,6 +162,17 @@ INT	INT	STRING
 486	95	Kim Ô
 487	95	Lµc Thøc
 488	95	Cùng KÏ Thú H°n
+489	5	Thiên Phong Chiªn HÕt
+490	45	Thiên Phong Chiªn HÕt
+491	55	Thiên Phong Chiªn HÕt
+492	65	Thiên Phong Chiªn HÕt
+493	75	Thiên Phong Chiªn HÕt
+494	85	Thiên Phong Chiªn HÕt
+495	95	Thiên Phong Chiªn HÕt
+496	95	Thiên Phong Vß½ng HÕt
+497	95	Bình Thiên ÐÕi Thánh
+498	95	Bình Thiên ÐÕi Thánh Ðãng Phong Vân
+499	95	Thñc C¯t Minh Xà
 540	5	Phá Tr§n Tß½ng H°n
 541	45	Phá Tr§n Tß½ng H°n
 542	55	Phá Tr§n Tß½ng H°n
@@ -184,7 +195,8 @@ INT	INT	STRING
 559	75	Thiên Cñc Th¥n Quân
 560	85	Thiên Cñc Th¥n Quân
 561	95	Thiên Cñc Th¥n Quân
-
+562	95	Linh Vu Nguy®t Th¥n
+563	95	Linh Vu Nguy®t Th¥n S½ Kiªn
 600	65	Thìn
 601	5	Long Miêu
 602	45	Cß¶ng Long Miêu

@@ -27,7 +27,7 @@ x045501_g_petList[33000008] = {type=1, dataId=4451, level=1}
 x045501_g_petList[33000009] = {type=1, dataId=4601, level=1}
 x045501_g_petList[33000010] = {type=1, dataId=4619, level=1}
 x045501_g_petList[33000011] = {type=1, dataId=4629, level=1}
-x045501_g_petList[33000012] = {type=1, dataId=4770, level=1}
+x045501_g_petList[33000012] = {type=1, dataId=4979, level=1}
 x045501_g_petList[33000013] = {type=1, dataId=4789, level=1}
 x045501_g_petList[33000014] = {type=1, dataId=4799, level=1}
 x045501_g_petList[33000015] = {type=1, dataId=4809, level=1}
@@ -40,6 +40,11 @@ x045501_g_petList[33000021] = {type=1, dataId=4869, level=1}
 x045501_g_petList[33000022] = {type=1, dataId=4879, level=1}
 x045501_g_petList[33000023] = {type=1, dataId=4889, level=1}
 x045501_g_petList[33000024] = {type=1, dataId=5471, level=1}
+x045501_g_petList[33000025] = {type=1, dataId=4961, level=1}
+x045501_g_petList[33000026] = {type=1, dataId=4981, level=1}
+x045501_g_petList[33000027] = {type=1, dataId=5631, level=1}
+x045501_g_petList[33000028] = {type=1, dataId=5629, level=1}
+x045501_g_petList[33000029] = {type=1, dataId=4999, level=1}
 
 x045501_g_petList[33002559] = {type=2, dataIds={}, level=1}
 x045501_g_petList[33002559].dataIds[1] = {dataId=2559,minHumanLevel=05,maxHumanLevel=44}
@@ -145,6 +150,15 @@ x045501_g_petList[33004709].dataIds[4] = {dataId=4739,minHumanLevel=65,maxHumanL
 x045501_g_petList[33004709].dataIds[5] = {dataId=4749,minHumanLevel=75,maxHumanLevel=84}
 x045501_g_petList[33004709].dataIds[6] = {dataId=4759,minHumanLevel=85,maxHumanLevel=94}
 x045501_g_petList[33004709].dataIds[7] = {dataId=4769,minHumanLevel=95,maxHumanLevel=119}
+
+x045501_g_petList[33004899] = {type=2, dataIds={}, level=1}
+x045501_g_petList[33004899].dataIds[1] = {dataId=4899,minHumanLevel=05,maxHumanLevel=44}
+x045501_g_petList[33004899].dataIds[2] = {dataId=4909,minHumanLevel=45,maxHumanLevel=54}
+x045501_g_petList[33004899].dataIds[3] = {dataId=4919,minHumanLevel=55,maxHumanLevel=64}
+x045501_g_petList[33004899].dataIds[4] = {dataId=4929,minHumanLevel=65,maxHumanLevel=74}
+x045501_g_petList[33004899].dataIds[5] = {dataId=4939,minHumanLevel=75,maxHumanLevel=84}
+x045501_g_petList[33004899].dataIds[6] = {dataId=4949,minHumanLevel=85,maxHumanLevel=94}
+x045501_g_petList[33004899].dataIds[7] = {dataId=4959,minHumanLevel=95,maxHumanLevel=119}
 
 x045501_g_petList[33005409] = {type=2, dataIds={}, level=1}
 x045501_g_petList[33005409].dataIds[1] = {dataId=5409,minHumanLevel=05,maxHumanLevel=44}
